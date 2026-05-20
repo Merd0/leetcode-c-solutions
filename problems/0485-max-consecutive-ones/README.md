@@ -1,15 +1,20 @@
 # #0485 - Max Consecutive Ones
 
+## LeetCode Style Info
+
+- Status: Solved
 - Difficulty: Easy
+- Topics: Array, Counting
+- Companies: Not tracked in this repo
+- Hint: A zero ends the current run of ones; after that, start counting again.
 - Solved: 2026-05-20
 - LeetCode: https://leetcode.com/problems/max-consecutive-ones/
-- Topics: Array, Counting
 
-## Problem
+## Problem Statement
 
-TR: Sadece `0` ve `1` iceren dizide arka arkaya gelen en uzun `1` serisinin uzunlugunu bul.
+TR: Binary bir dizi `nums` verilir. Dizide arka arkaya gelen maksimum `1` sayisini dondur.
 
-EN: Given a binary array, find the longest consecutive run of `1` values.
+EN: Given a binary array `nums`, return the maximum number of consecutive `1` values in the array.
 
 ## Starter Code (C)
 
@@ -26,22 +31,41 @@ int findMaxConsecutiveOnes(int* nums, int numsSize) {
 
 ## Return
 
-TR: En uzun ardisik `1` serisinin uzunlugu.
+TR: Arka arkaya gelen en uzun `1` serisinin uzunlugu.
 
-EN: Length of the longest consecutive `1` run.
+EN: Return the length of the longest consecutive run of `1` values.
 
-## Example
+## Examples
+
+### Example 1
 
 ```text
 Input: nums = [1,1,0,1,1,1]
 Output: 3
+Explanation:
+The first two values are consecutive 1s, and the last three values are also consecutive 1s.
+The longest run has length 3.
 ```
+
+### Example 2
+
+```text
+Input: nums = [1,0,1,1,0,1]
+Output: 2
+Explanation:
+The longest consecutive run is [1,1].
+```
+
+## Constraints
+
+- `1 <= nums.length <= 10^5`
+- `nums[i]` is either `0` or `1`.
 
 ## Approach
 
-TR: `1` geldikce mevcut seriyi arttir. `0` gelince seri sifirlanir.
+TR: `currentI` mevcut `1` serisini sayar. `0` gelince seri biter ve `currentI` sifirlanir. `maxI`, simdiye kadar gorulen en uzun seriyi tutar.
 
-EN: Increase the current streak on `1`; reset it on `0`.
+EN: `currentI` counts the current run of `1` values. When a `0` appears, the run ends and `currentI` resets. `maxI` stores the longest run seen so far.
 
 ## Solution
 

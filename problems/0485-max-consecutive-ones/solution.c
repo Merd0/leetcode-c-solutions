@@ -1,22 +1,19 @@
 int findMaxConsecutiveOnes(int *nums, int numsSize)
 {
-    /*
-     * Count current streak of 1 values.
-     * Reset the streak when a 0 appears.
-     */
-    int current = 0;
-    int best = 0;
+    int maxI = 0;
+    int currentI = 0;
 
     for (int i = 0; i < numsSize; ++i) {
         if (nums[i] == 1) {
-            ++current;
-            if (current > best) {
-                best = current;
+            ++currentI;
+
+            if (currentI > maxI) {
+                maxI = currentI;
             }
         } else {
-            current = 0;
+            currentI = 0;
         }
     }
 
-    return best;
+    return maxI;
 }

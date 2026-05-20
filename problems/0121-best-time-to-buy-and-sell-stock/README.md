@@ -1,15 +1,20 @@
 # #0121 - Best Time to Buy and Sell Stock
 
+## LeetCode Style Info
+
+- Status: Solved
 - Difficulty: Easy
+- Topics: Array, Greedy
+- Companies: Not tracked in this repo
+- Hint: For each possible sell day, the best buy day is the cheapest price before it.
 - Solved: 2026-05-20
 - LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-- Topics: Array, Greedy
 
-## Problem
+## Problem Statement
 
-TR: Her gun icin hisse fiyati verilir. Bir kez alis ve daha sonraki bir gunde bir kez satis yaparak maksimum kari bul.
+TR: `prices[i]`, i. gundeki hisse fiyatidir. Bir gun alis ve daha sonraki farkli bir gunde satis yaparak elde edilebilecek maksimum kari bul.
 
-EN: Given daily stock prices, choose one buy day and one later sell day to maximize profit.
+EN: `prices[i]` is the stock price on day `i`. Choose one day to buy and one later day to sell, then return the maximum profit.
 
 ## Starter Code (C)
 
@@ -21,28 +26,45 @@ int maxProfit(int* prices, int pricesSize) {
 
 ## Parameters
 
-- `prices`: Price list by day.
+- `prices`: Stock price list by day.
 - `pricesSize`: Number of days.
 
 ## Return
 
-TR: Yapilabilecek en yuksek kar. Kar yoksa `0`.
+TR: Elde edilebilecek maksimum kar. Karli islem yoksa `0`.
 
-EN: Maximum possible profit, or `0` if no profitable trade exists.
+EN: Return the maximum profit. If no profitable transaction exists, return `0`.
 
-## Example
+## Examples
+
+### Example 1
 
 ```text
 Input: prices = [7,1,5,3,6,4]
 Output: 5
-Reason: Buy at 1 and sell at 6.
+Explanation:
+Buy at price 1 and sell later at price 6, so profit is 5.
 ```
+
+### Example 2
+
+```text
+Input: prices = [7,6,4,3,1]
+Output: 0
+Explanation:
+The price keeps falling, so no profitable transaction exists.
+```
+
+## Constraints
+
+- `1 <= prices.length <= 10^5`
+- `0 <= prices[i] <= 10^4`
 
 ## Approach
 
-TR: O gune kadar gorulen en dusuk fiyati sakla. Bugun satarsan kar ne olur hesapla ve en iyiyi guncelle.
+TR: Soldan saga gezerken gorulen en dusuk fiyati `minPrice` olarak tut. Mevcut fiyat daha yuksekse bugun satsaydin kar ne olur hesapla ve `maxProfit` degerini guncelle.
 
-EN: Keep the minimum price seen so far. For each day, compute profit if selling today and update the best profit.
+EN: Scan from left to right while tracking the cheapest previous price as `minPrice`. If today's price is higher, compute the profit and update `maxProfit`.
 
 ## Solution
 
