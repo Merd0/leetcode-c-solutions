@@ -1,0 +1,161 @@
+# First 100 LeetCode Problems for C
+
+This roadmap is ordered for learning C through problem solving.
+
+Status meanings:
+
+- Done: solution is already archived in this repository.
+- Next: the next unsolved problem in the planned order.
+- Todo: not solved/archived yet.
+
+## 1. Basic Array
+
+| Order | # | Problem | Status | Solved |
+|---:|---:|---------|--------|--------|
+| 1 | #1920 | Build Array from Permutation | Done | 2026-05-18 |
+| 2 | #1929 | Concatenation of Array | Done | 2026-05-18 |
+| 3 | #1480 | Running Sum of 1d Array | Done | 2026-05-18 |
+| 4 | #1470 | Shuffle the Array | Done | 2026-05-19 |
+| 5 | #1672 | Richest Customer Wealth | Done | 2026-05-19 |
+| 6 | #1365 | How Many Numbers Are Smaller Than the Current Number | Done | 2026-05-19 |
+| 7 | #0217 | Contains Duplicate | Done | 2026-05-18 |
+| 8 | #0136 | Single Number | Done | 2026-05-19 |
+| 9 | #0268 | Missing Number | Done | 2026-05-19 |
+| 10 | #0283 | Move Zeroes | Done | 2026-05-19 |
+| 11 | #0027 | Remove Element | Done | 2026-05-20 |
+| 12 | #0026 | Remove Duplicates from Sorted Array | Done | 2026-05-20 |
+| 13 | #0088 | Merge Sorted Array | Done | 2026-05-20 |
+| 14 | #0066 | Plus One | Next | - |
+| 15 | #0035 | Search Insert Position | Done | 2026-05-20 |
+| 16 | #0121 | Best Time to Buy and Sell Stock | Done | 2026-05-20 |
+| 17 | #0053 | Maximum Subarray | Done | 2026-05-20 |
+| 18 | #0724 | Find Pivot Index | Done | 2026-05-20 |
+| 19 | #0414 | Third Maximum Number | Done | 2026-05-20 |
+| 20 | #0448 | Find All Numbers Disappeared in an Array | Done | 2026-05-20 |
+| 21 | #0485 | Max Consecutive Ones | Done | 2026-05-20 |
+| 22 | #0561 | Array Partition | Done | 2026-05-20 |
+| 23 | #0867 | Transpose Matrix | Done | 2026-05-20 |
+| 24 | #0566 | Reshape the Matrix | Done | 2026-05-21 |
+
+## 2. String / Char Array
+
+| Order | # | Problem | Status | Solved |
+|---:|---:|---------|--------|--------|
+| 25 | #0709 | To Lower Case | Todo | - |
+| 26 | #0771 | Jewels and Stones | Todo | - |
+| 27 | #0058 | Length of Last Word | Todo | - |
+| 28 | #0344 | Reverse String | Todo | - |
+| 29 | #0557 | Reverse Words in a String III | Todo | - |
+| 30 | #0125 | Valid Palindrome | Todo | - |
+| 31 | #0242 | Valid Anagram | Todo | - |
+| 32 | #0387 | First Unique Character in a String | Todo | - |
+| 33 | #0383 | Ransom Note | Todo | - |
+| 34 | #0392 | Is Subsequence | Todo | - |
+| 35 | #0014 | Longest Common Prefix | Todo | - |
+| 36 | #0028 | Find the Index of the First Occurrence in a String | Todo | - |
+| 37 | #0345 | Reverse Vowels of a String | Todo | - |
+| 38 | #0520 | Detect Capital | Todo | - |
+| 39 | #0415 | Add Strings | Todo | - |
+| 40 | #0171 | Excel Sheet Column Number | Todo | - |
+| 41 | #0013 | Roman to Integer | Todo | - |
+| 42 | #0012 | Integer to Roman | Todo | - |
+| 43 | #0205 | Isomorphic Strings | Todo | - |
+| 44 | #0290 | Word Pattern | Todo | - |
+
+## 3. Two Pointer
+
+| Order | # | Problem | Status | Solved |
+|---:|---:|---------|--------|--------|
+| 45 | #0977 | Squares of a Sorted Array | Todo | - |
+| 46 | #0167 | Two Sum II - Input Array Is Sorted | Todo | - |
+| 47 | #0680 | Valid Palindrome II | Todo | - |
+| 48 | #0011 | Container With Most Water | Todo | - |
+| 49 | #0015 | 3Sum | Todo | - |
+| 50 | #0016 | 3Sum Closest | Todo | - |
+
+## 4. Stack
+
+| Order | # | Problem | Status | Solved |
+|---:|---:|---------|--------|--------|
+| 51 | #0020 | Valid Parentheses | Todo | - |
+| 52 | #0682 | Baseball Game | Todo | - |
+| 53 | #0844 | Backspace String Compare | Todo | - |
+| 54 | #0155 | Min Stack | Todo | - |
+| 55 | #0232 | Implement Queue using Stacks | Todo | - |
+| 56 | #0225 | Implement Stack using Queues | Todo | - |
+| 57 | #0496 | Next Greater Element I | Todo | - |
+| 58 | #0739 | Daily Temperatures | Todo | - |
+| 59 | #0150 | Evaluate Reverse Polish Notation | Todo | - |
+| 60 | #0071 | Simplify Path | Todo | - |
+
+## 5. Linked List
+
+| Order | # | Problem | Status | Solved |
+|---:|---:|---------|--------|--------|
+| 61 | #0021 | Merge Two Sorted Lists | Todo | - |
+| 62 | #0206 | Reverse Linked List | Todo | - |
+| 63 | #0141 | Linked List Cycle | Todo | - |
+| 64 | #0876 | Middle of the Linked List | Todo | - |
+| 65 | #0203 | Remove Linked List Elements | Todo | - |
+| 66 | #0237 | Delete Node in a Linked List | Todo | - |
+| 67 | #0234 | Palindrome Linked List | Todo | - |
+| 68 | #0019 | Remove Nth Node From End of List | Todo | - |
+| 69 | #0002 | Add Two Numbers | Done | 2026-05-18 |
+| 70 | #0024 | Swap Nodes in Pairs | Todo | - |
+| 71 | #0083 | Remove Duplicates from Sorted List | Todo | - |
+| 72 | #0082 | Remove Duplicates from Sorted List II | Todo | - |
+
+## 6. Binary Search
+
+| Order | # | Problem | Status | Solved |
+|---:|---:|---------|--------|--------|
+| 73 | #0704 | Binary Search | Todo | - |
+| 74 | #0278 | First Bad Version | Todo | - |
+| 75 | #0374 | Guess Number Higher or Lower | Todo | - |
+| 76 | #0069 | Sqrt(x) | Todo | - |
+| 77 | #0367 | Valid Perfect Square | Todo | - |
+| 78 | #0744 | Find Smallest Letter Greater Than Target | Todo | - |
+| 79 | #0034 | Find First and Last Position of Element in Sorted Array | Todo | - |
+| 80 | #0033 | Search in Rotated Sorted Array | Todo | - |
+| 81 | #0153 | Find Minimum in Rotated Sorted Array | Todo | - |
+
+## 7. Hash / Frequency
+
+| Order | # | Problem | Status | Solved |
+|---:|---:|---------|--------|--------|
+| 82 | #0001 | Two Sum | Done | 2026-05-18 |
+| 83 | #0169 | Majority Element | Todo | - |
+| 84 | #0349 | Intersection of Two Arrays | Todo | - |
+| 85 | #0350 | Intersection of Two Arrays II | Todo | - |
+| 86 | #0202 | Happy Number | Todo | - |
+| 87 | #0049 | Group Anagrams | Todo | - |
+| 88 | #0347 | Top K Frequent Elements | Todo | - |
+| 89 | #0560 | Subarray Sum Equals K | Todo | - |
+
+## 8. Sliding Window
+
+| Order | # | Problem | Status | Solved |
+|---:|---:|---------|--------|--------|
+| 90 | #0643 | Maximum Average Subarray I | Todo | - |
+| 91 | #0003 | Longest Substring Without Repeating Characters | Done | 2026-05-18 |
+| 92 | #1004 | Max Consecutive Ones III | Todo | - |
+| 93 | #0209 | Minimum Size Subarray Sum | Todo | - |
+| 94 | #0567 | Permutation in String | Todo | - |
+| 95 | #0438 | Find All Anagrams in a String | Todo | - |
+| 96 | #0424 | Longest Repeating Character Replacement | Todo | - |
+| 97 | #0076 | Minimum Window Substring | Todo | - |
+| 98 | #0239 | Sliding Window Maximum | Todo | - |
+
+## 9. Recursion / Tree Start
+
+| Order | # | Problem | Status | Solved |
+|---:|---:|---------|--------|--------|
+| 99 | #0104 | Maximum Depth of Binary Tree | Todo | - |
+| 100 | #0226 | Invert Binary Tree | Todo | - |
+
+## Rule For Solving
+
+1. First solve with your own reasoning, even if it is brute force.
+2. After acceptance, check if a better approach exists.
+3. If the solution uses `malloc` or `free`, understand ownership before moving on.
+4. If stuck, write down your current idea first, then debug the idea.
