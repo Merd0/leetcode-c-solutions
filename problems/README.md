@@ -6,7 +6,7 @@ Format:
 
 ```text
 0001-two-sum/
-  README.md   # TR/EN prompt, starter code, parameters, example, idea
+  README.md   # LeetCode-style info, prompt, starter code, examples, constraints
   solution.c  # C solution with short comments
 ```
 
