@@ -5,18 +5,47 @@
 - LeetCode: https://leetcode.com/problems/transpose-matrix/
 - Topics: Matrix, Simulation
 
-## Question
+## Problem
 
-TR: Matriste satir ve sutun konumlarini yer degistirerek transpozunu olustur.
+TR: Matrisi transpozla; yani satirlar sutun, sutunlar satir haline gelsin.
 
-EN: Build the matrix transpose by swapping row and column positions.
+EN: Return the transpose of a matrix, where rows become columns and columns become rows.
 
-## Idea
+## Starter Code (C)
+
+```c
+int** transpose(int** matrix, int matrixSize, int* matrixColSize, int* returnSize, int** returnColumnSizes) {
+
+}
+```
+
+## Parameters
+
+- `matrix`: Input matrix.
+- `matrixSize`: Number of rows.
+- `matrixColSize`: Column count for each row.
+- `returnSize`: Output row count.
+- `returnColumnSizes`: Output column sizes for returned matrix.
+
+## Return
+
+TR: Transpoz matris pointer'i.
+
+EN: Pointer to the transposed matrix.
+
+## Example
+
+```text
+Input: matrix = [[1,2,3],[4,5,6]]
+Output: [[1,4],[2,5],[3,6]]
+```
+
+## Approach
 
 TR: Her `matrix[row][col]` degerini `answer[col][row]` konumuna yaz.
 
-EN: Write each `matrix[row][col]` value into `answer[col][row]`.
+EN: Write each `matrix[row][col]` into `answer[col][row]`.
 
-## Code
+## Solution
 
 - [solution.c](solution.c)

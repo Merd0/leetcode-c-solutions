@@ -5,18 +5,45 @@
 - LeetCode: https://leetcode.com/problems/running-sum-of-1d-array/
 - Topics: Array, Prefix Sum
 
-## Question
+## Problem
 
-TR: Her indeks icin bastan o indekse kadar olan toplami hesapla.
+TR: Her indeks icin dizinin basindan o indekse kadar olan toplami hesaplayan yeni dizi olustur.
 
-EN: For each index, compute the sum from the start of the array to that index.
+EN: Build a new array where each index stores the sum from the start through that index.
 
-## Idea
+## Starter Code (C)
 
-TR: Tek bir `sum` degiskeniyle soldan saga prefix toplam tut.
+```c
+int* runningSum(int* nums, int numsSize, int* returnSize) {
 
-EN: Keep one running `sum` from left to right.
+}
+```
 
-## Code
+## Parameters
+
+- `nums`: Input array.
+- `numsSize`: Number of elements in `nums`.
+- `returnSize`: Output length of the returned array.
+
+## Return
+
+TR: Prefix toplamlarini iceren yeni dizi.
+
+EN: A new array containing prefix sums.
+
+## Example
+
+```text
+Input: nums = [1,2,3,4]
+Output: [1,3,6,10]
+```
+
+## Approach
+
+TR: Soldan saga tek `sum` degiskeni tut. Her adimda toplami sonuca yaz.
+
+EN: Keep one running `sum` from left to right and write it into the answer each step.
+
+## Solution
 
 - [solution.c](solution.c)

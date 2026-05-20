@@ -5,18 +5,44 @@
 - LeetCode: https://leetcode.com/problems/missing-number/
 - Topics: Array, Math, XOR
 
-## Question
+## Problem
 
-TR: `0..n` araliginda eksik olan tek sayiyi bul.
+TR: `0..n` araligindan n adet farkli sayi verilir. Bu aralikta eksik olan tek sayiyi bul.
 
-EN: Find the one missing number from the range `0..n`.
+EN: Given `n` distinct numbers from the range `0..n`, find the one missing number.
 
-## Idea
+## Starter Code (C)
 
-TR: Indeksleri ve degerleri XOR'la; eslesenler silinir, eksik sayi kalir.
+```c
+int missingNumber(int* nums, int numsSize) {
 
-EN: XOR indices and values; matched values cancel and the missing number remains.
+}
+```
 
-## Code
+## Parameters
+
+- `nums`: Array containing numbers from `0..n` with one missing.
+- `numsSize`: Number of elements in `nums`.
+
+## Return
+
+TR: Eksik olan sayi.
+
+EN: The missing number.
+
+## Example
+
+```text
+Input: nums = [3,0,1]
+Output: 2
+```
+
+## Approach
+
+TR: `0..n` indekslerini ve dizi degerlerini XOR'la. Eslesenler silinir, eksik sayi kalir.
+
+EN: XOR all range values and all array values. Matching values cancel and the missing value remains.
+
+## Solution
 
 - [solution.c](solution.c)

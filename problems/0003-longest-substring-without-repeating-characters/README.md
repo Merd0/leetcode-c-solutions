@@ -5,18 +5,44 @@
 - LeetCode: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 - Topics: String, Sliding Window, Hash Table
 
-## Question
+## Problem
 
-TR: Bir string icinde tekrar eden karakter olmadan en uzun alt string uzunlugunu bul.
+TR: Bir string icinde tekrar eden karakter bulunmayan en uzun ardisik parcanin uzunlugunu bul.
 
-EN: Find the length of the longest substring that contains no repeated characters.
+EN: Given a string, find the length of the longest contiguous substring without repeated characters.
 
-## Idea
+## Starter Code (C)
 
-TR: Sliding window kullan; tekrar gorulunce pencerenin solunu ileri al.
+```c
+int lengthOfLongestSubstring(char* s) {
 
-EN: Use a sliding window and move the left side after a repeated character appears.
+}
+```
 
-## Code
+## Parameters
+
+- `s`: Null-terminated input string.
+
+## Return
+
+TR: Tekrar icermeyen en uzun substring uzunlugu.
+
+EN: The length of the longest substring with all unique characters.
+
+## Example
+
+```text
+Input: s = "abcabcbb"
+Output: 3
+Reason: "abc" has no repeated characters.
+```
+
+## Approach
+
+TR: Sliding window kullan. Bir karakter tekrar gorulurse pencerenin sol tarafini o karakterin eski konumundan sonrasina tasi.
+
+EN: Use a sliding window. If a character repeats inside the current window, move the left boundary after its previous index.
+
+## Solution
 
 - [solution.c](solution.c)

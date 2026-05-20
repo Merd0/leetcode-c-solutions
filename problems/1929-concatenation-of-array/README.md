@@ -5,18 +5,45 @@
 - LeetCode: https://leetcode.com/problems/concatenation-of-array/
 - Topics: Array, Simulation
 
-## Question
+## Problem
 
-TR: Dizinin kendisini pes pese iki kez iceren yeni bir dizi olustur.
+TR: Bir dizi verilir. Sonuc dizisi, bu dizinin kendisini arka arkaya iki kez icermelidir.
 
-EN: Create a new array that contains the original array twice in sequence.
+EN: Given an array, return a new array that contains the original array twice in sequence.
 
-## Idea
+## Starter Code (C)
+
+```c
+int* getConcatenation(int* nums, int numsSize, int* returnSize) {
+
+}
+```
+
+## Parameters
+
+- `nums`: Input array.
+- `numsSize`: Number of elements in `nums`.
+- `returnSize`: Output length of the returned array.
+
+## Return
+
+TR: Uzunlugu `2 * numsSize` olan yeni dizi.
+
+EN: A new array of length `2 * numsSize`.
+
+## Example
+
+```text
+Input: nums = [1,2,1]
+Output: [1,2,1,1,2,1]
+```
+
+## Approach
 
 TR: Her elemani hem `i` hem de `i + numsSize` konumuna kopyala.
 
-EN: Copy each value to both `i` and `i + numsSize`.
+EN: Copy each value into both `i` and `i + numsSize`.
 
-## Code
+## Solution
 
 - [solution.c](solution.c)
