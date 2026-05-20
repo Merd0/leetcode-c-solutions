@@ -5,18 +5,45 @@
 - LeetCode: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 - Topics: Array, Index Marking, In-place
 
-## Question
+## Problem
 
-TR: `1..n` araliginda dizide gorunmeyen sayilari bul.
+TR: Uzunlugu `n` olan dizide degerler `1..n` araligindadir. Bu araliktan dizide gorunmeyen sayilari dondur.
 
-EN: Find all numbers in the range `1..n` that do not appear in the array.
+EN: Given an array of length `n` with values in `1..n`, return the numbers from that range that do not appear.
 
-## Idea
+## Starter Code (C)
 
-TR: Gorulen sayilar icin ilgili indeksi negatif yaparak isaretle.
+```c
+int* findDisappearedNumbers(int* nums, int numsSize, int* returnSize) {
 
-EN: Mark seen numbers by making the related index negative.
+}
+```
 
-## Code
+## Parameters
+
+- `nums`: Input array; may be modified during marking.
+- `numsSize`: Number of elements in `nums`.
+- `returnSize`: Output parameter for the returned array length.
+
+## Return
+
+TR: Eksik sayilari iceren heap uzerinde ayrilmis dizi.
+
+EN: A heap-allocated array containing the missing numbers.
+
+## Example
+
+```text
+Input: nums = [4,3,2,7,8,2,3,1]
+Output: [5,6]
+```
+
+## Approach
+
+TR: Gorulen `value` icin `value - 1` indeksini negatif yap. Pozitif kalan indeksler eksik sayilari gosterir.
+
+EN: For each seen `value`, mark index `value - 1` as negative. Positive positions reveal missing values.
+
+## Solution
 
 - [solution.c](solution.c)

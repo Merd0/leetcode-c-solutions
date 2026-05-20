@@ -5,18 +5,47 @@
 - LeetCode: https://leetcode.com/problems/two-sum/
 - Topics: Array, Brute Force, Hash Table
 
-## Question
+## Problem
 
-TR: Bir tamsayi dizisinde, toplami `target` olan iki farkli elemanin indekslerini bul.
+TR: Bir tamsayi dizisi ve bir `target` degeri verilir. Dizideki iki farkli elemanin toplami `target` ediyorsa bu iki elemanin indekslerini dondur.
 
-EN: Given an integer array, find two different indices whose values add up to `target`.
+EN: Given an integer array and a `target`, return the indices of two different values whose sum equals `target`.
 
-## Idea
+## Starter Code (C)
 
-TR: Bu cozum her ikiliyi deneyen sade brute force yaklasimidir.
+```c
+int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
 
-EN: This solution uses a simple brute force pair scan.
+}
+```
 
-## Code
+## Parameters
+
+- `nums`: Input array.
+- `numsSize`: Number of elements in `nums`.
+- `target`: Required sum.
+- `returnSize`: Output parameter; set to `2` when two indices are returned.
+
+## Return
+
+TR: Heap uzerinde ayrilmis iki elemanli indeks dizisi dondurulur.
+
+EN: Return a heap-allocated array containing two indices.
+
+## Example
+
+```text
+Input: nums = [2, 7, 11, 15], target = 9
+Output: [0, 1]
+Reason: nums[0] + nums[1] = 2 + 7 = 9
+```
+
+## Approach
+
+TR: Her elemani kendinden sonraki elemanlarla eslestir. Toplam `target` olunca indeksleri dondur.
+
+EN: Try every pair. When the pair sum equals `target`, return the two indices.
+
+## Solution
 
 - [solution.c](solution.c)

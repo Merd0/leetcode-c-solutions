@@ -5,18 +5,45 @@
 - LeetCode: https://leetcode.com/problems/maximum-subarray/
 - Topics: Array, Dynamic Programming, Kadane
 
-## Question
+## Problem
 
-TR: Bir dizide toplam degeri en buyuk olan ardisik alt dizinin toplamini bul.
+TR: Dizide ardisik bir alt dizi sec ve bu alt dizinin toplamini olabilecek en buyuk hale getir.
 
-EN: Find the maximum possible sum of a contiguous subarray.
+EN: Choose one contiguous subarray and return the largest possible sum.
 
-## Idea
+## Starter Code (C)
 
-TR: Kadane algoritmasi ile her indekste "burada biten en iyi toplam" takip edilir.
+```c
+int maxSubArray(int* nums, int numsSize) {
 
-EN: Kadane's algorithm tracks the best sum ending at each index.
+}
+```
 
-## Code
+## Parameters
+
+- `nums`: Input integer array.
+- `numsSize`: Number of elements in `nums`.
+
+## Return
+
+TR: En buyuk ardisik alt dizi toplami.
+
+EN: The maximum contiguous subarray sum.
+
+## Example
+
+```text
+Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
+Output: 6
+Reason: [4,-1,2,1] has sum 6.
+```
+
+## Approach
+
+TR: Kadane algoritmasi kullan. `current` burada biten en iyi toplam, `best` simdiye kadar gorulen en iyi toplamdir.
+
+EN: Use Kadane's algorithm. `current` is the best sum ending here, and `best` is the best sum seen so far.
+
+## Solution
 
 - [solution.c](solution.c)

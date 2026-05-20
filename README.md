@@ -2,10 +2,11 @@
 
 This repository is a personal archive of LeetCode solutions written in C.
 
-It is meant to show solved problems, keep short TR/EN notes, and make future
-revision easier. Official LeetCode problem statements are not copied here;
-each problem page contains a short paraphrased summary, the original problem
-link, the solved date, the main idea, and the C solution.
+It is meant to show solved problems, keep LeetCode-style TR/EN notes, and make
+future revision easier. Official LeetCode problem statements are not copied
+here; each problem page contains a short paraphrased prompt, the original
+problem link, solved date, C starter signature, parameters, return details,
+sample input/output, the main idea, and the C solution.
 
 ## Structure
 
@@ -18,6 +19,14 @@ problems/
 
 Each problem folder uses the original LeetCode number in the folder name and
 the page title, for example `#0001 - Two Sum`.
+
+Each problem `README.md` follows this format:
+
+- Problem: short TR/EN version of what the question asks.
+- Starter Code (C): LeetCode-style C function signature.
+- Parameters / Return: what each input and output means.
+- Example: small input/output sample for quick recall.
+- Approach: the core idea behind the solution.
 
 ## Study Roadmap
 

@@ -5,18 +5,45 @@
 - LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - Topics: Array, Greedy
 
-## Question
+## Problem
 
-TR: Tek alim ve tek satisla elde edilebilecek en yuksek kari bul.
+TR: Her gun icin hisse fiyati verilir. Bir kez alis ve daha sonraki bir gunde bir kez satis yaparak maksimum kari bul.
 
-EN: Find the maximum profit from one buy and one sell.
+EN: Given daily stock prices, choose one buy day and one later sell day to maximize profit.
 
-## Idea
+## Starter Code (C)
 
-TR: O gune kadar gorulen en dusuk fiyati ve en iyi kari takip et.
+```c
+int maxProfit(int* prices, int pricesSize) {
 
-EN: Track the cheapest price so far and the best profit so far.
+}
+```
 
-## Code
+## Parameters
+
+- `prices`: Price list by day.
+- `pricesSize`: Number of days.
+
+## Return
+
+TR: Yapilabilecek en yuksek kar. Kar yoksa `0`.
+
+EN: Maximum possible profit, or `0` if no profitable trade exists.
+
+## Example
+
+```text
+Input: prices = [7,1,5,3,6,4]
+Output: 5
+Reason: Buy at 1 and sell at 6.
+```
+
+## Approach
+
+TR: O gune kadar gorulen en dusuk fiyati sakla. Bugun satarsan kar ne olur hesapla ve en iyiyi guncelle.
+
+EN: Keep the minimum price seen so far. For each day, compute profit if selling today and update the best profit.
+
+## Solution
 
 - [solution.c](solution.c)

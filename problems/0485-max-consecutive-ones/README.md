@@ -5,18 +5,44 @@
 - LeetCode: https://leetcode.com/problems/max-consecutive-ones/
 - Topics: Array, Counting
 
-## Question
+## Problem
 
-TR: Binary dizide arka arkaya gelen en uzun `1` sayisini bul.
+TR: Sadece `0` ve `1` iceren dizide arka arkaya gelen en uzun `1` serisinin uzunlugunu bul.
 
-EN: Find the longest consecutive run of `1` values in a binary array.
+EN: Given a binary array, find the longest consecutive run of `1` values.
 
-## Idea
+## Starter Code (C)
 
-TR: Mevcut seri uzunlugunu say, `0` gelince sifirla.
+```c
+int findMaxConsecutiveOnes(int* nums, int numsSize) {
 
-EN: Count the current streak and reset it when a `0` appears.
+}
+```
 
-## Code
+## Parameters
+
+- `nums`: Binary input array.
+- `numsSize`: Number of elements in `nums`.
+
+## Return
+
+TR: En uzun ardisik `1` serisinin uzunlugu.
+
+EN: Length of the longest consecutive `1` run.
+
+## Example
+
+```text
+Input: nums = [1,1,0,1,1,1]
+Output: 3
+```
+
+## Approach
+
+TR: `1` geldikce mevcut seriyi arttir. `0` gelince seri sifirlanir.
+
+EN: Increase the current streak on `1`; reset it on `0`.
+
+## Solution
 
 - [solution.c](solution.c)

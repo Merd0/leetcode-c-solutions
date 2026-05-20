@@ -5,18 +5,45 @@
 - LeetCode: https://leetcode.com/problems/richest-customer-wealth/
 - Topics: Matrix, Row Sum
 
-## Question
+## Problem
 
-TR: Her musterinin banka hesaplarini topla ve en yuksek toplam serveti bul.
+TR: Her satir bir musteriyi, her sutun o musterinin bir bankadaki parasini temsil eder. En zengin musterinin toplam servetini bul.
 
-EN: Sum each customer's bank accounts and return the largest total wealth.
+EN: Each row is a customer and each column is money in one bank. Return the largest total wealth.
 
-## Idea
+## Starter Code (C)
 
-TR: Her satirin toplamini hesapla, en buyuk satir toplamini sakla.
+```c
+int maximumWealth(int** accounts, int accountsSize, int* accountsColSize) {
 
-EN: Sum each row and keep the largest row sum.
+}
+```
 
-## Code
+## Parameters
+
+- `accounts`: Matrix of customer accounts.
+- `accountsSize`: Number of customers.
+- `accountsColSize`: Number of accounts per customer row.
+
+## Return
+
+TR: En buyuk satir toplami.
+
+EN: The maximum row sum.
+
+## Example
+
+```text
+Input: accounts = [[1,2,3],[3,2,1]]
+Output: 6
+```
+
+## Approach
+
+TR: Her satiri topla ve en buyuk toplami sakla.
+
+EN: Sum each row and keep the largest total.
+
+## Solution
 
 - [solution.c](solution.c)

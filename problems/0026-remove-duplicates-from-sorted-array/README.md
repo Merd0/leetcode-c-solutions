@@ -5,18 +5,45 @@
 - LeetCode: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 - Topics: Array, Two Pointers, In-place
 
-## Question
+## Problem
 
-TR: Sirali dizideki tekrar eden elemanlari yerinde temizle ve benzersiz uzunlugu dondur.
+TR: Sirali dizide tekrar eden degerleri yerinde temizle. Dizinin ilk k elemani benzersiz kalacak sekilde `k` uzunlugunu dondur.
 
-EN: Remove duplicates from a sorted array in-place and return the unique length.
+EN: Given a sorted array, remove duplicates in-place so the first `k` elements are unique, then return `k`.
 
-## Idea
+## Starter Code (C)
 
-TR: `write` indeksi yeni benzersiz elemanin yazilacagi yeri tutar.
+```c
+int removeDuplicates(int* nums, int numsSize) {
 
-EN: Keep a `write` index for the next unique value.
+}
+```
 
-## Code
+## Parameters
+
+- `nums`: Sorted input array, modified in-place.
+- `numsSize`: Number of elements in `nums`.
+
+## Return
+
+TR: Benzersiz eleman sayisi.
+
+EN: The number of unique elements.
+
+## Example
+
+```text
+Input: nums = [0,0,1,1,2]
+Output: 3
+After call: first 3 values are [0,1,2]
+```
+
+## Approach
+
+TR: `write` indeksi son benzersiz degerden sonraki bos yeri tutar. Yeni benzersiz deger gorunce oraya yaz.
+
+EN: Keep a `write` index for the next unique slot. Copy a value only when it differs from the previous unique value.
+
+## Solution
 
 - [solution.c](solution.c)
