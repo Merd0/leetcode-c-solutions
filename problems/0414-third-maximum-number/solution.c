@@ -33,7 +33,38 @@ int thirdMax(int *nums, int numsSize)
 }
 
 /*
- * Alternative:
- * Sort from small to large, then scan backward for the 3rd distinct value.
- * If fewer than 3 distinct values exist, return the maximum.
+ * Alternative solution:
+ * This version sorts from small to large and scans backward to find the
+ * 3rd distinct value. If there are fewer than 3 distinct values, it returns
+ * the maximum value.
+ *
+ * #include <stdlib.h>
+ *
+ * int compare(const void* a, const void* b) {
+ *     int x = *(int*)a;
+ *     int y = *(int*)b;
+ *
+ *     if (x < y) return -1;
+ *     if (x > y) return 1;
+ *     return 0;
+ * }
+ *
+ * int thirdMax(int* nums, int numsSize) {
+ *     qsort(nums, numsSize, sizeof(int), compare);
+ *
+ *     int count = 1;
+ *     int maxValue = nums[numsSize - 1];
+ *
+ *     for (int i = numsSize - 2; i >= 0; i--) {
+ *         if (nums[i] != nums[i + 1]) {
+ *             count++;
+ *
+ *             if (count == 3) {
+ *                 return nums[i];
+ *             }
+ *         }
+ *     }
+ *
+ *     return maxValue;
+ * }
  */

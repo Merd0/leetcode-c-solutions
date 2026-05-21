@@ -11,6 +11,7 @@ int *buildArray(int *nums, int numsSize, int *returnSize)
     *returnSize = numsSize;
 
     /*
+     * Ilk olarak cikti dizimi yDizi olarak belirledim.
      * Islemleri nums uzerinden okuyorum, sonucu yDizi icine yaziyorum.
      * Boylece nums dizisi bozulmaz.
      */
