@@ -1,27 +1,37 @@
 #include <stdlib.h>
 
+/**
+ * Return an array of arrays of size *returnSize.
+ * The sizes of the arrays are returned as *returnColumnSizes array.
+ * Note: Both returned array and *columnSizes array must be malloced.
+ */
 int **transpose(int **matrix,
                 int matrixSize,
                 int *matrixColSize,
                 int *returnSize,
                 int **returnColumnSizes)
 {
-    int rowCount = matrixSize;
-    int colCount = matrixColSize[0];
+    int row = matrixSize;       /* eski satir sayisi */
+    int col = matrixColSize[0]; /* eski sutun sayisi */
 
-    int **result = malloc((size_t)colCount * sizeof(int *));
-    *returnColumnSizes = malloc((size_t)colCount * sizeof(int));
-    *returnSize = colCount;
+    /*
+     * Transpose sonrasi:
+     * yeni satir sayisi = eski sutun sayisi
+     * yeni sutun sayisi = eski satir sayisi
+     */
+    *returnSize = col;
 
-    for (int i = 0; i < colCount; ++i) {
-        result[i] = malloc((size_t)rowCount * sizeof(int));
-        (*returnColumnSizes)[i] = rowCount;
+    int **result = malloc((size_t)col * sizeof(int *));
+    *returnColumnSizes = malloc((size_t)col * sizeof(int));
+
+    for (int i = 0; i < col; ++i) {
+        result[i] = malloc((size_t)row * sizeof(int));
+        (*returnColumnSizes)[i] = row;
     }
 
-    /* Transpose rule: old [row][col] becomes new [col][row]. */
-    for (int row = 0; row < rowCount; ++row) {
-        for (int col = 0; col < colCount; ++col) {
-            result[col][row] = matrix[row][col];
+    for (int i = 0; i < row; ++i) {
+        for (int j = 0; j < col; ++j) {
+            result[j][i] = matrix[i][j];
         }
     }
 

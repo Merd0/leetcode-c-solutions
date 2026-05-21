@@ -2,26 +2,30 @@
 
 int *smallerNumbersThanCurrent(int *nums, int numsSize, int *returnSize)
 {
-    /*
-     * Values are between 0 and 100.
-     * Count frequencies, then prefix counts tell how many are smaller.
-     */
-    int counts[101] = {0};
-    int smaller_before[101] = {0};
-    int *answer = malloc((size_t)numsSize * sizeof(*answer));
+    int tekrarSayi = 0;
+    int anlikSayi;
 
-    for (int i = 0; i < numsSize; ++i) {
-        ++counts[nums[i]];
-    }
-
-    for (int value = 1; value <= 100; ++value) {
-        smaller_before[value] = smaller_before[value - 1] + counts[value - 1];
-    }
-
-    for (int i = 0; i < numsSize; ++i) {
-        answer[i] = smaller_before[nums[i]];
-    }
-
+    int *yDizi = calloc((size_t)numsSize, sizeof(int));
     *returnSize = numsSize;
-    return answer;
+
+    for (int i = 0; i < numsSize; ++i) {
+        anlikSayi = nums[i];
+        tekrarSayi = 0;
+
+        for (int j = 0; j < numsSize; ++j) {
+            if (anlikSayi > nums[j]) {
+                ++tekrarSayi;
+            }
+        }
+
+        yDizi[i] = tekrarSayi;
+    }
+
+    return yDizi;
 }
+
+/*
+ * Alternative optimized idea:
+ * Count how many times each value 0..100 appears, convert that count array
+ * into prefix counts, then answer each nums[i] with count[nums[i] - 1].
+ */

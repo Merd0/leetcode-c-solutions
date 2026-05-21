@@ -61,7 +61,7 @@ Solved dates are based on the LeetCode activity list captured on 2026-05-21.
 | #0566 | [Reshape the Matrix](problems/0566-reshape-the-matrix) | Easy | 2026-05-21 | Row-major remap |
 | #0724 | [Find Pivot Index](problems/0724-find-pivot-index) | Easy | 2026-05-20 | Prefix sums |
 | #0867 | [Transpose Matrix](problems/0867-transpose-matrix) | Easy | 2026-05-20 | Swap row/column positions |
-| #1365 | [How Many Numbers Are Smaller Than the Current Number](problems/1365-how-many-numbers-are-smaller-than-the-current-number) | Easy | 2026-05-19 | Counting frequency |
+| #1365 | [How Many Numbers Are Smaller Than the Current Number](problems/1365-how-many-numbers-are-smaller-than-the-current-number) | Easy | 2026-05-19 | Brute force counting |
 | #1470 | [Shuffle the Array](problems/1470-shuffle-the-array) | Easy | 2026-05-19 | Interleave halves |
 | #1480 | [Running Sum of 1d Array](problems/1480-running-sum-of-1d-array) | Easy | 2026-05-18 | Prefix sum |
 | #1672 | [Richest Customer Wealth](problems/1672-richest-customer-wealth) | Easy | 2026-05-19 | Row sum maximum |

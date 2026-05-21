@@ -1,20 +1,15 @@
 void moveZeroes(int *nums, int numsSize)
 {
-    /*
-     * First write all non-zero values in order.
-     * Then fill the rest of the array with zeroes.
-     */
-    int write = 0;
+    int index = 0;
 
-    for (int read = 0; read < numsSize; ++read) {
-        if (nums[read] != 0) {
-            nums[write] = nums[read];
-            ++write;
+    for (int i = 0; i < numsSize; ++i) {
+        if (nums[i] != 0) {
+            nums[index] = nums[i];
+            ++index;
         }
     }
 
-    while (write < numsSize) {
-        nums[write] = 0;
-        ++write;
+    for (int i = index; i < numsSize; ++i) {
+        nums[i] = 0;
     }
 }

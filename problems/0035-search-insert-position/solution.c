@@ -1,19 +1,20 @@
 int searchInsert(int *nums, int numsSize, int target)
 {
-    /*
-     * Lower-bound binary search:
-     * find the first index where nums[index] >= target.
-     */
     int left = 0;
-    int right = numsSize;
+    int right = numsSize - 1;
+    int mid;
 
-    while (left < right) {
-        int mid = left + (right - left) / 2;
+    while (left <= right) {
+        mid = left + (right - left) / 2;
+
+        if (nums[mid] == target) {
+            return mid;
+        }
 
         if (nums[mid] < target) {
             left = mid + 1;
         } else {
-            right = mid;
+            right = mid - 1;
         }
     }
 

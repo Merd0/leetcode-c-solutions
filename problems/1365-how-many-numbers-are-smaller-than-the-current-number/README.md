@@ -6,7 +6,7 @@
 - Difficulty: Easy
 - Topics: Array, Counting, Prefix Sum
 - Companies: Not tracked in this repo
-- Hint: The values are only between 0 and 100, so counting is enough.
+- Hint: Brute force is easy to understand; counting frequency is the faster follow-up.
 - Solved: 2026-05-19
 - LeetCode: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 
@@ -75,9 +75,9 @@ All values are equal, so no value is smaller than another.
 
 ## Approach
 
-TR: Deger araligi kucuk oldugu icin once frekans dizisi kur. Sonra prefix toplam mantigiyla her sayidan kucuk kac eleman oldugunu hesapla.
+TR: Aktif cozum brute force: her sayi icin diziyi tekrar gezip ondan kucuk kac eleman oldugunu say. Alternatif olarak, deger araligi kucuk oldugu icin frekans + prefix toplam ile daha hizli cozum yazilabilir.
 
-EN: Because the value range is small, count frequencies first. Then use prefix counts to know how many values are smaller than each number.
+EN: The active solution is brute force: for each value, scan the array again and count smaller values. As a faster follow-up, the small value range allows a frequency + prefix count solution.
 
 ## Solution
 

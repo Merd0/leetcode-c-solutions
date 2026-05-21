@@ -1,19 +1,20 @@
 #include <stdlib.h>
 
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
 int *runningSum(int *nums, int numsSize, int *returnSize)
 {
-    /*
-     * Prefix sum:
-     * answer[i] = nums[0] + ... + nums[i].
-     */
-    int *answer = malloc((size_t)numsSize * sizeof(*answer));
+    int *yDizi = malloc((size_t)numsSize * sizeof(int));
+
+    *returnSize = numsSize;
+
     int sum = 0;
 
     for (int i = 0; i < numsSize; ++i) {
         sum += nums[i];
-        answer[i] = sum;
+        yDizi[i] = sum;
     }
 
-    *returnSize = numsSize;
-    return answer;
+    return yDizi;
 }

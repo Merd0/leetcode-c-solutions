@@ -1,22 +1,18 @@
 #include <stdlib.h>
 
-static int compare_ints(const void *left, const void *right)
+int compare(const void *a, const void *b)
 {
-    int a = *(const int *)left;
-    int b = *(const int *)right;
+    int x = *(const int *)a;
+    int y = *(const int *)b;
 
-    return (a > b) - (a < b);
+    return x - y;
 }
 
 int arrayPairSum(int *nums, int numsSize)
 {
-    /*
-     * Sort and pair neighbors.
-     * The smaller value of each pair is at even indexes.
-     */
-    int sum = 0;
+    qsort(nums, (size_t)numsSize, sizeof(int), compare);
 
-    qsort(nums, (size_t)numsSize, sizeof(*nums), compare_ints);
+    int sum = 0;
 
     for (int i = 0; i < numsSize; i += 2) {
         sum += nums[i];
