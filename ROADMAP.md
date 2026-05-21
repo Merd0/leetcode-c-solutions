@@ -41,16 +41,16 @@ Status meanings:
 
 | Order | # | Problem | Status | Solved |
 |---:|---:|---------|--------|--------|
-| 25 | #0709 | To Lower Case | Todo | - |
-| 26 | #0771 | Jewels and Stones | Todo | - |
-| 27 | #0058 | Length of Last Word | Todo | - |
-| 28 | #0344 | Reverse String | Todo | - |
-| 29 | #0557 | Reverse Words in a String III | Todo | - |
-| 30 | #0125 | Valid Palindrome | Todo | - |
-| 31 | #0242 | Valid Anagram | Todo | - |
-| 32 | #0387 | First Unique Character in a String | Todo | - |
-| 33 | #0383 | Ransom Note | Todo | - |
-| 34 | #0392 | Is Subsequence | Todo | - |
+| 25 | #0709 | To Lower Case | Done | 2026-05-21 |
+| 26 | #0771 | Jewels and Stones | Done | 2026-05-21 |
+| 27 | #0058 | Length of Last Word | Done | 2026-05-21 |
+| 28 | #0344 | Reverse String | Done | 2026-05-21 |
+| 29 | #0557 | Reverse Words in a String III | Done | 2026-05-21 |
+| 30 | #0125 | Valid Palindrome | Done | 2026-05-21 |
+| 31 | #0242 | Valid Anagram | Done | 2026-05-21 |
+| 32 | #0387 | First Unique Character in a String | Done | 2026-05-21 |
+| 33 | #0383 | Ransom Note | Done | 2026-05-21 |
+| 34 | #0392 | Is Subsequence | Done | 2026-05-21 |
 | 35 | #0014 | Longest Common Prefix | Todo | - |
 | 36 | #0028 | Find the Index of the First Occurrence in a String | Todo | - |
 | 37 | #0345 | Reverse Vowels of a String | Todo | - |
