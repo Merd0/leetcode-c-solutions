@@ -7,12 +7,6 @@ int *findDisappearedNumbers(int *nums, int numsSize, int *returnSize)
      * Mark nums[value - 1] as negative when value appears.
      */
     int *missing = malloc((size_t)numsSize * sizeof(*missing));
-
-    if (missing == NULL) {
-        *returnSize = 0;
-        return NULL;
-    }
-
     *returnSize = 0;
 
     for (int i = 0; i < numsSize; ++i) {

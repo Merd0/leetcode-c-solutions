@@ -1,53 +1,29 @@
 #include <stdlib.h>
 
-static int **allocate_matrix(int rows, int cols, int **column_sizes)
-{
-    int **matrix = malloc((size_t)rows * sizeof(*matrix));
-
-    *column_sizes = malloc((size_t)rows * sizeof(**column_sizes));
-    if (matrix == NULL || *column_sizes == NULL) {
-        free(matrix);
-        free(*column_sizes);
-        return NULL;
-    }
-
-    for (int row = 0; row < rows; ++row) {
-        matrix[row] = malloc((size_t)cols * sizeof(**matrix));
-        if (matrix[row] == NULL) {
-            return NULL;
-        }
-        (*column_sizes)[row] = cols;
-    }
-
-    return matrix;
-}
-
 int **transpose(int **matrix,
                 int matrixSize,
                 int *matrixColSize,
                 int *returnSize,
                 int **returnColumnSizes)
 {
-    /*
-     * Transpose rule:
-     * answer[col][row] = matrix[row][col].
-     */
-    int rows = matrixSize;
-    int cols = matrixColSize[0];
-    int **answer = allocate_matrix(cols, rows, returnColumnSizes);
+    int rowCount = matrixSize;
+    int colCount = matrixColSize[0];
 
-    if (answer == NULL) {
-        *returnSize = 0;
-        return NULL;
+    int **result = malloc((size_t)colCount * sizeof(int *));
+    *returnColumnSizes = malloc((size_t)colCount * sizeof(int));
+    *returnSize = colCount;
+
+    for (int i = 0; i < colCount; ++i) {
+        result[i] = malloc((size_t)rowCount * sizeof(int));
+        (*returnColumnSizes)[i] = rowCount;
     }
 
-    *returnSize = cols;
-
-    for (int row = 0; row < rows; ++row) {
-        for (int col = 0; col < cols; ++col) {
-            answer[col][row] = matrix[row][col];
+    /* Transpose rule: old [row][col] becomes new [col][row]. */
+    for (int row = 0; row < rowCount; ++row) {
+        for (int col = 0; col < colCount; ++col) {
+            result[col][row] = matrix[row][col];
         }
     }
 
-    return answer;
+    return result;
 }
