@@ -10,11 +10,6 @@ int *smallerNumbersThanCurrent(int *nums, int numsSize, int *returnSize)
     int smaller_before[101] = {0};
     int *answer = malloc((size_t)numsSize * sizeof(*answer));
 
-    if (answer == NULL) {
-        *returnSize = 0;
-        return NULL;
-    }
-
     for (int i = 0; i < numsSize; ++i) {
         ++counts[nums[i]];
     }

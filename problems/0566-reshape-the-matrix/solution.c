@@ -1,27 +1,5 @@
 #include <stdlib.h>
 
-static int **allocate_matrix(int rows, int cols, int **column_sizes)
-{
-    int **matrix = malloc((size_t)rows * sizeof(*matrix));
-
-    *column_sizes = malloc((size_t)rows * sizeof(**column_sizes));
-    if (matrix == NULL || *column_sizes == NULL) {
-        free(matrix);
-        free(*column_sizes);
-        return NULL;
-    }
-
-    for (int row = 0; row < rows; ++row) {
-        matrix[row] = malloc((size_t)cols * sizeof(**matrix));
-        if (matrix[row] == NULL) {
-            return NULL;
-        }
-        (*column_sizes)[row] = cols;
-    }
-
-    return matrix;
-}
-
 int **matrixReshape(int **mat,
                     int matSize,
                     int *matColSize,
@@ -30,36 +8,38 @@ int **matrixReshape(int **mat,
                     int *returnSize,
                     int **returnColumnSizes)
 {
-    /*
-     * Keep row-major order.
-     * If total cell count is different, return matrix with original shape.
-     */
-    int old_rows = matSize;
-    int old_cols = matColSize[0];
-    int new_rows = r;
-    int new_cols = c;
+    int oldRow = matSize;
+    int oldCol = matColSize[0];
 
-    if (old_rows * old_cols != r * c) {
-        new_rows = old_rows;
-        new_cols = old_cols;
+    /* Reshape is impossible if total cell count changes. */
+    if (oldRow * oldCol != r * c) {
+        *returnSize = oldRow;
+        *returnColumnSizes = malloc((size_t)oldRow * sizeof(int));
+
+        for (int i = 0; i < oldRow; ++i) {
+            (*returnColumnSizes)[i] = oldCol;
+        }
+
+        return mat;
     }
 
-    int **answer = allocate_matrix(new_rows, new_cols, returnColumnSizes);
-    if (answer == NULL) {
-        *returnSize = 0;
-        return NULL;
+    int **result = malloc((size_t)r * sizeof(int *));
+    *returnColumnSizes = malloc((size_t)r * sizeof(int));
+    *returnSize = r;
+
+    for (int i = 0; i < r; ++i) {
+        result[i] = malloc((size_t)c * sizeof(int));
+        (*returnColumnSizes)[i] = c;
     }
 
-    *returnSize = new_rows;
-
-    for (int index = 0; index < old_rows * old_cols; ++index) {
-        int old_row = index / old_cols;
-        int old_col = index % old_cols;
-        int new_row = index / new_cols;
-        int new_col = index % new_cols;
-
-        answer[new_row][new_col] = mat[old_row][old_col];
+    /* Walk the old matrix row by row and place values into the new shape. */
+    int index = 0;
+    for (int i = 0; i < oldRow; ++i) {
+        for (int j = 0; j < oldCol; ++j) {
+            result[index / c][index % c] = mat[i][j];
+            ++index;
+        }
     }
 
-    return answer;
+    return result;
 }

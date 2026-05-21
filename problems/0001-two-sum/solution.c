@@ -11,12 +11,6 @@ int *twoSum(int *nums, int numsSize, int target, int *returnSize)
         for (int j = i + 1; j < numsSize; ++j) {
             if (nums[i] + nums[j] == target) {
                 int *answer = malloc(2 * sizeof(*answer));
-
-                if (answer == NULL) {
-                    *returnSize = 0;
-                    return NULL;
-                }
-
                 answer[0] = i;
                 answer[1] = j;
                 *returnSize = 2;
