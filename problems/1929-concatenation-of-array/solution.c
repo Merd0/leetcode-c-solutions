@@ -1,17 +1,21 @@
 #include <stdlib.h>
 
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
 int *getConcatenation(int *nums, int numsSize, int *returnSize)
 {
-    /*
-     * Copy the same array twice into a new array.
-     */
-    int *answer = malloc((size_t)(numsSize * 2) * sizeof(*answer));
+    int *yDizi = malloc((size_t)(numsSize * 2) * sizeof(int));
+
+    *returnSize = 2 * numsSize;
 
     for (int i = 0; i < numsSize; ++i) {
-        answer[i] = nums[i];
-        answer[i + numsSize] = nums[i];
+        yDizi[i] = nums[i];
     }
 
-    *returnSize = numsSize * 2;
-    return answer;
+    for (int i = numsSize; i < 2 * numsSize; ++i) {
+        yDizi[i] = nums[i - numsSize];
+    }
+
+    return yDizi;
 }

@@ -7,24 +7,33 @@ int thirdMax(int *nums, int numsSize)
     long third = LONG_MIN;
 
     for (int i = 0; i < numsSize; ++i) {
-        long value = nums[i];
+        long num = nums[i];
 
-        /* Duplicate values do not count as a new maximum. */
-        if (value == first || value == second || value == third) {
+        if (num == first || num == second || num == third) {
             continue;
         }
 
-        if (value > first) {
+        if (num > first) {
             third = second;
             second = first;
-            first = value;
-        } else if (value > second) {
+            first = num;
+        } else if (num > second) {
             third = second;
-            second = value;
-        } else if (value > third) {
-            third = value;
+            second = num;
+        } else if (num > third) {
+            third = num;
         }
     }
 
-    return third == LONG_MIN ? (int)first : (int)third;
+    if (third == LONG_MIN) {
+        return (int)first;
+    }
+
+    return (int)third;
 }
+
+/*
+ * Alternative:
+ * Sort from small to large, then scan backward for the 3rd distinct value.
+ * If fewer than 3 distinct values exist, return the maximum.
+ */

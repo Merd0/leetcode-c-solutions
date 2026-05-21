@@ -1,22 +1,19 @@
 int maximumWealth(int **accounts, int accountsSize, int *accountsColSize)
 {
-    /*
-     * Each row is one customer.
-     * Sum the row and keep the maximum wealth.
-     */
-    int best = 0;
+    int sum = 0;
+    int maxSum = 0;
 
-    for (int customer = 0; customer < accountsSize; ++customer) {
-        int wealth = 0;
+    for (int i = 0; i < accountsSize; ++i) {
+        sum = 0;
 
-        for (int bank = 0; bank < accountsColSize[customer]; ++bank) {
-            wealth += accounts[customer][bank];
+        for (int j = 0; j < accountsColSize[i]; ++j) {
+            sum += accounts[i][j];
         }
 
-        if (wealth > best) {
-            best = wealth;
+        if (maxSum < sum) {
+            maxSum = sum;
         }
     }
 
-    return best;
+    return maxSum;
 }

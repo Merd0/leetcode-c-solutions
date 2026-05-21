@@ -1,31 +1,29 @@
 int lengthOfLongestSubstring(char *s)
 {
-    /*
-     * Sliding window:
-     * start..end always contains unique characters.
-     * last_seen[ch] keeps the last index of each character.
-     */
-    int last_seen[256];
-    int start = 0;
-    int best = 0;
+    int last[256];
 
     for (int i = 0; i < 256; ++i) {
-        last_seen[i] = -1;
+        last[i] = -1;
     }
 
-    for (int end = 0; s[end] != '\0'; ++end) {
-        unsigned char ch = (unsigned char)s[end];
+    int left = 0;
+    int maxLen = 0;
 
-        if (last_seen[ch] >= start) {
-            start = last_seen[ch] + 1;
+    for (int right = 0; s[right] != '\0'; ++right) {
+        unsigned char ch = (unsigned char)s[right];
+
+        if (last[ch] >= left) {
+            left = last[ch] + 1;
         }
 
-        last_seen[ch] = end;
+        last[ch] = right;
 
-        if (end - start + 1 > best) {
-            best = end - start + 1;
+        int currentLen = right - left + 1;
+
+        if (currentLen > maxLen) {
+            maxLen = currentLen;
         }
     }
 
-    return best;
+    return maxLen;
 }

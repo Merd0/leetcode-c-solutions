@@ -1,24 +1,26 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-static int compare_ints(const void *left, const void *right)
+int compare(const void *a, const void *b)
 {
-    int a = *(const int *)left;
-    int b = *(const int *)right;
+    int x = *(const int *)a;
+    int y = *(const int *)b;
 
-    return (a > b) - (a < b);
+    if (x < y) {
+        return -1;
+    }
+    if (x > y) {
+        return 1;
+    }
+    return 0;
 }
 
 bool containsDuplicate(int *nums, int numsSize)
 {
-    /*
-     * Sort first.
-     * If a duplicate exists, equal values become neighbors.
-     */
-    qsort(nums, (size_t)numsSize, sizeof(*nums), compare_ints);
+    qsort(nums, (size_t)numsSize, sizeof(int), compare);
 
-    for (int i = 1; i < numsSize; ++i) {
-        if (nums[i] == nums[i - 1]) {
+    for (int i = 0; i < numsSize - 1; ++i) {
+        if (nums[i] == nums[i + 1]) {
             return true;
         }
     }
