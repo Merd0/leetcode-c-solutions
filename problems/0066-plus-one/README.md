@@ -7,7 +7,7 @@
 - Topics: Array, Math
 - Companies: Not tracked in this repo
 - Hint: Start from the last digit and handle carry only while digits are `9`.
-- Solved: 2026-05-22
+- Solved: 2026-05-20
 - LeetCode: https://leetcode.com/problems/plus-one/
 
 ## Problem Statement

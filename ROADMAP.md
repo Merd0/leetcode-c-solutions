@@ -25,7 +25,7 @@ Status meanings:
 | 11 | #0027 | Remove Element | Done | 2026-05-20 |
 | 12 | #0026 | Remove Duplicates from Sorted Array | Done | 2026-05-20 |
 | 13 | #0088 | Merge Sorted Array | Done | 2026-05-20 |
-| 14 | #0066 | Plus One | Done | 2026-05-22 |
+| 14 | #0066 | Plus One | Done | 2026-05-20 |
 | 15 | #0035 | Search Insert Position | Done | 2026-05-20 |
 | 16 | #0121 | Best Time to Buy and Sell Stock | Done | 2026-05-20 |
 | 17 | #0053 | Maximum Subarray | Done | 2026-05-20 |
