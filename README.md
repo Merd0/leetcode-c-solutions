@@ -33,7 +33,7 @@ Target problem `README.md` format:
 ## Study Roadmap
 
 - First 100 C-focused LeetCode order: [ROADMAP.md](ROADMAP.md)
-- Current next unsolved problem in that order: `#0066 - Plus One`
+- Current next unsolved problem in that order: `#0020 - Valid Parentheses`
 
 ## Solved Problems
 
@@ -56,6 +56,7 @@ Solved dates are based on the LeetCode activity list captured on 2026-05-22.
 | #0035 | [Search Insert Position](problems/0035-search-insert-position) | Easy | 2026-05-20 | Binary search |
 | #0053 | [Maximum Subarray](problems/0053-maximum-subarray) | Medium | 2026-05-20 | Kadane algorithm |
 | #0058 | [Length of Last Word](problems/0058-length-of-last-word) | Easy | 2026-05-21 | Skip trailing spaces |
+| #0066 | [Plus One](problems/0066-plus-one) | Easy | 2026-05-22 | Carry from last digit |
 | #0088 | [Merge Sorted Array](problems/0088-merge-sorted-array) | Easy | 2026-05-20 | Merge from the back |
 | #0121 | [Best Time to Buy and Sell Stock](problems/0121-best-time-to-buy-and-sell-stock) | Easy | 2026-05-20 | Track min price |
 | #0125 | [Valid Palindrome](problems/0125-valid-palindrome) | Easy | 2026-05-21 | Two pointers with filtering |
