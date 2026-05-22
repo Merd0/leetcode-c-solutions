@@ -66,12 +66,12 @@ Status meanings:
 
 | Order | # | Problem | Status | Solved |
 |---:|---:|---------|--------|--------|
-| 45 | #0977 | Squares of a Sorted Array | Todo | - |
-| 46 | #0167 | Two Sum II - Input Array Is Sorted | Todo | - |
-| 47 | #0680 | Valid Palindrome II | Todo | - |
-| 48 | #0011 | Container With Most Water | Todo | - |
-| 49 | #0015 | 3Sum | Todo | - |
-| 50 | #0016 | 3Sum Closest | Todo | - |
+| 45 | #0977 | Squares of a Sorted Array | Done | 2026-05-22 |
+| 46 | #0167 | Two Sum II - Input Array Is Sorted | Done | 2026-05-22 |
+| 47 | #0680 | Valid Palindrome II | Done | 2026-05-22 |
+| 48 | #0011 | Container With Most Water | Done | 2026-05-22 |
+| 49 | #0015 | 3Sum | Done | 2026-05-22 |
+| 50 | #0016 | 3Sum Closest | Done | 2026-05-22 |
 
 ## 4. Stack
 
