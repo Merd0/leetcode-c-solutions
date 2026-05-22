@@ -37,15 +37,19 @@ Target problem `README.md` format:
 
 ## Solved Problems
 
-Solved dates are based on the LeetCode activity list captured on 2026-05-21.
+Solved dates are based on the LeetCode activity list captured on 2026-05-22.
 
 | # | Problem | Difficulty | Solved | Main idea |
 |---|---------|------------|--------|-----------|
 | #0001 | [Two Sum](problems/0001-two-sum) | Easy | 2026-05-18 | Array pair scan |
 | #0002 | [Add Two Numbers](problems/0002-add-two-numbers) | Medium | 2026-05-18 | Linked list addition with carry |
 | #0003 | [Longest Substring Without Repeating Characters](problems/0003-longest-substring-without-repeating-characters) | Medium | 2026-05-18 | Sliding window |
+| #0012 | [Integer to Roman](problems/0012-integer-to-roman) | Medium | 2026-05-22 | Greedy symbols |
+| #0013 | [Roman to Integer](problems/0013-roman-to-integer) | Easy | 2026-05-22 | Subtractive scan |
+| #0014 | [Longest Common Prefix](problems/0014-longest-common-prefix) | Easy | 2026-05-22 | Prefix trimming |
 | #0026 | [Remove Duplicates from Sorted Array](problems/0026-remove-duplicates-from-sorted-array) | Easy | 2026-05-20 | Two pointers |
 | #0027 | [Remove Element](problems/0027-remove-element) | Easy | 2026-05-20 | In-place compaction |
+| #0028 | [Find the Index of the First Occurrence in a String](problems/0028-find-the-index-of-the-first-occurrence-in-a-string) | Easy | 2026-05-22 | Brute force substring search |
 | #0035 | [Search Insert Position](problems/0035-search-insert-position) | Easy | 2026-05-20 | Binary search |
 | #0053 | [Maximum Subarray](problems/0053-maximum-subarray) | Medium | 2026-05-20 | Kadane algorithm |
 | #0058 | [Length of Last Word](problems/0058-length-of-last-word) | Easy | 2026-05-21 | Skip trailing spaces |
@@ -53,17 +57,23 @@ Solved dates are based on the LeetCode activity list captured on 2026-05-21.
 | #0121 | [Best Time to Buy and Sell Stock](problems/0121-best-time-to-buy-and-sell-stock) | Easy | 2026-05-20 | Track min price |
 | #0125 | [Valid Palindrome](problems/0125-valid-palindrome) | Easy | 2026-05-21 | Two pointers with filtering |
 | #0136 | [Single Number](problems/0136-single-number) | Easy | 2026-05-19 | XOR cancellation |
+| #0171 | [Excel Sheet Column Number](problems/0171-excel-sheet-column-number) | Easy | 2026-05-22 | Base-26 accumulation |
+| #0205 | [Isomorphic Strings](problems/0205-isomorphic-strings) | Easy | 2026-05-22 | Bidirectional character map |
 | #0217 | [Contains Duplicate](problems/0217-contains-duplicate) | Easy | 2026-05-18 | Sort then scan |
 | #0242 | [Valid Anagram](problems/0242-valid-anagram) | Easy | 2026-05-21 | Letter frequency count |
 | #0268 | [Missing Number](problems/0268-missing-number) | Easy | 2026-05-19 | XOR cancellation |
 | #0283 | [Move Zeroes](problems/0283-move-zeroes) | Easy | 2026-05-19 | Stable compaction |
+| #0290 | [Word Pattern](problems/0290-word-pattern) | Easy | 2026-05-22 | Bijective word map |
 | #0344 | [Reverse String](problems/0344-reverse-string) | Easy | 2026-05-21 | In-place swaps |
+| #0345 | [Reverse Vowels of a String](problems/0345-reverse-vowels-of-a-string) | Easy | 2026-05-22 | Two pointers on vowels |
 | #0383 | [Ransom Note](problems/0383-ransom-note) | Easy | 2026-05-21 | Required letter counts |
 | #0387 | [First Unique Character in a String](problems/0387-first-unique-character-in-a-string) | Easy | 2026-05-21 | Count then scan |
 | #0392 | [Is Subsequence](problems/0392-is-subsequence) | Easy | 2026-05-21 | Ordered scan |
 | #0414 | [Third Maximum Number](problems/0414-third-maximum-number) | Easy | 2026-05-20 | Track distinct maximums |
+| #0415 | [Add Strings](problems/0415-add-strings) | Easy | 2026-05-22 | Manual digit addition |
 | #0448 | [Find All Numbers Disappeared in an Array](problems/0448-find-all-numbers-disappeared-in-an-array) | Easy | 2026-05-20 | Index marking |
 | #0485 | [Max Consecutive Ones](problems/0485-max-consecutive-ones) | Easy | 2026-05-20 | Running streak |
+| #0520 | [Detect Capital](problems/0520-detect-capital) | Easy | 2026-05-22 | Count uppercase letters |
 | #0557 | [Reverse Words in a String III](problems/0557-reverse-words-in-a-string-iii) | Easy | 2026-05-21 | Reverse each word |
 | #0561 | [Array Partition](problems/0561-array-partition) | Easy | 2026-05-20 | Sort and pair |
 | #0566 | [Reshape the Matrix](problems/0566-reshape-the-matrix) | Easy | 2026-05-21 | Row-major remap |

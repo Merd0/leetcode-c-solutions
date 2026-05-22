@@ -51,16 +51,16 @@ Status meanings:
 | 32 | #0387 | First Unique Character in a String | Done | 2026-05-21 |
 | 33 | #0383 | Ransom Note | Done | 2026-05-21 |
 | 34 | #0392 | Is Subsequence | Done | 2026-05-21 |
-| 35 | #0014 | Longest Common Prefix | Todo | - |
-| 36 | #0028 | Find the Index of the First Occurrence in a String | Todo | - |
-| 37 | #0345 | Reverse Vowels of a String | Todo | - |
-| 38 | #0520 | Detect Capital | Todo | - |
-| 39 | #0415 | Add Strings | Todo | - |
-| 40 | #0171 | Excel Sheet Column Number | Todo | - |
-| 41 | #0013 | Roman to Integer | Todo | - |
-| 42 | #0012 | Integer to Roman | Todo | - |
-| 43 | #0205 | Isomorphic Strings | Todo | - |
-| 44 | #0290 | Word Pattern | Todo | - |
+| 35 | #0014 | Longest Common Prefix | Done | 2026-05-22 |
+| 36 | #0028 | Find the Index of the First Occurrence in a String | Done | 2026-05-22 |
+| 37 | #0345 | Reverse Vowels of a String | Done | 2026-05-22 |
+| 38 | #0520 | Detect Capital | Done | 2026-05-22 |
+| 39 | #0415 | Add Strings | Done | 2026-05-22 |
+| 40 | #0171 | Excel Sheet Column Number | Done | 2026-05-22 |
+| 41 | #0013 | Roman to Integer | Done | 2026-05-22 |
+| 42 | #0012 | Integer to Roman | Done | 2026-05-22 |
+| 43 | #0205 | Isomorphic Strings | Done | 2026-05-22 |
+| 44 | #0290 | Word Pattern | Done | 2026-05-22 |
 
 ## 3. Two Pointer
 
