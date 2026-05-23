@@ -104,6 +104,7 @@ Solved dates are based on the LeetCode activity list captured on 2026-05-23.
 | #0002 | [Add Two Numbers](problems/0002-add-two-numbers) | Medium | 2026-05-18 | Linked list addition with carry |
 | #0001 | [Two Sum](problems/0001-two-sum) | Easy | 2026-05-18 | Array pair scan |
 | #0003 | [Longest Substring Without Repeating Characters](problems/0003-longest-substring-without-repeating-characters) | Medium | 2026-05-18 | Sliding window |
+| #1752 | [Check if Array Is Sorted and Rotated](problems/1752-check-if-array-is-sorted-and-rotated) | Easy | 2026-05-24 | Count circular drops |
 
 ## Add New Solved Problem
 
