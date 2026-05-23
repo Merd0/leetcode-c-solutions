@@ -41,16 +41,13 @@ Solved dates are based on the LeetCode activity list captured on 2026-05-23.
 
 | # | Problem | Difficulty | Solved | Main idea |
 |---|---------|------------|--------|-----------|
-| #0001 | [Two Sum](problems/0001-two-sum) | Easy | 2026-05-18 | Array pair scan |
-| #0002 | [Add Two Numbers](problems/0002-add-two-numbers) | Medium | 2026-05-18 | Linked list addition with carry |
-| #0003 | [Longest Substring Without Repeating Characters](problems/0003-longest-substring-without-repeating-characters) | Medium | 2026-05-18 | Sliding window |
-| #0217 | [Contains Duplicate](problems/0217-contains-duplicate) | Easy | 2026-05-18 | Sort then scan |
 | #1920 | [Build Array from Permutation](problems/1920-build-array-from-permutation) | Easy | 2026-05-18 | Direct indexing |
 | #1929 | [Concatenation of Array](problems/1929-concatenation-of-array) | Easy | 2026-05-18 | Copy twice |
 | #1480 | [Running Sum of 1d Array](problems/1480-running-sum-of-1d-array) | Easy | 2026-05-18 | Prefix sum |
 | #1470 | [Shuffle the Array](problems/1470-shuffle-the-array) | Easy | 2026-05-19 | Interleave halves |
 | #1672 | [Richest Customer Wealth](problems/1672-richest-customer-wealth) | Easy | 2026-05-19 | Row sum maximum |
 | #1365 | [How Many Numbers Are Smaller Than the Current Number](problems/1365-how-many-numbers-are-smaller-than-the-current-number) | Easy | 2026-05-19 | Brute force counting |
+| #0217 | [Contains Duplicate](problems/0217-contains-duplicate) | Easy | 2026-05-18 | Sort then scan |
 | #0136 | [Single Number](problems/0136-single-number) | Easy | 2026-05-19 | XOR cancellation |
 | #0268 | [Missing Number](problems/0268-missing-number) | Easy | 2026-05-19 | XOR cancellation |
 | #0283 | [Move Zeroes](problems/0283-move-zeroes) | Easy | 2026-05-19 | Stable compaction |
@@ -104,6 +101,9 @@ Solved dates are based on the LeetCode activity list captured on 2026-05-23.
 | #0739 | [Daily Temperatures](problems/0739-daily-temperatures) | Medium | 2026-05-23 | Monotonic stack of days |
 | #0150 | [Evaluate Reverse Polish Notation](problems/0150-evaluate-reverse-polish-notation) | Medium | 2026-05-23 | Operand stack |
 | #0071 | [Simplify Path](problems/0071-simplify-path) | Medium | 2026-05-23 | Folder stack |
+| #0002 | [Add Two Numbers](problems/0002-add-two-numbers) | Medium | 2026-05-18 | Linked list addition with carry |
+| #0001 | [Two Sum](problems/0001-two-sum) | Easy | 2026-05-18 | Array pair scan |
+| #0003 | [Longest Substring Without Repeating Characters](problems/0003-longest-substring-without-repeating-characters) | Medium | 2026-05-18 | Sliding window |
 
 ## Add New Solved Problem
 
