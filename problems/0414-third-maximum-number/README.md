@@ -1,15 +1,20 @@
 # #0414 - Third Maximum Number
 
+## LeetCode Style Info
+
+- Status: Solved
 - Difficulty: Easy
+- Topics: Array, Sorting
+- Companies: Not tracked in this repo
+- Hint: Track distinct maximum values, not just positions.
 - Solved: 2026-05-20
 - LeetCode: https://leetcode.com/problems/third-maximum-number/
-- Topics: Array, Distinct Values
 
-## Problem
+## Problem Statement
 
-TR: Dizideki ucuncu farkli maksimum sayiyi dondur. Uc farkli maksimum yoksa en buyuk sayiyi dondur.
+TR: Bir tamsayi dizisi verilir. Ucuncu farkli maksimum sayiyi dondur. Uc farkli sayi yoksa en buyuk sayiyi dondur.
 
-EN: Return the third distinct maximum value. If fewer than three distinct values exist, return the maximum.
+EN: Given an integer array, return the third distinct maximum number. If fewer than three distinct values exist, return the maximum number.
 
 ## Starter Code (C)
 
@@ -26,23 +31,49 @@ int thirdMax(int* nums, int numsSize) {
 
 ## Return
 
-TR: Ucuncu farkli maksimum veya genel maksimum.
+TR: Ucuncu farkli maksimum veya yeterli farkli deger yoksa maksimum deger.
 
-EN: The third distinct maximum, or the overall maximum.
+EN: Return the third distinct maximum, or the maximum value if fewer than three distinct values exist.
 
-## Example
+## Examples
+
+### Example 1
+
+```text
+Input: nums = [3,2,1]
+Output: 1
+Explanation:
+The third maximum is 1.
+```
+
+### Example 2
+
+```text
+Input: nums = [1,2]
+Output: 2
+Explanation:
+There are only two distinct values, so return the maximum.
+```
+
+### Example 3
 
 ```text
 Input: nums = [2,2,3,1]
 Output: 1
-Reason: Distinct maximums are 3, 2, and 1.
+Explanation:
+The distinct values are 3, 2, and 1.
 ```
+
+## Constraints
+
+- `1 <= nums.length <= 10^4`
+- `-2^31 <= nums[i] <= 2^31 - 1`
 
 ## Approach
 
-TR: Birinci, ikinci ve ucuncu farkli maksimumlari takip et. `INT_MIN` degerini kacirmamak icin flag kullan.
+TR: `first`, `second`, `third` degiskenleri en buyuk uc farkli degeri tutar. Ayni deger tekrar geldiyse atlanir. Yeni deger bulundugu yere gore bu uc degiskeni kaydirir.
 
-EN: Track the first, second, and third distinct maximums. Use flags so `INT_MIN` is handled correctly.
+EN: `first`, `second`, and `third` store the three largest distinct values. Duplicate values are skipped. A new value shifts these variables depending on where it belongs.
 
 ## Solution
 

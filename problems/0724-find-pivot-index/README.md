@@ -1,15 +1,20 @@
 # #0724 - Find Pivot Index
 
+## LeetCode Style Info
+
+- Status: Solved
 - Difficulty: Easy
+- Topics: Array, Prefix Sum
+- Companies: Not tracked in this repo
+- Hint: At index `i`, compare the sum on the left with the sum on the right.
 - Solved: 2026-05-20
 - LeetCode: https://leetcode.com/problems/find-pivot-index/
-- Topics: Array, Prefix Sum
 
-## Problem
+## Problem Statement
 
-TR: Bir indekste sol taraftaki elemanlar toplami ile sag taraftaki elemanlar toplami esit ise bu indeks pivot'tur. En soldaki pivot indeksini bul.
+TR: Bir dizide pivot indeks, solundaki elemanlarin toplami ile sagindaki elemanlarin toplaminin esit oldugu indekstir. En soldaki pivot indeksi dondur; yoksa `-1` dondur.
 
-EN: A pivot index has equal sum on its left and right sides. Return the leftmost pivot index.
+EN: A pivot index is an index where the sum of values to the left equals the sum of values to the right. Return the leftmost pivot index, or `-1` if none exists.
 
 ## Starter Code (C)
 
@@ -26,23 +31,47 @@ int pivotIndex(int* nums, int numsSize) {
 
 ## Return
 
-TR: Ilk pivot indeksi; yoksa `-1`.
+TR: En soldaki pivot indeks veya pivot yoksa `-1`.
 
-EN: The first pivot index, or `-1` if none exists.
+EN: Return the leftmost pivot index, or `-1` when it does not exist.
 
-## Example
+## Examples
+
+### Example 1
 
 ```text
 Input: nums = [1,7,3,6,5,6]
 Output: 3
-Reason: left sum 1+7+3 equals right sum 5+6.
+Explanation:
+Left sum is 1 + 7 + 3 = 11, and right sum is 5 + 6 = 11.
 ```
+
+### Example 2
+
+```text
+Input: nums = [1,2,3]
+Output: -1
+```
+
+### Example 3
+
+```text
+Input: nums = [2,1,-1]
+Output: 0
+Explanation:
+The left side is empty, and the right side sums to 0.
+```
+
+## Constraints
+
+- `1 <= nums.length <= 10^4`
+- `-1000 <= nums[i] <= 1000`
 
 ## Approach
 
-TR: Once toplami hesapla. Her indekste sag toplam `total - left_sum - nums[i]` olarak bulunur.
+TR: Once toplam dizi toplami hesaplanir. Sonra soldan saga ilerlerken `leftSum` tutulur. `rightSum = totalSum - leftSum - nums[i]` esitligi kontrol edilir.
 
-EN: Compute total sum first. At each index, derive right sum as `total - left_sum - nums[i]`.
+EN: First compute the total sum. Then scan left to right while maintaining `leftSum`. For each index, compute `rightSum = totalSum - leftSum - nums[i]` and compare.
 
 ## Solution
 

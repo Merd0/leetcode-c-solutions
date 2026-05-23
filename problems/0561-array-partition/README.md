@@ -1,15 +1,20 @@
 # #0561 - Array Partition
 
+## LeetCode Style Info
+
+- Status: Solved
 - Difficulty: Easy
+- Topics: Array, Greedy, Sorting
+- Companies: Not tracked in this repo
+- Hint: After sorting, pair neighboring values.
 - Solved: 2026-05-20
 - LeetCode: https://leetcode.com/problems/array-partition/
-- Topics: Array, Sorting, Greedy
 
-## Problem
+## Problem Statement
 
-TR: `2n` sayiyi n ikiliye ayir. Her ikilinin kucuk elemanlari toplami maksimum olsun.
+TR: `2n` elemanli bir dizi verilir. Elemanlari `n` cift haline getir. Her ciftin minimumlarinin toplami maksimum olacak sekilde bu toplami dondur.
 
-EN: Split `2n` numbers into `n` pairs so the sum of each pair's smaller value is maximized.
+EN: Given an array of `2n` integers, pair them into `n` pairs. Maximize the sum of the smaller value in each pair and return that sum.
 
 ## Starter Code (C)
 
@@ -26,23 +31,41 @@ int arrayPairSum(int* nums, int numsSize) {
 
 ## Return
 
-TR: Maksimum mumkun minimumlar toplami.
+TR: Ciftlerin minimumlari toplamindan elde edilebilecek maksimum deger.
 
-EN: Maximum possible sum of pair minimums.
+EN: Return the maximum possible sum of pair minimums.
 
-## Example
+## Examples
+
+### Example 1
+
+```text
+Input: nums = [1,4,3,2]
+Output: 4
+Explanation:
+Pair as (1,2) and (3,4), then 1 + 3 = 4.
+```
+
+### Example 2
 
 ```text
 Input: nums = [6,2,6,5,1,2]
 Output: 9
-Reason: sorted pairs can contribute 1 + 2 + 6.
+Explanation:
+Pair as (1,2), (2,5), and (6,6), then 1 + 2 + 6 = 9.
 ```
+
+## Constraints
+
+- `1 <= n <= 10^4`
+- `nums.length == 2 * n`
+- `-10^4 <= nums[i] <= 10^4`
 
 ## Approach
 
-TR: Diziyi sirala ve yan yana eslestir. Her ciftin ilk elemani toplama eklenir.
+TR: Dizi siralanir. Sirali dizide komsu elemanlari cift yapmak, kucuk elemanlarin mumkun oldugunca buyuk kalmasini saglar. Bu yuzden `0, 2, 4, ...` indeksleri toplanir.
 
-EN: Sort the array and pair neighbors. Add the first value of each pair.
+EN: Sort the array. Pairing neighboring values keeps the smaller values as large as possible. Therefore, sum values at indices `0, 2, 4, ...`.
 
 ## Solution
 
