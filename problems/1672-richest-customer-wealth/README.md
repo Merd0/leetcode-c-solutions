@@ -1,15 +1,20 @@
 # #1672 - Richest Customer Wealth
 
+## LeetCode Style Info
+
+- Status: Solved
 - Difficulty: Easy
+- Topics: Array, Matrix
+- Companies: Not tracked in this repo
+- Hint: Each row belongs to one customer; sum each row and keep the maximum.
 - Solved: 2026-05-19
 - LeetCode: https://leetcode.com/problems/richest-customer-wealth/
-- Topics: Matrix, Row Sum
 
-## Problem
+## Problem Statement
 
-TR: Her satir bir musteriyi, her sutun o musterinin bir bankadaki parasini temsil eder. En zengin musterinin toplam servetini bul.
+TR: `accounts[i][j]`, `i` musterinin `j` bankasindaki parasini temsil eder. En zengin musterinin toplam parasini dondur.
 
-EN: Each row is a customer and each column is money in one bank. Return the largest total wealth.
+EN: `accounts[i][j]` is the money customer `i` has in bank `j`. Return the highest total wealth among all customers.
 
 ## Starter Code (C)
 
@@ -21,28 +26,52 @@ int maximumWealth(int** accounts, int accountsSize, int* accountsColSize) {
 
 ## Parameters
 
-- `accounts`: Matrix of customer accounts.
+- `accounts`: Matrix of customer bank balances.
 - `accountsSize`: Number of customers.
-- `accountsColSize`: Number of accounts per customer row.
+- `accountsColSize`: Number of bank accounts in each row.
 
 ## Return
 
-TR: En buyuk satir toplami.
+TR: En yuksek musteri toplam serveti.
 
-EN: The maximum row sum.
+EN: Return the maximum row sum.
 
-## Example
+## Examples
+
+### Example 1
 
 ```text
 Input: accounts = [[1,2,3],[3,2,1]]
 Output: 6
+Explanation:
+Both customers have total wealth 6.
 ```
+
+### Example 2
+
+```text
+Input: accounts = [[1,5],[7,3],[3,5]]
+Output: 10
+```
+
+### Example 3
+
+```text
+Input: accounts = [[2,8,7],[7,1,3],[1,9,5]]
+Output: 17
+```
+
+## Constraints
+
+- `1 <= accounts.length <= 50`
+- `1 <= accounts[i].length <= 50`
+- `1 <= accounts[i][j] <= 100`
 
 ## Approach
 
-TR: Her satiri topla ve en buyuk toplami sakla.
+TR: Her satirin toplamini hesapla. Satir toplami mevcut maksimumdan buyukse maksimumu guncelle.
 
-EN: Sum each row and keep the largest total.
+EN: Compute the sum of each row. If a row sum is greater than the current maximum, update the maximum.
 
 ## Solution
 

@@ -1,15 +1,20 @@
 # #0088 - Merge Sorted Array
 
+## LeetCode Style Info
+
+- Status: Solved
 - Difficulty: Easy
+- Topics: Array, Two Pointers, Sorting
+- Companies: Not tracked in this repo
+- Hint: Fill `nums1` from the end so existing values are not overwritten too early.
 - Solved: 2026-05-20
 - LeetCode: https://leetcode.com/problems/merge-sorted-array/
-- Topics: Array, Two Pointers, Sorting
 
-## Problem
+## Problem Statement
 
-TR: `nums1` ve `nums2` sirali verilir. `nums2` degerlerini de kullanarak sonucu `nums1` icinde sirali hale getir.
+TR: Sirali iki dizi verilir. `nums1` dizisinin ilk `m` elemani gercek veridir, son kisminda `nums2` icin bos alan vardir. `nums2` elemanlarini `nums1` icine sirali sekilde yerinde birlestir.
 
-EN: Given two sorted arrays, merge the values from `nums2` into `nums1` so `nums1` becomes sorted.
+EN: Given two sorted arrays, the first `m` values of `nums1` are real data and the remaining space is reserved for `nums2`. Merge `nums2` into `nums1` in sorted order in-place.
 
 ## Starter Code (C)
 
@@ -21,31 +26,55 @@ void merge(int* nums1, int nums1Size, int m, int* nums2, int nums2Size, int n) {
 
 ## Parameters
 
-- `nums1`: First array; has enough trailing space for the merge result.
-- `nums1Size`: Total capacity/length of `nums1`.
-- `m`: Number of real sorted values initially in `nums1`.
+- `nums1`: First sorted array with enough trailing space.
+- `nums1Size`: Total capacity of `nums1`, equal to `m + n`.
+- `m`: Number of real values initially in `nums1`.
 - `nums2`: Second sorted array.
-- `nums2Size`: Length of `nums2`.
-- `n`: Number of real values in `nums2`.
+- `nums2Size`: Size of `nums2`.
+- `n`: Number of values in `nums2`.
 
 ## Return
 
-TR: Bir sey dondurmez; sonuc `nums1` icine yazilir.
+TR: Fonksiyon `void` doner; sonuc `nums1` icine yazilir.
 
-EN: Return nothing; write the merged result into `nums1`.
+EN: The function returns `void`; the merged result is written into `nums1`.
 
-## Example
+## Examples
+
+### Example 1
 
 ```text
 Input: nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
-After call: nums1 = [1,2,2,3,5,6]
+Output: [1,2,2,3,5,6]
 ```
+
+### Example 2
+
+```text
+Input: nums1 = [1], m = 1, nums2 = [], n = 0
+Output: [1]
+```
+
+### Example 3
+
+```text
+Input: nums1 = [0], m = 0, nums2 = [1], n = 1
+Output: [1]
+```
+
+## Constraints
+
+- `nums1.length == m + n`
+- `nums2.length == n`
+- `0 <= m, n <= 200`
+- `1 <= m + n <= 200`
+- `-10^9 <= nums1[i], nums2[j] <= 10^9`
 
 ## Approach
 
-TR: Sondan baslayarak yaz. Boylece `nums1` icindeki henuz kullanilmamis degerleri ezmezsin.
+TR: En buyuk elemanlari sona yazmak icin uc pointer kullan. `i = m - 1`, `j = n - 1`, `k = m + n - 1`. Buyuk olan deger `nums1[k]` konumuna yazilir.
 
-EN: Write from the back so values in `nums1` that have not been read yet are not overwritten.
+EN: Use three pointers to write the largest remaining value at the end. `i = m - 1`, `j = n - 1`, and `k = m + n - 1`. Write the larger candidate into `nums1[k]`.
 
 ## Solution
 

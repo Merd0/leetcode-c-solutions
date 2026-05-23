@@ -1,15 +1,20 @@
 # #0283 - Move Zeroes
 
+## LeetCode Style Info
+
+- Status: Solved
 - Difficulty: Easy
+- Topics: Array, Two Pointers
+- Companies: Not tracked in this repo
+- Hint: First compact non-zero values, then fill the rest with zeroes.
 - Solved: 2026-05-19
 - LeetCode: https://leetcode.com/problems/move-zeroes/
-- Topics: Array, Two Pointers, In-place
 
-## Problem
+## Problem Statement
 
-TR: Dizideki tum sifirlari sona tasi. Sifir olmayan elemanlarin kendi aralarindaki sirasini koru.
+TR: Bir tamsayi dizisi verilir. Tum `0` degerlerini dizinin sonuna tasirken sifir olmayan elemanlarin goreli sirasi korunmalidir. Islem yerinde yapilir.
 
-EN: Move all zeroes to the end while keeping the relative order of non-zero values.
+EN: Given an integer array, move all `0` values to the end while preserving the relative order of non-zero values. The operation must be done in-place.
 
 ## Starter Code (C)
 
@@ -21,27 +26,49 @@ void moveZeroes(int* nums, int numsSize) {
 
 ## Parameters
 
-- `nums`: Input array, modified in-place.
+- `nums`: Input array modified in-place.
 - `numsSize`: Number of elements in `nums`.
 
 ## Return
 
-TR: Bir sey dondurmez; dizi yerinde degisir.
+TR: Fonksiyon `void` doner; sonuc `nums` uzerinde olusur.
 
-EN: Return nothing; modify the array in-place.
+EN: The function returns `void`; the result is written directly into `nums`.
 
-## Example
+## Examples
+
+### Example 1
 
 ```text
 Input: nums = [0,1,0,3,12]
-After call: nums = [1,3,12,0,0]
+Output: [1,3,12,0,0]
 ```
+
+### Example 2
+
+```text
+Input: nums = [0]
+Output: [0]
+```
+
+### Example 3
+
+```text
+Input: nums = [1,0,1]
+Output: [1,1,0]
+```
+
+## Constraints
+
+- `1 <= nums.length <= 10^4`
+- `-2^31 <= nums[i] <= 2^31 - 1`
+- The solution should modify the array in-place.
 
 ## Approach
 
-TR: Once sifir olmayanlari basa kompakt yaz, sonra kalan pozisyonlari sifirla.
+TR: `index` degiskeni sifir olmayan elemanlarin yazilacagi siradaki yeri tutar. Once sifir olmayanlar basa yazilir, sonra kalan bolum `0` ile doldurulur.
 
-EN: First compact non-zero values to the front, then fill the remaining positions with zeroes.
+EN: Use `index` as the next write position for non-zero values. First write all non-zero values to the front, then fill the remaining positions with `0`.
 
 ## Solution
 

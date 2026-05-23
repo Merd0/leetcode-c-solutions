@@ -1,15 +1,20 @@
 # #1470 - Shuffle the Array
 
+## LeetCode Style Info
+
+- Status: Solved
 - Difficulty: Easy
+- Topics: Array
+- Companies: Not tracked in this repo
+- Hint: Values from the first and second half should be written alternately.
 - Solved: 2026-05-19
 - LeetCode: https://leetcode.com/problems/shuffle-the-array/
-- Topics: Array, Simulation
 
-## Problem
+## Problem Statement
 
-TR: Dizi `[x1, x2, ..., xn, y1, y2, ..., yn]` formatindadir. Bunu `[x1, y1, x2, y2, ...]` formatina cevir.
+TR: `nums = [x1,x2,...,xn,y1,y2,...,yn]` seklinde verilen diziyi `[x1,y1,x2,y2,...,xn,yn]` sirasina cevir.
 
-EN: The array is shaped like `[x1, x2, ..., xn, y1, y2, ..., yn]`. Return it as `[x1, y1, x2, y2, ...]`.
+EN: Given `nums = [x1,x2,...,xn,y1,y2,...,yn]`, return `[x1,y1,x2,y2,...,xn,yn]`.
 
 ## Starter Code (C)
 
@@ -21,29 +26,51 @@ int* shuffle(int* nums, int numsSize, int n, int* returnSize) {
 
 ## Parameters
 
-- `nums`: Input array containing x half followed by y half.
+- `nums`: Input array of length `2 * n`.
 - `numsSize`: Number of elements in `nums`.
-- `n`: Half length.
+- `n`: Size of each half.
 - `returnSize`: Output length of the returned array.
 
 ## Return
 
-TR: Karistirilmis yeni dizi.
+TR: Ilk yari ve ikinci yari elemanlarini sirayla karistiran yeni dizi.
 
-EN: A new array with x and y values interleaved.
+EN: Return a new array that interleaves the first half and the second half.
 
-## Example
+## Examples
+
+### Example 1
 
 ```text
 Input: nums = [2,5,1,3,4,7], n = 3
 Output: [2,3,5,4,1,7]
 ```
 
+### Example 2
+
+```text
+Input: nums = [1,2,3,4,4,3,2,1], n = 4
+Output: [1,4,2,3,3,2,4,1]
+```
+
+### Example 3
+
+```text
+Input: nums = [1,1,2,2], n = 2
+Output: [1,2,1,2]
+```
+
+## Constraints
+
+- `1 <= n <= 500`
+- `nums.length == 2 * n`
+- `1 <= nums[i] <= 10^3`
+
 ## Approach
 
-TR: Ilk yari ve ikinci yariyi ayni anda oku; sirayla `x`, sonra `y` yaz.
+TR: `i` her zaman bir `x` ve bir `y` elemanini temsil eder. `result[2 * i] = nums[i]`, `result[2 * i + 1] = nums[i + n]` yazilir.
 
-EN: Read both halves together; write one `x`, then one `y`.
+EN: Each `i` represents one `x` and one `y`. Write `result[2 * i] = nums[i]` and `result[2 * i + 1] = nums[i + n]`.
 
 ## Solution
 
