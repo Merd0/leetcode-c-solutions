@@ -77,22 +77,22 @@ Status meanings:
 
 | Order | # | Problem | Status | Solved |
 |---:|---:|---------|--------|--------|
-| 51 | #0020 | Valid Parentheses | Next | - |
-| 52 | #0682 | Baseball Game | Todo | - |
-| 53 | #0844 | Backspace String Compare | Todo | - |
-| 54 | #0155 | Min Stack | Todo | - |
-| 55 | #0232 | Implement Queue using Stacks | Todo | - |
-| 56 | #0225 | Implement Stack using Queues | Todo | - |
-| 57 | #0496 | Next Greater Element I | Todo | - |
-| 58 | #0739 | Daily Temperatures | Todo | - |
-| 59 | #0150 | Evaluate Reverse Polish Notation | Todo | - |
-| 60 | #0071 | Simplify Path | Todo | - |
+| 51 | #0020 | Valid Parentheses | Done | 2026-05-23 |
+| 52 | #0682 | Baseball Game | Done | 2026-05-23 |
+| 53 | #0844 | Backspace String Compare | Done | 2026-05-23 |
+| 54 | #0155 | Min Stack | Done | 2026-05-23 |
+| 55 | #0232 | Implement Queue using Stacks | Done | 2026-05-23 |
+| 56 | #0225 | Implement Stack using Queues | Done | 2026-05-23 |
+| 57 | #0496 | Next Greater Element I | Done | 2026-05-23 |
+| 58 | #0739 | Daily Temperatures | Done | 2026-05-23 |
+| 59 | #0150 | Evaluate Reverse Polish Notation | Done | 2026-05-23 |
+| 60 | #0071 | Simplify Path | Done | 2026-05-23 |
 
 ## 5. Linked List
 
 | Order | # | Problem | Status | Solved |
 |---:|---:|---------|--------|--------|
-| 61 | #0021 | Merge Two Sorted Lists | Todo | - |
+| 61 | #0021 | Merge Two Sorted Lists | Next | - |
 | 62 | #0206 | Reverse Linked List | Todo | - |
 | 63 | #0141 | Linked List Cycle | Todo | - |
 | 64 | #0876 | Middle of the Linked List | Todo | - |
