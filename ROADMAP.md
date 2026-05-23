@@ -153,6 +153,14 @@ Status meanings:
 | 99 | #0104 | Maximum Depth of Binary Tree | Todo | - |
 | 100 | #0226 | Invert Binary Tree | Todo | - |
 
+## Daily / Extra Solved
+
+These problems are solved outside the first-100 roadmap but still archived for revision.
+
+| # | Problem | Solved |
+|---:|---------|--------|
+| #1752 | Check if Array Is Sorted and Rotated | 2026-05-24 |
+
 ## Rule For Solving
 
 1. First solve with your own reasoning, even if it is brute force.
