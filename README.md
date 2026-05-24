@@ -33,11 +33,12 @@ Target problem `README.md` format:
 ## Study Roadmap
 
 - First 100 C-focused LeetCode order: [ROADMAP.md](ROADMAP.md)
-- Current next unsolved problem in that order: `#0021 - Merge Two Sorted Lists`
+- Current next unsolved problem in that order: `#0704 - Binary Search`
 
 ## Solved Problems
 
-Solved dates are based on the LeetCode activity list captured on 2026-05-23.
+Solved dates are based on the LeetCode activity lists captured while building
+this archive.
 
 | # | Problem | Difficulty | Solved | Main idea |
 |---|---------|------------|--------|-----------|
@@ -101,7 +102,18 @@ Solved dates are based on the LeetCode activity list captured on 2026-05-23.
 | #0739 | [Daily Temperatures](problems/0739-daily-temperatures) | Medium | 2026-05-23 | Monotonic stack of days |
 | #0150 | [Evaluate Reverse Polish Notation](problems/0150-evaluate-reverse-polish-notation) | Medium | 2026-05-23 | Operand stack |
 | #0071 | [Simplify Path](problems/0071-simplify-path) | Medium | 2026-05-23 | Folder stack |
+| #0021 | [Merge Two Sorted Lists](problems/0021-merge-two-sorted-lists) | Easy | 2026-05-24 | Dummy-tail merge |
+| #0206 | [Reverse Linked List](problems/0206-reverse-linked-list) | Easy | 2026-05-24 | Reverse links iteratively |
+| #0141 | [Linked List Cycle](problems/0141-linked-list-cycle) | Easy | 2026-05-24 | Slow and fast pointers |
+| #0876 | [Middle of the Linked List](problems/0876-middle-of-the-linked-list) | Easy | 2026-05-24 | Count then move halfway |
+| #0203 | [Remove Linked List Elements](problems/0203-remove-linked-list-elements) | Easy | 2026-05-24 | Dummy node removal |
+| #0237 | [Delete Node in a Linked List](problems/0237-delete-node-in-a-linked-list) | Medium | 2026-05-24 | Copy next node |
+| #0234 | [Palindrome Linked List](problems/0234-palindrome-linked-list) | Easy | 2026-05-24 | Reverse second half |
+| #0019 | [Remove Nth Node From End of List](problems/0019-remove-nth-node-from-end-of-list) | Medium | 2026-05-24 | Count then delete |
 | #0002 | [Add Two Numbers](problems/0002-add-two-numbers) | Medium | 2026-05-18 | Linked list addition with carry |
+| #0024 | [Swap Nodes in Pairs](problems/0024-swap-nodes-in-pairs) | Medium | 2026-05-24 | Dummy pair swap |
+| #0083 | [Remove Duplicates from Sorted List](problems/0083-remove-duplicates-from-sorted-list) | Easy | 2026-05-24 | Skip equal next nodes |
+| #0082 | [Remove Duplicates from Sorted List II](problems/0082-remove-duplicates-from-sorted-list-ii) | Medium | 2026-05-24 | Remove duplicate groups |
 | #0001 | [Two Sum](problems/0001-two-sum) | Easy | 2026-05-18 | Array pair scan |
 | #0003 | [Longest Substring Without Repeating Characters](problems/0003-longest-substring-without-repeating-characters) | Medium | 2026-05-18 | Sliding window |
 | #1752 | [Check if Array Is Sorted and Rotated](problems/1752-check-if-array-is-sorted-and-rotated) | Easy | 2026-05-24 | Count circular drops |

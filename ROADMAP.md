@@ -92,24 +92,24 @@ Status meanings:
 
 | Order | # | Problem | Status | Solved |
 |---:|---:|---------|--------|--------|
-| 61 | #0021 | Merge Two Sorted Lists | Next | - |
-| 62 | #0206 | Reverse Linked List | Todo | - |
-| 63 | #0141 | Linked List Cycle | Todo | - |
-| 64 | #0876 | Middle of the Linked List | Todo | - |
-| 65 | #0203 | Remove Linked List Elements | Todo | - |
-| 66 | #0237 | Delete Node in a Linked List | Todo | - |
-| 67 | #0234 | Palindrome Linked List | Todo | - |
-| 68 | #0019 | Remove Nth Node From End of List | Todo | - |
+| 61 | #0021 | Merge Two Sorted Lists | Done | 2026-05-24 |
+| 62 | #0206 | Reverse Linked List | Done | 2026-05-24 |
+| 63 | #0141 | Linked List Cycle | Done | 2026-05-24 |
+| 64 | #0876 | Middle of the Linked List | Done | 2026-05-24 |
+| 65 | #0203 | Remove Linked List Elements | Done | 2026-05-24 |
+| 66 | #0237 | Delete Node in a Linked List | Done | 2026-05-24 |
+| 67 | #0234 | Palindrome Linked List | Done | 2026-05-24 |
+| 68 | #0019 | Remove Nth Node From End of List | Done | 2026-05-24 |
 | 69 | #0002 | Add Two Numbers | Done | 2026-05-18 |
-| 70 | #0024 | Swap Nodes in Pairs | Todo | - |
-| 71 | #0083 | Remove Duplicates from Sorted List | Todo | - |
-| 72 | #0082 | Remove Duplicates from Sorted List II | Todo | - |
+| 70 | #0024 | Swap Nodes in Pairs | Done | 2026-05-24 |
+| 71 | #0083 | Remove Duplicates from Sorted List | Done | 2026-05-24 |
+| 72 | #0082 | Remove Duplicates from Sorted List II | Done | 2026-05-24 |
 
 ## 6. Binary Search
 
 | Order | # | Problem | Status | Solved |
 |---:|---:|---------|--------|--------|
-| 73 | #0704 | Binary Search | Todo | - |
+| 73 | #0704 | Binary Search | Next | - |
 | 74 | #0278 | First Bad Version | Todo | - |
 | 75 | #0374 | Guess Number Higher or Lower | Todo | - |
 | 76 | #0069 | Sqrt(x) | Todo | - |
