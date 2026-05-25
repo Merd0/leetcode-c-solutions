@@ -115,6 +115,13 @@ this archive.
 | #0083 | [Remove Duplicates from Sorted List](problems/0083-remove-duplicates-from-sorted-list) | Easy | 2026-05-24 | Skip equal next nodes |
 | #0082 | [Remove Duplicates from Sorted List II](problems/0082-remove-duplicates-from-sorted-list-ii) | Medium | 2026-05-24 | Remove duplicate groups |
 | #0001 | [Two Sum](problems/0001-two-sum) | Easy | 2026-05-18 | Array pair scan |
+| #0169 | [Majority Element](problems/0169-majority-element) | Easy | 2026-05-25 | Sort and take middle |
+| #0349 | [Intersection of Two Arrays](problems/0349-intersection-of-two-arrays) | Easy | 2026-05-25 | Unique intersection scan |
+| #0350 | [Intersection of Two Arrays II](problems/0350-intersection-of-two-arrays-ii) | Easy | 2026-05-25 | Intersection with used marks |
+| #0202 | [Happy Number](problems/0202-happy-number) | Easy | 2026-05-25 | Detect repeated digit-square sums |
+| #0049 | [Group Anagrams](problems/0049-group-anagrams) | Medium | 2026-05-25 | Sorted string keys |
+| #0347 | [Top K Frequent Elements](problems/0347-top-k-frequent-elements) | Medium | 2026-05-25 | Sort counts by frequency |
+| #0560 | [Subarray Sum Equals K](problems/0560-subarray-sum-equals-k) | Medium | 2026-05-25 | Prefix sum hash counts |
 | #0003 | [Longest Substring Without Repeating Characters](problems/0003-longest-substring-without-repeating-characters) | Medium | 2026-05-18 | Sliding window |
 | #1752 | [Check if Array Is Sorted and Rotated](problems/1752-check-if-array-is-sorted-and-rotated) | Easy | 2026-05-24 | Count circular drops |
 
