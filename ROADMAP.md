@@ -124,13 +124,13 @@ Status meanings:
 | Order | # | Problem | Status | Solved |
 |---:|---:|---------|--------|--------|
 | 82 | #0001 | Two Sum | Done | 2026-05-18 |
-| 83 | #0169 | Majority Element | Todo | - |
-| 84 | #0349 | Intersection of Two Arrays | Todo | - |
-| 85 | #0350 | Intersection of Two Arrays II | Todo | - |
-| 86 | #0202 | Happy Number | Todo | - |
-| 87 | #0049 | Group Anagrams | Todo | - |
-| 88 | #0347 | Top K Frequent Elements | Todo | - |
-| 89 | #0560 | Subarray Sum Equals K | Todo | - |
+| 83 | #0169 | Majority Element | Done | 2026-05-25 |
+| 84 | #0349 | Intersection of Two Arrays | Done | 2026-05-25 |
+| 85 | #0350 | Intersection of Two Arrays II | Done | 2026-05-25 |
+| 86 | #0202 | Happy Number | Done | 2026-05-25 |
+| 87 | #0049 | Group Anagrams | Done | 2026-05-25 |
+| 88 | #0347 | Top K Frequent Elements | Done | 2026-05-25 |
+| 89 | #0560 | Subarray Sum Equals K | Done | 2026-05-25 |
 
 ## 8. Sliding Window
 
