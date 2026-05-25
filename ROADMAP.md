@@ -109,15 +109,15 @@ Status meanings:
 
 | Order | # | Problem | Status | Solved |
 |---:|---:|---------|--------|--------|
-| 73 | #0704 | Binary Search | Next | - |
-| 74 | #0278 | First Bad Version | Todo | - |
-| 75 | #0374 | Guess Number Higher or Lower | Todo | - |
-| 76 | #0069 | Sqrt(x) | Todo | - |
-| 77 | #0367 | Valid Perfect Square | Todo | - |
-| 78 | #0744 | Find Smallest Letter Greater Than Target | Todo | - |
-| 79 | #0034 | Find First and Last Position of Element in Sorted Array | Todo | - |
-| 80 | #0033 | Search in Rotated Sorted Array | Todo | - |
-| 81 | #0153 | Find Minimum in Rotated Sorted Array | Todo | - |
+| 73 | #0704 | Binary Search | Done | 2026-05-25 |
+| 74 | #0278 | First Bad Version | Done | 2026-05-25 |
+| 75 | #0374 | Guess Number Higher or Lower | Done | 2026-05-25 |
+| 76 | #0069 | Sqrt(x) | Done | 2026-05-25 |
+| 77 | #0367 | Valid Perfect Square | Done | 2026-05-25 |
+| 78 | #0744 | Find Smallest Letter Greater Than Target | Done | 2026-05-25 |
+| 79 | #0034 | Find First and Last Position of Element in Sorted Array | Done | 2026-05-25 |
+| 80 | #0033 | Search in Rotated Sorted Array | Done | 2026-05-25 |
+| 81 | #0153 | Find Minimum in Rotated Sorted Array | Done | 2026-05-25 |
 
 ## 7. Hash / Frequency
 
@@ -136,7 +136,7 @@ Status meanings:
 
 | Order | # | Problem | Status | Solved |
 |---:|---:|---------|--------|--------|
-| 90 | #0643 | Maximum Average Subarray I | Todo | - |
+| 90 | #0643 | Maximum Average Subarray I | Next | - |
 | 91 | #0003 | Longest Substring Without Repeating Characters | Done | 2026-05-18 |
 | 92 | #1004 | Max Consecutive Ones III | Todo | - |
 | 93 | #0209 | Minimum Size Subarray Sum | Todo | - |

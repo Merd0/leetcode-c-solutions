@@ -33,7 +33,7 @@ Target problem `README.md` format:
 ## Study Roadmap
 
 - First 100 C-focused LeetCode order: [ROADMAP.md](ROADMAP.md)
-- Current next unsolved problem in that order: `#0704 - Binary Search`
+- Current next unsolved problem in that order: `#0643 - Maximum Average Subarray I`
 
 ## Solved Problems
 
@@ -114,6 +114,15 @@ this archive.
 | #0024 | [Swap Nodes in Pairs](problems/0024-swap-nodes-in-pairs) | Medium | 2026-05-24 | Dummy pair swap |
 | #0083 | [Remove Duplicates from Sorted List](problems/0083-remove-duplicates-from-sorted-list) | Easy | 2026-05-24 | Skip equal next nodes |
 | #0082 | [Remove Duplicates from Sorted List II](problems/0082-remove-duplicates-from-sorted-list-ii) | Medium | 2026-05-24 | Remove duplicate groups |
+| #0704 | [Binary Search](problems/0704-binary-search) | Easy | 2026-05-25 | Standard binary search |
+| #0278 | [First Bad Version](problems/0278-first-bad-version) | Easy | 2026-05-25 | Lower-bound binary search |
+| #0374 | [Guess Number Higher or Lower](problems/0374-guess-number-higher-or-lower) | Easy | 2026-05-25 | API-guided binary search |
+| #0069 | [Sqrt(x)](problems/0069-sqrtx) | Easy | 2026-05-25 | Binary search floor root |
+| #0367 | [Valid Perfect Square](problems/0367-valid-perfect-square) | Easy | 2026-05-25 | Binary search exact root |
+| #0744 | [Find Smallest Letter Greater Than Target](problems/0744-find-smallest-letter-greater-than-target) | Easy | 2026-05-25 | Binary search with wrap |
+| #0034 | [Find First and Last Position of Element in Sorted Array](problems/0034-find-first-and-last-position-of-element-in-sorted-array) | Medium | 2026-05-25 | Two boundary searches |
+| #0033 | [Search in Rotated Sorted Array](problems/0033-search-in-rotated-sorted-array) | Medium | 2026-05-25 | Detect sorted half |
+| #0153 | [Find Minimum in Rotated Sorted Array](problems/0153-find-minimum-in-rotated-sorted-array) | Medium | 2026-05-25 | Compare mid with right |
 | #0001 | [Two Sum](problems/0001-two-sum) | Easy | 2026-05-18 | Array pair scan |
 | #0169 | [Majority Element](problems/0169-majority-element) | Easy | 2026-05-25 | Sort and take middle |
 | #0349 | [Intersection of Two Arrays](problems/0349-intersection-of-two-arrays) | Easy | 2026-05-25 | Unique intersection scan |
