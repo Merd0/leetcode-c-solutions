@@ -33,7 +33,7 @@ Target problem `README.md` format:
 ## Study Roadmap
 
 - First 100 C-focused LeetCode order: [ROADMAP.md](ROADMAP.md)
-- Current next unsolved problem in that order: `#0643 - Maximum Average Subarray I`
+- First 100 C-focused roadmap status: complete.
 
 ## Solved Problems
 
@@ -131,7 +131,17 @@ this archive.
 | #0049 | [Group Anagrams](problems/0049-group-anagrams) | Medium | 2026-05-25 | Sorted string keys |
 | #0347 | [Top K Frequent Elements](problems/0347-top-k-frequent-elements) | Medium | 2026-05-25 | Sort counts by frequency |
 | #0560 | [Subarray Sum Equals K](problems/0560-subarray-sum-equals-k) | Medium | 2026-05-25 | Prefix sum hash counts |
+| #0643 | [Maximum Average Subarray I](problems/0643-maximum-average-subarray-i) | Easy | 2026-05-26 | Fixed-size sliding window |
 | #0003 | [Longest Substring Without Repeating Characters](problems/0003-longest-substring-without-repeating-characters) | Medium | 2026-05-18 | Sliding window |
+| #1004 | [Max Consecutive Ones III](problems/1004-max-consecutive-ones-iii) | Medium | 2026-05-26 | Window with at most k zeroes |
+| #0209 | [Minimum Size Subarray Sum](problems/0209-minimum-size-subarray-sum) | Medium | 2026-05-26 | Shrink while sum is enough |
+| #0567 | [Permutation in String](problems/0567-permutation-in-string) | Medium | 2026-05-26 | Fixed window frequency match |
+| #0438 | [Find All Anagrams in a String](problems/0438-find-all-anagrams-in-a-string) | Medium | 2026-05-26 | Anagram window indices |
+| #0424 | [Longest Repeating Character Replacement](problems/0424-longest-repeating-character-replacement) | Medium | 2026-05-26 | Window replacement budget |
+| #0076 | [Minimum Window Substring](problems/0076-minimum-window-substring) | Hard | 2026-05-26 | Cover then shrink window |
+| #0239 | [Sliding Window Maximum](problems/0239-sliding-window-maximum) | Hard | 2026-05-26 | Monotonic deque |
+| #0104 | [Maximum Depth of Binary Tree](problems/0104-maximum-depth-of-binary-tree) | Easy | 2026-05-26 | Recursive subtree depth |
+| #0226 | [Invert Binary Tree](problems/0226-invert-binary-tree) | Easy | 2026-05-26 | Recursive child swap |
 | #1752 | [Check if Array Is Sorted and Rotated](problems/1752-check-if-array-is-sorted-and-rotated) | Easy | 2026-05-24 | Count circular drops |
 
 ## Add New Solved Problem

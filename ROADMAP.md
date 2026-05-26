@@ -136,22 +136,22 @@ Status meanings:
 
 | Order | # | Problem | Status | Solved |
 |---:|---:|---------|--------|--------|
-| 90 | #0643 | Maximum Average Subarray I | Next | - |
+| 90 | #0643 | Maximum Average Subarray I | Done | 2026-05-26 |
 | 91 | #0003 | Longest Substring Without Repeating Characters | Done | 2026-05-18 |
-| 92 | #1004 | Max Consecutive Ones III | Todo | - |
-| 93 | #0209 | Minimum Size Subarray Sum | Todo | - |
-| 94 | #0567 | Permutation in String | Todo | - |
-| 95 | #0438 | Find All Anagrams in a String | Todo | - |
-| 96 | #0424 | Longest Repeating Character Replacement | Todo | - |
-| 97 | #0076 | Minimum Window Substring | Todo | - |
-| 98 | #0239 | Sliding Window Maximum | Todo | - |
+| 92 | #1004 | Max Consecutive Ones III | Done | 2026-05-26 |
+| 93 | #0209 | Minimum Size Subarray Sum | Done | 2026-05-26 |
+| 94 | #0567 | Permutation in String | Done | 2026-05-26 |
+| 95 | #0438 | Find All Anagrams in a String | Done | 2026-05-26 |
+| 96 | #0424 | Longest Repeating Character Replacement | Done | 2026-05-26 |
+| 97 | #0076 | Minimum Window Substring | Done | 2026-05-26 |
+| 98 | #0239 | Sliding Window Maximum | Done | 2026-05-26 |
 
 ## 9. Recursion / Tree Start
 
 | Order | # | Problem | Status | Solved |
 |---:|---:|---------|--------|--------|
-| 99 | #0104 | Maximum Depth of Binary Tree | Todo | - |
-| 100 | #0226 | Invert Binary Tree | Todo | - |
+| 99 | #0104 | Maximum Depth of Binary Tree | Done | 2026-05-26 |
+| 100 | #0226 | Invert Binary Tree | Done | 2026-05-26 |
 
 ## Daily / Extra Solved
 
