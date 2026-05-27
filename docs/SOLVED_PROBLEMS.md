@@ -110,3 +110,4 @@ daily or extra solved problems that are outside the first-100 roadmap.
 | #0226 | [Invert Binary Tree](../problems/0226-invert-binary-tree) | Easy | 2026-05-26 | Recursive child swap |
 | #1752 | [Check if Array Is Sorted and Rotated](../problems/1752-check-if-array-is-sorted-and-rotated) | Easy | 2026-05-24 | Count circular drops |
 | #3120 | [Count the Number of Special Characters I](../problems/3120-count-the-number-of-special-characters-i) | Easy | 2026-05-27 | Lowercase and uppercase presence |
+| #3121 | [Count the Number of Special Characters II](../problems/3121-count-the-number-of-special-characters-ii) | Medium | 2026-05-27 | Last lowercase before first uppercase |
