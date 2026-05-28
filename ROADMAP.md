@@ -162,6 +162,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #1752 | Check if Array Is Sorted and Rotated | 2026-05-24 |
 | #3120 | Count the Number of Special Characters I | 2026-05-27 |
 | #3121 | Count the Number of Special Characters II | 2026-05-27 |
+| #3093 | Longest Common Suffix Queries | 2026-05-29 |
 
 ## Rule For Solving
 

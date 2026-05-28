@@ -12,7 +12,7 @@ signature, approach notes, and the submitted C solution.
 |------|--------|
 | Language | C |
 | First 100 C-focused roadmap | Complete |
-| Archived problems | 103 total: 100 roadmap problems + 3 daily extras |
+| Archived problems | 104 total: 100 roadmap problems + 4 daily extras |
 | Main solution format | `README.md` + `solution.c` per problem |
 
 ## Navigation
