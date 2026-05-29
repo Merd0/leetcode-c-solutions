@@ -163,6 +163,12 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #3120 | Count the Number of Special Characters I | 2026-05-27 |
 | #3121 | Count the Number of Special Characters II | 2026-05-27 |
 | #3093 | Longest Common Suffix Queries | 2026-05-29 |
+| #0191 | Number of 1 Bits | 2026-05-29 |
+| #0231 | Power of Two | 2026-05-29 |
+| #0461 | Hamming Distance | 2026-05-29 |
+| #0476 | Number Complement | 2026-05-29 |
+| #0190 | Reverse Bits | 2026-05-29 |
+| #0405 | Convert a Number to Hexadecimal | 2026-05-29 |
 
 ## Rule For Solving
 

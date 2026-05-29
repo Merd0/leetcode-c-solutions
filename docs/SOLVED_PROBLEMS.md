@@ -112,3 +112,9 @@ daily or extra solved problems that are outside the first-100 roadmap.
 | #3120 | [Count the Number of Special Characters I](../problems/3120-count-the-number-of-special-characters-i) | Easy | 2026-05-27 | Lowercase and uppercase presence |
 | #3121 | [Count the Number of Special Characters II](../problems/3121-count-the-number-of-special-characters-ii) | Medium | 2026-05-27 | Last lowercase before first uppercase |
 | #3093 | [Longest Common Suffix Queries](../problems/3093-longest-common-suffix-queries) | Hard | 2026-05-29 | Reversed suffix trie |
+| #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
+| #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
+| #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
+| #0476 | [Number Complement](../problems/0476-number-complement) | Easy | 2026-05-29 | Build mask and flip |
+| #0190 | [Reverse Bits](../problems/0190-reverse-bits) | Easy | 2026-05-29 | Shift bits into reversed result |
+| #0405 | [Convert a Number to Hexadecimal](../problems/0405-convert-a-number-to-hexadecimal) | Easy | 2026-05-29 | Extract 4-bit nibbles |
