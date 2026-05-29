@@ -4,7 +4,7 @@ Solved dates are based on the LeetCode activity lists captured while building
 this archive.
 
 The first 100 C-focused roadmap problems are complete. The table also includes
-daily or extra solved problems that are outside the first-100 roadmap.
+daily extras and focused practice blocks that are outside the first-100 roadmap.
 
 | # | Problem | Difficulty | Solved | Main idea |
 |---|---------|------------|--------|-----------|

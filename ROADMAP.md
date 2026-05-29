@@ -163,6 +163,15 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #3120 | Count the Number of Special Characters I | 2026-05-27 |
 | #3121 | Count the Number of Special Characters II | 2026-05-27 |
 | #3093 | Longest Common Suffix Queries | 2026-05-29 |
+
+## Bitwise / Embedded Essentials
+
+These problems are not daily extras. They are a focused bitwise practice block
+for C, embedded-style thinking, masks, shifts, nibbles, and register-like bit
+operations.
+
+| # | Problem | Solved |
+|---:|---------|--------|
 | #0191 | Number of 1 Bits | 2026-05-29 |
 | #0231 | Power of Two | 2026-05-29 |
 | #0461 | Hamming Distance | 2026-05-29 |
