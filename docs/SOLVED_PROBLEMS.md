@@ -112,6 +112,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #3120 | [Count the Number of Special Characters I](../problems/3120-count-the-number-of-special-characters-i) | Easy | 2026-05-27 | Lowercase and uppercase presence |
 | #3121 | [Count the Number of Special Characters II](../problems/3121-count-the-number-of-special-characters-ii) | Medium | 2026-05-27 | Last lowercase before first uppercase |
 | #3093 | [Longest Common Suffix Queries](../problems/3093-longest-common-suffix-queries) | Hard | 2026-05-29 | Reversed suffix trie |
+| #3300 | [Minimum Element After Replacement With Digit Sum](../problems/3300-minimum-element-after-replacement-with-digit-sum) | Easy | 2026-05-30 | Digit sum simulation |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
