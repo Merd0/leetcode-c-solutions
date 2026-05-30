@@ -124,3 +124,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0476 | [Number Complement](../problems/0476-number-complement) | Easy | 2026-05-29 | Build mask and flip |
 | #0190 | [Reverse Bits](../problems/0190-reverse-bits) | Easy | 2026-05-29 | Shift bits into reversed result |
 | #0405 | [Convert a Number to Hexadecimal](../problems/0405-convert-a-number-to-hexadecimal) | Easy | 2026-05-29 | Extract 4-bit nibbles |
+| #0067 | [Add Binary](../problems/0067-add-binary) | Easy | 2026-05-30 | Binary string addition with carry |
+| #0007 | [Reverse Integer](../problems/0007-reverse-integer) | Medium | 2026-05-30 | Digit reversal with overflow guard |
+| #0008 | [String to Integer (atoi)](../problems/0008-string-to-integer-atoi) | Medium | 2026-05-30 | Parser flow with integer clamp |
+| #0393 | [UTF-8 Validation](../problems/0393-utf-8-validation) | Medium | 2026-05-30 | Byte prefix validation |

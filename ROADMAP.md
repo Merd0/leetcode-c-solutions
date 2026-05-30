@@ -172,9 +172,9 @@ These problems are solved outside the first-100 roadmap but still archived for r
 
 ## Bitwise / Embedded Essentials
 
-These problems are not daily extras. They are a focused bitwise practice block
-for C, embedded-style thinking, masks, shifts, nibbles, and register-like bit
-operations.
+These problems are not daily extras. They are a focused embedded-style practice
+block for C: masks, shifts, nibbles, integer overflow, parsers, byte validation,
+and register-like bit operations.
 
 | # | Problem | Solved |
 |---:|---------|--------|
@@ -184,6 +184,10 @@ operations.
 | #0476 | Number Complement | 2026-05-29 |
 | #0190 | Reverse Bits | 2026-05-29 |
 | #0405 | Convert a Number to Hexadecimal | 2026-05-29 |
+| #0067 | Add Binary | 2026-05-30 |
+| #0007 | Reverse Integer | 2026-05-30 |
+| #0008 | String to Integer (atoi) | 2026-05-30 |
+| #0393 | UTF-8 Validation | 2026-05-30 |
 
 ## Rule For Solving
 
