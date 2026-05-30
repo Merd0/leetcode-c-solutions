@@ -113,6 +113,11 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #3121 | [Count the Number of Special Characters II](../problems/3121-count-the-number-of-special-characters-ii) | Medium | 2026-05-27 | Last lowercase before first uppercase |
 | #3093 | [Longest Common Suffix Queries](../problems/3093-longest-common-suffix-queries) | Hard | 2026-05-29 | Reversed suffix trie |
 | #3300 | [Minimum Element After Replacement With Digit Sum](../problems/3300-minimum-element-after-replacement-with-digit-sum) | Easy | 2026-05-30 | Digit sum simulation |
+| #0961 | [N-Repeated Element in Size 2N Array](../problems/0961-n-repeated-element-in-size-2n-array) | Easy | 2026-05-30 | Frequency array early return |
+| #1266 | [Minimum Time Visiting All Points](../problems/1266-minimum-time-visiting-all-points) | Easy | 2026-05-30 | Chebyshev distance between points |
+| #3314 | [Construct the Minimum Bitwise Array I](../problems/3314-construct-the-minimum-bitwise-array-i) | Easy | 2026-05-30 | Brute force bitwise OR condition |
+| #3507 | [Minimum Pair Removal to Sort Array I](../problems/3507-minimum-pair-removal-to-sort-array-i) | Easy | 2026-05-30 | Simulate leftmost minimum pair merge |
+| #1984 | [Minimum Difference Between Highest and Lowest of K Scores](../problems/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | 2026-05-30 | Sort and scan k-sized windows |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |

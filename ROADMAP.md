@@ -164,6 +164,11 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #3121 | Count the Number of Special Characters II | 2026-05-27 |
 | #3093 | Longest Common Suffix Queries | 2026-05-29 |
 | #3300 | Minimum Element After Replacement With Digit Sum | 2026-05-30 |
+| #0961 | N-Repeated Element in Size 2N Array | 2026-05-30 |
+| #1266 | Minimum Time Visiting All Points | 2026-05-30 |
+| #3314 | Construct the Minimum Bitwise Array I | 2026-05-30 |
+| #3507 | Minimum Pair Removal to Sort Array I | 2026-05-30 |
+| #1984 | Minimum Difference Between Highest and Lowest of K Scores | 2026-05-30 |
 
 ## Bitwise / Embedded Essentials
 
