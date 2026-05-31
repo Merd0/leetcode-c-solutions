@@ -194,6 +194,11 @@ and register-like bit operations.
 | #0389 | Find the Difference | 2026-05-31 |
 | #0868 | Binary Gap | 2026-05-31 |
 | #0693 | Binary Number with Alternating Bits | 2026-05-31 |
+| #1342 | Number of Steps to Reduce a Number to Zero | 2026-05-31 |
+| #2220 | Minimum Bit Flips to Convert Number | 2026-05-31 |
+| #2595 | Number of Even and Odd Bits | 2026-05-31 |
+| #0371 | Sum of Two Integers | 2026-05-31 |
+| #0201 | Bitwise AND of Numbers Range | 2026-05-31 |
 
 ## Rule For Solving
 

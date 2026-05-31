@@ -134,3 +134,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0389 | [Find the Difference](../problems/0389-find-the-difference) | Easy | 2026-05-31 | XOR cancellation across strings |
 | #0868 | [Binary Gap](../problems/0868-binary-gap) | Easy | 2026-05-31 | Track positions of set bits |
 | #0693 | [Binary Number with Alternating Bits](../problems/0693-binary-number-with-alternating-bits) | Easy | 2026-05-31 | Compare adjacent bits |
+| #1342 | [Number of Steps to Reduce a Number to Zero](../problems/1342-number-of-steps-to-reduce-a-number-to-zero) | Easy | 2026-05-31 | Simulate even/odd reduction |
+| #2220 | [Minimum Bit Flips to Convert Number](../problems/2220-minimum-bit-flips-to-convert-number) | Easy | 2026-05-31 | XOR then count changed bits |
+| #2595 | [Number of Even and Odd Bits](../problems/2595-number-of-even-and-odd-bits) | Easy | 2026-05-31 | Count set bits by position parity |
+| #0371 | [Sum of Two Integers](../problems/0371-sum-of-two-integers) | Medium | 2026-05-31 | XOR sum plus shifted carry |
+| #0201 | [Bitwise AND of Numbers Range](../problems/0201-bitwise-and-of-numbers-range) | Medium | 2026-05-31 | Keep common binary prefix |
