@@ -169,6 +169,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #3314 | Construct the Minimum Bitwise Array I | 2026-05-30 |
 | #3507 | Minimum Pair Removal to Sort Array I | 2026-05-30 |
 | #1984 | Minimum Difference Between Highest and Lowest of K Scores | 2026-05-30 |
+| #2126 | Destroying Asteroids | 2026-05-31 |
 
 ## Bitwise / Embedded Essentials
 
@@ -188,6 +189,11 @@ and register-like bit operations.
 | #0007 | Reverse Integer | 2026-05-30 |
 | #0008 | String to Integer (atoi) | 2026-05-30 |
 | #0393 | UTF-8 Validation | 2026-05-30 |
+| #0338 | Counting Bits | 2026-05-31 |
+| #0342 | Power of Four | 2026-05-31 |
+| #0389 | Find the Difference | 2026-05-31 |
+| #0868 | Binary Gap | 2026-05-31 |
+| #0693 | Binary Number with Alternating Bits | 2026-05-31 |
 
 ## Rule For Solving
 

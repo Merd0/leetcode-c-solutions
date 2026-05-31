@@ -118,6 +118,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #3314 | [Construct the Minimum Bitwise Array I](../problems/3314-construct-the-minimum-bitwise-array-i) | Easy | 2026-05-30 | Brute force bitwise OR condition |
 | #3507 | [Minimum Pair Removal to Sort Array I](../problems/3507-minimum-pair-removal-to-sort-array-i) | Easy | 2026-05-30 | Simulate leftmost minimum pair merge |
 | #1984 | [Minimum Difference Between Highest and Lowest of K Scores](../problems/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | 2026-05-30 | Sort and scan k-sized windows |
+| #2126 | [Destroying Asteroids](../problems/2126-destroying-asteroids) | Medium | 2026-05-31 | Sort then greedily grow mass |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
@@ -128,3 +129,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0007 | [Reverse Integer](../problems/0007-reverse-integer) | Medium | 2026-05-30 | Digit reversal with overflow guard |
 | #0008 | [String to Integer (atoi)](../problems/0008-string-to-integer-atoi) | Medium | 2026-05-30 | Parser flow with integer clamp |
 | #0393 | [UTF-8 Validation](../problems/0393-utf-8-validation) | Medium | 2026-05-30 | Byte prefix validation |
+| #0338 | [Counting Bits](../problems/0338-counting-bits) | Easy | 2026-05-31 | Count set bits for each number |
+| #0342 | [Power of Four](../problems/0342-power-of-four) | Easy | 2026-05-31 | Divide by four until base case |
+| #0389 | [Find the Difference](../problems/0389-find-the-difference) | Easy | 2026-05-31 | XOR cancellation across strings |
+| #0868 | [Binary Gap](../problems/0868-binary-gap) | Easy | 2026-05-31 | Track positions of set bits |
+| #0693 | [Binary Number with Alternating Bits](../problems/0693-binary-number-with-alternating-bits) | Easy | 2026-05-31 | Compare adjacent bits |
