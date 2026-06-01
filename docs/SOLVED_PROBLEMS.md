@@ -119,6 +119,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #3507 | [Minimum Pair Removal to Sort Array I](../problems/3507-minimum-pair-removal-to-sort-array-i) | Easy | 2026-05-30 | Simulate leftmost minimum pair merge |
 | #1984 | [Minimum Difference Between Highest and Lowest of K Scores](../problems/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | 2026-05-30 | Sort and scan k-sized windows |
 | #2126 | [Destroying Asteroids](../problems/2126-destroying-asteroids) | Medium | 2026-05-31 | Sort then greedily grow mass |
+| #2144 | [Minimum Cost of Buying Candies With Discount](../problems/2144-minimum-cost-of-buying-candies-with-discount) | Easy | 2026-06-01 | Descending sort, skip every third candy |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |

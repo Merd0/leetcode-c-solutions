@@ -170,6 +170,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #3507 | Minimum Pair Removal to Sort Array I | 2026-05-30 |
 | #1984 | Minimum Difference Between Highest and Lowest of K Scores | 2026-05-30 |
 | #2126 | Destroying Asteroids | 2026-05-31 |
+| #2144 | Minimum Cost of Buying Candies With Discount | 2026-06-01 |
 
 ## Bitwise / Embedded Essentials
 
