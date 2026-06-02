@@ -171,6 +171,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #1984 | Minimum Difference Between Highest and Lowest of K Scores | 2026-05-30 |
 | #2126 | Destroying Asteroids | 2026-05-31 |
 | #2144 | Minimum Cost of Buying Candies With Discount | 2026-06-01 |
+| #3633 | Earliest Finish Time for Land and Water Rides I | 2026-06-02 |
 
 ## Bitwise / Embedded Essentials
 
@@ -200,6 +201,11 @@ and register-like bit operations.
 | #2595 | Number of Even and Odd Bits | 2026-05-31 |
 | #0371 | Sum of Two Integers | 2026-05-31 |
 | #0201 | Bitwise AND of Numbers Range | 2026-05-31 |
+| #0137 | Single Number II | 2026-06-02 |
+| #0260 | Single Number III | 2026-06-02 |
+| #1318 | Minimum Flips to Make a OR b Equal to c | 2026-06-02 |
+| #0318 | Maximum Product of Word Lengths | 2026-06-02 |
+| #0443 | String Compression | 2026-06-02 |
 
 ## Rule For Solving
 

@@ -120,6 +120,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1984 | [Minimum Difference Between Highest and Lowest of K Scores](../problems/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | 2026-05-30 | Sort and scan k-sized windows |
 | #2126 | [Destroying Asteroids](../problems/2126-destroying-asteroids) | Medium | 2026-05-31 | Sort then greedily grow mass |
 | #2144 | [Minimum Cost of Buying Candies With Discount](../problems/2144-minimum-cost-of-buying-candies-with-discount) | Easy | 2026-06-01 | Descending sort, skip every third candy |
+| #3633 | [Earliest Finish Time for Land and Water Rides I](../problems/3633-earliest-finish-time-for-land-and-water-rides-i) | Easy | 2026-06-02 | Enumerate ride pairs and both orders |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
@@ -140,3 +141,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #2595 | [Number of Even and Odd Bits](../problems/2595-number-of-even-and-odd-bits) | Easy | 2026-05-31 | Count set bits by position parity |
 | #0371 | [Sum of Two Integers](../problems/0371-sum-of-two-integers) | Medium | 2026-05-31 | XOR sum plus shifted carry |
 | #0201 | [Bitwise AND of Numbers Range](../problems/0201-bitwise-and-of-numbers-range) | Medium | 2026-05-31 | Keep common binary prefix |
+| #0137 | [Single Number II](../problems/0137-single-number-ii) | Medium | 2026-06-02 | Sort and scan groups of three |
+| #0260 | [Single Number III](../problems/0260-single-number-iii) | Medium | 2026-06-02 | Sort and skip duplicate pairs |
+| #1318 | [Minimum Flips to Make a OR b Equal to c](../problems/1318-minimum-flips-to-make-a-or-b-equal-to-c) | Medium | 2026-06-02 | Compare OR condition bit by bit |
+| #0318 | [Maximum Product of Word Lengths](../problems/0318-maximum-product-of-word-lengths) | Medium | 2026-06-02 | Word letter masks |
+| #0443 | [String Compression](../problems/0443-string-compression) | Medium | 2026-06-02 | In-place read/write compression |
