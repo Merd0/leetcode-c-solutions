@@ -172,6 +172,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #2126 | Destroying Asteroids | 2026-05-31 |
 | #2144 | Minimum Cost of Buying Candies With Discount | 2026-06-01 |
 | #3633 | Earliest Finish Time for Land and Water Rides I | 2026-06-02 |
+| #3635 | Earliest Finish Time for Land and Water Rides II | 2026-06-03 |
 
 ## Bitwise / Embedded Essentials
 
@@ -206,6 +207,11 @@ and register-like bit operations.
 | #1318 | Minimum Flips to Make a OR b Equal to c | 2026-06-02 |
 | #0318 | Maximum Product of Word Lengths | 2026-06-02 |
 | #0443 | String Compression | 2026-06-02 |
+| #0165 | Compare Version Numbers | 2026-06-03 |
+| #0468 | Validate IP Address | 2026-06-03 |
+| #0043 | Multiply Strings | 2026-06-03 |
+| #0065 | Valid Number | 2026-06-03 |
+| #0189 | Rotate Array | 2026-06-03 |
 
 ## Rule For Solving
 

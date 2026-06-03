@@ -121,6 +121,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #2126 | [Destroying Asteroids](../problems/2126-destroying-asteroids) | Medium | 2026-05-31 | Sort then greedily grow mass |
 | #2144 | [Minimum Cost of Buying Candies With Discount](../problems/2144-minimum-cost-of-buying-candies-with-discount) | Easy | 2026-06-01 | Descending sort, skip every third candy |
 | #3633 | [Earliest Finish Time for Land and Water Rides I](../problems/3633-earliest-finish-time-for-land-and-water-rides-i) | Easy | 2026-06-02 | Enumerate ride pairs and both orders |
+| #3635 | [Earliest Finish Time for Land and Water Rides II](../problems/3635-earliest-finish-time-for-land-and-water-rides-ii) | Medium | 2026-06-03 | Earliest first ride finish, scan second category |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
@@ -146,3 +147,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1318 | [Minimum Flips to Make a OR b Equal to c](../problems/1318-minimum-flips-to-make-a-or-b-equal-to-c) | Medium | 2026-06-02 | Compare OR condition bit by bit |
 | #0318 | [Maximum Product of Word Lengths](../problems/0318-maximum-product-of-word-lengths) | Medium | 2026-06-02 | Word letter masks |
 | #0443 | [String Compression](../problems/0443-string-compression) | Medium | 2026-06-02 | In-place read/write compression |
+| #0165 | [Compare Version Numbers](../problems/0165-compare-version-numbers) | Medium | 2026-06-03 | Parse revision numbers |
+| #0468 | [Validate IP Address](../problems/0468-validate-ip-address) | Medium | 2026-06-03 | IPv4 and IPv6 format validation |
+| #0043 | [Multiply Strings](../problems/0043-multiply-strings) | Medium | 2026-06-03 | Manual digit multiplication |
+| #0065 | [Valid Number](../problems/0065-valid-number) | Hard | 2026-06-03 | Parser state flags |
+| #0189 | [Rotate Array](../problems/0189-rotate-array) | Medium | 2026-06-03 | Three-reversal in-place rotation |
