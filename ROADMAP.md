@@ -173,6 +173,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #2144 | Minimum Cost of Buying Candies With Discount | 2026-06-01 |
 | #3633 | Earliest Finish Time for Land and Water Rides I | 2026-06-02 |
 | #3635 | Earliest Finish Time for Land and Water Rides II | 2026-06-03 |
+| #3751 | Total Waviness of Numbers in Range I | 2026-06-04 |
 
 ## Bitwise / Embedded Essentials
 
@@ -212,6 +213,20 @@ and register-like bit operations.
 | #0043 | Multiply Strings | 2026-06-03 |
 | #0065 | Valid Number | 2026-06-03 |
 | #0189 | Rotate Array | 2026-06-03 |
+
+## Matrix / 2D Array Essentials
+
+These problems focus on 2D traversal, boundary control, in-place updates, and
+matrix state encoding. They are useful after basic arrays and before deeper
+systems-style work with buffers and pointer-to-pointer data.
+
+| # | Problem | Solved |
+|---:|---------|--------|
+| #0054 | Spiral Matrix | 2026-06-04 |
+| #0059 | Spiral Matrix II | 2026-06-04 |
+| #0073 | Set Matrix Zeroes | 2026-06-04 |
+| #0048 | Rotate Image | 2026-06-04 |
+| #0289 | Game of Life | 2026-06-04 |
 
 ## Rule For Solving
 
