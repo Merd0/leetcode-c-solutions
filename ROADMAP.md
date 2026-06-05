@@ -228,6 +228,20 @@ systems-style work with buffers and pointer-to-pointer data.
 | #0048 | Rotate Image | 2026-06-04 |
 | #0289 | Game of Life | 2026-06-04 |
 
+## Data Structure Design Essentials
+
+These problems focus on implementing common data structures manually in C:
+owned buffers, circular indexing, direct-address tables, dummy heads, and
+explicit cleanup.
+
+| # | Problem | Solved |
+|---:|---------|--------|
+| #0622 | Design Circular Queue | 2026-06-05 |
+| #0641 | Design Circular Deque | 2026-06-05 |
+| #0705 | Design HashSet | 2026-06-05 |
+| #0706 | Design HashMap | 2026-06-05 |
+| #0707 | Design Linked List | 2026-06-05 |
+
 ## Rule For Solving
 
 1. First solve with your own reasoning, even if it is brute force.

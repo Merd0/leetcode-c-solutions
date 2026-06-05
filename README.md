@@ -12,7 +12,7 @@ signature, approach notes, and the submitted C solution.
 |------|--------|
 | Language | C |
 | First 100 C-focused roadmap | Complete |
-| Archived problems | 150 total: 100 roadmap problems + 15 daily extras + 30 embedded essentials + 5 matrix essentials |
+| Archived problems | 155 total: 100 roadmap problems + 15 daily extras + 30 embedded essentials + 5 matrix essentials + 5 data structure design essentials |
 | Main solution format | `README.md` + `solution.c` per problem |
 
 ## Navigation

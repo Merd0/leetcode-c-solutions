@@ -158,3 +158,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0073 | [Set Matrix Zeroes](../problems/0073-set-matrix-zeroes) | Medium | 2026-06-04 | Mark rows and columns before zeroing |
 | #0048 | [Rotate Image](../problems/0048-rotate-image) | Medium | 2026-06-04 | Transpose then reverse each row |
 | #0289 | [Game of Life](../problems/0289-game-of-life) | Medium | 2026-06-04 | Encode temporary states in place |
+| #0622 | [Design Circular Queue](../problems/0622-design-circular-queue) | Medium | 2026-06-05 | Fixed array with modulo indices |
+| #0641 | [Design Circular Deque](../problems/0641-design-circular-deque) | Medium | 2026-06-05 | Front and rear modulo movement |
+| #0705 | [Design HashSet](../problems/0705-design-hashset) | Easy | 2026-06-05 | Direct-address presence table |
+| #0706 | [Design HashMap](../problems/0706-design-hashmap) | Easy | 2026-06-05 | Direct-address value and existence arrays |
+| #0707 | [Design Linked List](../problems/0707-design-linked-list) | Medium | 2026-06-05 | Dummy-head singly linked list |
