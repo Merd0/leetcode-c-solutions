@@ -24,7 +24,7 @@ typedef struct MyLinkedList {
 
 } MyLinkedList;
 
-MyLinkedList* myLinkedListCreate() {
+MyLinkedList* myLinkedListCreate(void) {
 
 }
 

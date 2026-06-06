@@ -24,7 +24,7 @@ typedef struct {
 
 } MyHashSet;
 
-MyHashSet* myHashSetCreate() {
+MyHashSet* myHashSetCreate(void) {
 
 }
 

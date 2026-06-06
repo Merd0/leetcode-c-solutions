@@ -5,7 +5,7 @@ typedef struct {
     int* exist;
 } MyHashMap;
 
-MyHashMap* myHashMapCreate() {
+MyHashMap* myHashMapCreate(void) {
     MyHashMap* obj = malloc(sizeof(MyHashMap));
 
     obj->value = malloc(1000001 * sizeof(int));

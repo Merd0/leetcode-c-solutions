@@ -5,7 +5,7 @@ typedef struct MyLinkedList {
     struct MyLinkedList* next;
 } MyLinkedList;
 
-MyLinkedList* myLinkedListCreate() {
+MyLinkedList* myLinkedListCreate(void) {
     MyLinkedList* obj = malloc(sizeof(MyLinkedList));
     obj->next = NULL;   // Dummy head.
     return obj;

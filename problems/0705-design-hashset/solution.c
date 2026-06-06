@@ -5,7 +5,7 @@ typedef struct {
     int* exist;
 } MyHashSet;
 
-MyHashSet* myHashSetCreate() {
+MyHashSet* myHashSetCreate(void) {
     MyHashSet* obj = malloc(sizeof(MyHashSet));
     obj->exist = calloc(1000001, sizeof(int));
     return obj;

@@ -24,7 +24,7 @@ typedef struct {
 
 } MyHashMap;
 
-MyHashMap* myHashMapCreate() {
+MyHashMap* myHashMapCreate(void) {
 
 }
 
