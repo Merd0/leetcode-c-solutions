@@ -123,6 +123,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #3633 | [Earliest Finish Time for Land and Water Rides I](../problems/3633-earliest-finish-time-for-land-and-water-rides-i) | Easy | 2026-06-02 | Enumerate ride pairs and both orders |
 | #3635 | [Earliest Finish Time for Land and Water Rides II](../problems/3635-earliest-finish-time-for-land-and-water-rides-ii) | Medium | 2026-06-03 | Earliest first ride finish, scan second category |
 | #3751 | [Total Waviness of Numbers in Range I](../problems/3751-total-waviness-of-numbers-in-range-i) | Medium | 2026-06-04 | Enumerate numbers and count digit peaks/valleys |
+| #2574 | [Left and Right Sum Differences](../problems/2574-left-and-right-sum-differences) | Easy | 2026-06-06 | Total sum with running left sum |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
@@ -153,6 +154,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0043 | [Multiply Strings](../problems/0043-multiply-strings) | Medium | 2026-06-03 | Manual digit multiplication |
 | #0065 | [Valid Number](../problems/0065-valid-number) | Hard | 2026-06-03 | Parser state flags |
 | #0189 | [Rotate Array](../problems/0189-rotate-array) | Medium | 2026-06-03 | Three-reversal in-place rotation |
+| #0717 | [1-bit and 2-bit Characters](../problems/0717-1-bit-and-2-bit-characters) | Easy | 2026-06-06 | Variable-length bit-stream parsing |
 | #0054 | [Spiral Matrix](../problems/0054-spiral-matrix) | Medium | 2026-06-04 | Four-boundary spiral traversal |
 | #0059 | [Spiral Matrix II](../problems/0059-spiral-matrix-ii) | Medium | 2026-06-04 | Fill matrix layer by layer |
 | #0073 | [Set Matrix Zeroes](../problems/0073-set-matrix-zeroes) | Medium | 2026-06-04 | Mark rows and columns before zeroing |

@@ -174,6 +174,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #3633 | Earliest Finish Time for Land and Water Rides I | 2026-06-02 |
 | #3635 | Earliest Finish Time for Land and Water Rides II | 2026-06-03 |
 | #3751 | Total Waviness of Numbers in Range I | 2026-06-04 |
+| #2574 | Left and Right Sum Differences | 2026-06-06 |
 
 ## Bitwise / Embedded Essentials
 
@@ -213,6 +214,7 @@ and register-like bit operations.
 | #0043 | Multiply Strings | 2026-06-03 |
 | #0065 | Valid Number | 2026-06-03 |
 | #0189 | Rotate Array | 2026-06-03 |
+| #0717 | 1-bit and 2-bit Characters | 2026-06-06 |
 
 ## Matrix / 2D Array Essentials
 
