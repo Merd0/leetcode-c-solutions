@@ -215,6 +215,7 @@ and register-like bit operations.
 | #0065 | Valid Number | 2026-06-03 |
 | #0189 | Rotate Array | 2026-06-03 |
 | #0717 | 1-bit and 2-bit Characters | 2026-06-06 |
+| #1310 | XOR Queries of a Subarray | 2026-06-07 |
 
 ## Matrix / 2D Array Essentials
 
@@ -243,6 +244,9 @@ explicit cleanup.
 | #0705 | Design HashSet | 2026-06-05 |
 | #0706 | Design HashMap | 2026-06-05 |
 | #0707 | Design Linked List | 2026-06-05 |
+| #1603 | Design Parking System | 2026-06-07 |
+| #0933 | Number of Recent Calls | 2026-06-07 |
+| #0303 | Range Sum Query - Immutable | 2026-06-07 |
 
 ## Rule For Solving
 

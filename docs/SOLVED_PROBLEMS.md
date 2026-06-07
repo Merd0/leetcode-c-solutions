@@ -155,6 +155,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0065 | [Valid Number](../problems/0065-valid-number) | Hard | 2026-06-03 | Parser state flags |
 | #0189 | [Rotate Array](../problems/0189-rotate-array) | Medium | 2026-06-03 | Three-reversal in-place rotation |
 | #0717 | [1-bit and 2-bit Characters](../problems/0717-1-bit-and-2-bit-characters) | Easy | 2026-06-06 | Variable-length bit-stream parsing |
+| #1310 | [XOR Queries of a Subarray](../problems/1310-xor-queries-of-a-subarray) | Medium | 2026-06-07 | Prefix XOR after brute-force TLE |
 | #0054 | [Spiral Matrix](../problems/0054-spiral-matrix) | Medium | 2026-06-04 | Four-boundary spiral traversal |
 | #0059 | [Spiral Matrix II](../problems/0059-spiral-matrix-ii) | Medium | 2026-06-04 | Fill matrix layer by layer |
 | #0073 | [Set Matrix Zeroes](../problems/0073-set-matrix-zeroes) | Medium | 2026-06-04 | Mark rows and columns before zeroing |
@@ -165,3 +166,6 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0705 | [Design HashSet](../problems/0705-design-hashset) | Easy | 2026-06-05 | Direct-address presence table |
 | #0706 | [Design HashMap](../problems/0706-design-hashmap) | Easy | 2026-06-05 | Direct-address value and existence arrays |
 | #0707 | [Design Linked List](../problems/0707-design-linked-list) | Medium | 2026-06-05 | Dummy-head singly linked list |
+| #1603 | [Design Parking System](../problems/1603-design-parking-system) | Easy | 2026-06-07 | Struct-owned remaining capacities |
+| #0933 | [Number of Recent Calls](../problems/0933-number-of-recent-calls) | Easy | 2026-06-07 | Queue window over increasing timestamps |
+| #0303 | [Range Sum Query - Immutable](../problems/0303-range-sum-query-immutable) | Easy | 2026-06-07 | Struct-owned prefix sum array |
