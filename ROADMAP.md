@@ -175,6 +175,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #3635 | Earliest Finish Time for Land and Water Rides II | 2026-06-03 |
 | #3751 | Total Waviness of Numbers in Range I | 2026-06-04 |
 | #2574 | Left and Right Sum Differences | 2026-06-06 |
+| #2161 | Partition Array According to Given Pivot | 2026-06-08 |
 
 ## Bitwise / Embedded Essentials
 
@@ -216,6 +217,7 @@ and register-like bit operations.
 | #0189 | Rotate Array | 2026-06-03 |
 | #0717 | 1-bit and 2-bit Characters | 2026-06-06 |
 | #1310 | XOR Queries of a Subarray | 2026-06-07 |
+| #1486 | XOR Operation in an Array | 2026-06-08 |
 
 ## Matrix / 2D Array Essentials
 
