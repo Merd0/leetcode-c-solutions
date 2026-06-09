@@ -176,6 +176,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #3751 | Total Waviness of Numbers in Range I | 2026-06-04 |
 | #2574 | Left and Right Sum Differences | 2026-06-06 |
 | #2161 | Partition Array According to Given Pivot | 2026-06-08 |
+| #3689 | Maximum Total Subarray Value I | 2026-06-09 |
 
 ## Bitwise / Embedded Essentials
 
@@ -232,6 +233,7 @@ systems-style work with buffers and pointer-to-pointer data.
 | #0073 | Set Matrix Zeroes | 2026-06-04 |
 | #0048 | Rotate Image | 2026-06-04 |
 | #0289 | Game of Life | 2026-06-04 |
+| #0832 | Flipping an Image | 2026-06-09 |
 
 ## Data Structure Design Essentials
 

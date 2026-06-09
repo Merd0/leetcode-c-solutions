@@ -125,6 +125,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #3751 | [Total Waviness of Numbers in Range I](../problems/3751-total-waviness-of-numbers-in-range-i) | Medium | 2026-06-04 | Enumerate numbers and count digit peaks/valleys |
 | #2574 | [Left and Right Sum Differences](../problems/2574-left-and-right-sum-differences) | Easy | 2026-06-06 | Total sum with running left sum |
 | #2161 | [Partition Array According to Given Pivot](../problems/2161-partition-array-according-to-given-pivot) | Medium | 2026-06-08 | Stable three-way partition |
+| #3689 | [Maximum Total Subarray Value I](../problems/3689-maximum-total-subarray-value-i) | Medium | 2026-06-09 | Repeat the globally widest subarray |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
@@ -163,6 +164,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0073 | [Set Matrix Zeroes](../problems/0073-set-matrix-zeroes) | Medium | 2026-06-04 | Mark rows and columns before zeroing |
 | #0048 | [Rotate Image](../problems/0048-rotate-image) | Medium | 2026-06-04 | Transpose then reverse each row |
 | #0289 | [Game of Life](../problems/0289-game-of-life) | Medium | 2026-06-04 | Encode temporary states in place |
+| #0832 | [Flipping an Image](../problems/0832-flipping-an-image) | Easy | 2026-06-09 | Reverse and invert each row in one pass |
 | #0622 | [Design Circular Queue](../problems/0622-design-circular-queue) | Medium | 2026-06-05 | Fixed array with modulo indices |
 | #0641 | [Design Circular Deque](../problems/0641-design-circular-deque) | Medium | 2026-06-05 | Front and rear modulo movement |
 | #0705 | [Design HashSet](../problems/0705-design-hashset) | Easy | 2026-06-05 | Direct-address presence table |
