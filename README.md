@@ -12,7 +12,8 @@ signature, approach notes, and the submitted C solution.
 |------|--------|
 | Language | C |
 | First 100 C-focused roadmap | Complete |
-| Archived problems | 165 total: 100 roadmap problems + 18 daily extras + 33 embedded essentials + 6 matrix essentials + 8 data structure design essentials |
+| Archived problems | 166 solved: 100 roadmap problems + 19 daily extras + 33 embedded essentials + 6 matrix essentials + 8 data structure design essentials |
+| Open learning attempts | 1 TLE attempt archived for later study |
 | Main solution format | `README.md` + `solution.c` per problem |
 
 ## Navigation
@@ -20,6 +21,7 @@ signature, approach notes, and the submitted C solution.
 - First 100 roadmap: [ROADMAP.md](ROADMAP.md)
 - Full solved-problems table: [docs/SOLVED_PROBLEMS.md](docs/SOLVED_PROBLEMS.md)
 - Problem folders: [problems/](problems)
+- Unsolved attempts and learning notes: [attempts/](attempts)
 
 ## Structure
 
@@ -28,6 +30,10 @@ problems/
   0001-two-sum/
     README.md
     solution.c
+attempts/
+  3691-maximum-total-subarray-value-ii/
+    README.md
+    attempt.c
 docs/
   SOLVED_PROBLEMS.md
 ROADMAP.md
@@ -59,3 +65,10 @@ short original wording while staying close enough for revision.
 3. Add `solution.c` with the LeetCode-style function and short comments.
 4. Add the problem to [docs/SOLVED_PROBLEMS.md](docs/SOLVED_PROBLEMS.md).
 5. Update [ROADMAP.md](ROADMAP.md) if the problem belongs to the planned roadmap.
+
+## Archive an Unsolved Attempt
+
+1. Create a folder under `attempts/` with the problem number and slug.
+2. Preserve the attempted code without presenting it as an accepted solution.
+3. Record the failure reason, complexity, and knowledge needed before retrying.
+4. Do not include the attempt in the solved-problem count.

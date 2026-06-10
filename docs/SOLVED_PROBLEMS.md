@@ -126,6 +126,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #2574 | [Left and Right Sum Differences](../problems/2574-left-and-right-sum-differences) | Easy | 2026-06-06 | Total sum with running left sum |
 | #2161 | [Partition Array According to Given Pivot](../problems/2161-partition-array-according-to-given-pivot) | Medium | 2026-06-08 | Stable three-way partition |
 | #3689 | [Maximum Total Subarray Value I](../problems/3689-maximum-total-subarray-value-i) | Medium | 2026-06-09 | Repeat the globally widest subarray |
+| #1700 | [Number of Students Unable to Eat Lunch](../problems/1700-number-of-students-unable-to-eat-lunch) | Easy | 2026-06-10 | Count remaining sandwich preferences |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |

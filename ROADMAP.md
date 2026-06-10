@@ -177,6 +177,10 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #2574 | Left and Right Sum Differences | 2026-06-06 |
 | #2161 | Partition Array According to Given Pivot | 2026-06-08 |
 | #3689 | Maximum Total Subarray Value I | 2026-06-09 |
+| #1700 | Number of Students Unable to Eat Lunch | 2026-06-10 |
+
+Unsolved daily attempts are kept separately under [attempts/](attempts) and do
+not count as completed problems.
 
 ## Bitwise / Embedded Essentials
 
