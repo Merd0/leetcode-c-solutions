@@ -128,6 +128,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #3689 | [Maximum Total Subarray Value I](../problems/3689-maximum-total-subarray-value-i) | Medium | 2026-06-09 | Repeat the globally widest subarray |
 | #1700 | [Number of Students Unable to Eat Lunch](../problems/1700-number-of-students-unable-to-eat-lunch) | Easy | 2026-06-10 | Count remaining sandwich preferences |
 | #1356 | [Sort Integers by The Number of 1 Bits](../problems/1356-sort-integers-by-the-number-of-1-bits) | Easy | 2026-06-11 | qsort by set bit count, then value |
+| #1290 | [Convert Binary Number in a Linked List to Integer](../problems/1290-convert-binary-number-in-a-linked-list-to-integer) | Easy | 2026-06-12 | Accumulate binary digits from the list |
+| #1720 | [Decode XORed Array](../problems/1720-decode-xored-array) | Easy | 2026-06-12 | Recover each next value with XOR |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
