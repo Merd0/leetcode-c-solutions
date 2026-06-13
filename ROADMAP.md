@@ -181,6 +181,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #1356 | Sort Integers by The Number of 1 Bits | 2026-06-11 |
 | #1290 | Convert Binary Number in a Linked List to Integer | 2026-06-12 |
 | #1720 | Decode XORed Array | 2026-06-12 |
+| #1684 | Count the Number of Consistent Strings | 2026-06-13 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.
