@@ -131,6 +131,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1290 | [Convert Binary Number in a Linked List to Integer](../problems/1290-convert-binary-number-in-a-linked-list-to-integer) | Easy | 2026-06-12 | Accumulate binary digits from the list |
 | #1720 | [Decode XORed Array](../problems/1720-decode-xored-array) | Easy | 2026-06-12 | Recover each next value with XOR |
 | #1684 | [Count the Number of Consistent Strings](../problems/1684-count-the-number-of-consistent-strings) | Easy | 2026-06-13 | Validate letters with a fixed lookup table |
+| #1475 | [Final Prices With a Special Discount in a Shop](../problems/1475-final-prices-with-a-special-discount-in-a-shop) | Easy | 2026-06-14 | Find the first valid discount to the right |
+| #2000 | [Reverse Prefix of Word](../problems/2000-reverse-prefix-of-word) | Easy | 2026-06-14 | Reverse the first matching prefix in place |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |

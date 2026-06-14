@@ -182,6 +182,8 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #1290 | Convert Binary Number in a Linked List to Integer | 2026-06-12 |
 | #1720 | Decode XORed Array | 2026-06-12 |
 | #1684 | Count the Number of Consistent Strings | 2026-06-13 |
+| #1475 | Final Prices With a Special Discount in a Shop | 2026-06-14 |
+| #2000 | Reverse Prefix of Word | 2026-06-14 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.
