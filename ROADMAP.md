@@ -185,6 +185,8 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #1475 | Final Prices With a Special Discount in a Shop | 2026-06-14 |
 | #2000 | Reverse Prefix of Word | 2026-06-14 |
 | #2130 | Maximum Twin Sum of a Linked List | 2026-06-14 |
+| #1446 | Consecutive Characters | 2026-06-15 |
+| #1704 | Determine if String Halves Are Alike | 2026-06-15 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.

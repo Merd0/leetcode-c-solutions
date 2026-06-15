@@ -134,6 +134,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1475 | [Final Prices With a Special Discount in a Shop](../problems/1475-final-prices-with-a-special-discount-in-a-shop) | Easy | 2026-06-14 | Find the first valid discount to the right |
 | #2000 | [Reverse Prefix of Word](../problems/2000-reverse-prefix-of-word) | Easy | 2026-06-14 | Reverse the first matching prefix in place |
 | #2130 | [Maximum Twin Sum of a Linked List](../problems/2130-maximum-twin-sum-of-a-linked-list) | Medium | 2026-06-14 | Reverse the second half and pair both ends |
+| #1446 | [Consecutive Characters](../problems/1446-consecutive-characters) | Easy | 2026-06-15 | Track the longest consecutive character run |
+| #1704 | [Determine if String Halves Are Alike](../problems/1704-determine-if-string-halves-are-alike) | Easy | 2026-06-15 | Compare vowel counts in both halves |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
