@@ -187,6 +187,8 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #2130 | Maximum Twin Sum of a Linked List | 2026-06-14 |
 | #1446 | Consecutive Characters | 2026-06-15 |
 | #1704 | Determine if String Halves Are Alike | 2026-06-15 |
+| #1528 | Shuffle String | 2026-06-16 |
+| #1768 | Merge Strings Alternately | 2026-06-16 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.
