@@ -138,6 +138,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1704 | [Determine if String Halves Are Alike](../problems/1704-determine-if-string-halves-are-alike) | Easy | 2026-06-15 | Compare vowel counts in both halves |
 | #1528 | [Shuffle String](../problems/1528-shuffle-string) | Easy | 2026-06-16 | Place each character at its target index |
 | #1768 | [Merge Strings Alternately](../problems/1768-merge-strings-alternately) | Easy | 2026-06-16 | Merge with two input indices and one output index |
+| #1822 | [Sign of the Product of an Array](../problems/1822-sign-of-the-product-of-an-array) | Easy | 2026-06-17 | Count negatives and detect zero |
+| #1588 | [Sum of All Odd Length Subarrays](../problems/1588-sum-of-all-odd-length-subarrays) | Easy | 2026-06-17 | Enumerate subarrays and add odd lengths |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
