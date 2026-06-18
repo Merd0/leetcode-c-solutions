@@ -191,6 +191,8 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #1768 | Merge Strings Alternately | 2026-06-16 |
 | #1822 | Sign of the Product of an Array | 2026-06-17 |
 | #1588 | Sum of All Odd Length Subarrays | 2026-06-17 |
+| #1925 | Count Square Sum Triples | 2026-06-18 |
+| #1431 | Kids With the Greatest Number of Candies | 2026-06-18 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.

@@ -140,6 +140,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1768 | [Merge Strings Alternately](../problems/1768-merge-strings-alternately) | Easy | 2026-06-16 | Merge with two input indices and one output index |
 | #1822 | [Sign of the Product of an Array](../problems/1822-sign-of-the-product-of-an-array) | Easy | 2026-06-17 | Count negatives and detect zero |
 | #1588 | [Sum of All Odd Length Subarrays](../problems/1588-sum-of-all-odd-length-subarrays) | Easy | 2026-06-17 | Enumerate subarrays and add odd lengths |
+| #1925 | [Count Square Sum Triples](../problems/1925-count-square-sum-triples) | Easy | 2026-06-18 | Brute-force Pythagorean triple counting |
+| #1431 | [Kids With the Greatest Number of Candies](../problems/1431-kids-with-the-greatest-number-of-candies) | Easy | 2026-06-18 | Compare each child after adding extra candies |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
