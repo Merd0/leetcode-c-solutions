@@ -193,6 +193,8 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #1588 | Sum of All Odd Length Subarrays | 2026-06-17 |
 | #1925 | Count Square Sum Triples | 2026-06-18 |
 | #1431 | Kids With the Greatest Number of Candies | 2026-06-18 |
+| #1732 | Find the Highest Altitude | 2026-06-19 |
+| #1827 | Minimum Operations to Make the Array Increasing | 2026-06-19 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.
