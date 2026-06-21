@@ -196,6 +196,8 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #1732 | Find the Highest Altitude | 2026-06-19 |
 | #1827 | Minimum Operations to Make the Array Increasing | 2026-06-19 |
 | #1207 | Unique Number of Occurrences | 2026-06-20 |
+| #1512 | Number of Good Pairs | 2026-06-22 |
+| #1773 | Count Items Matching a Rule | 2026-06-22 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.
