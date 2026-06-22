@@ -147,6 +147,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1207 | [Unique Number of Occurrences](../problems/1207-unique-number-of-occurrences) | Easy | 2026-06-20 | Count values, sort occurrence counts, detect duplicates |
 | #1512 | [Number of Good Pairs](../problems/1512-number-of-good-pairs) | Easy | 2026-06-22 | Count equal-value index pairs |
 | #1773 | [Count Items Matching a Rule](../problems/1773-count-items-matching-a-rule) | Easy | 2026-06-22 | Map rule key to column, then compare strings |
+| #1464 | [Maximum Product of Two Elements in an Array](../problems/1464-maximum-product-of-two-elements-in-an-array) | Easy | 2026-06-22 | Track the largest two values in one pass |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
