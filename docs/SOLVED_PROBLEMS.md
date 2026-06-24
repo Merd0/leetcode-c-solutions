@@ -149,6 +149,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1773 | [Count Items Matching a Rule](../problems/1773-count-items-matching-a-rule) | Easy | 2026-06-22 | Map rule key to column, then compare strings |
 | #1464 | [Maximum Product of Two Elements in an Array](../problems/1464-maximum-product-of-two-elements-in-an-array) | Easy | 2026-06-22 | Track the largest two values in one pass |
 | #1346 | [Check If N and Its Double Exist](../problems/1346-check-if-n-and-its-double-exist) | Easy | 2026-06-23 | Pair scan with different indices |
+| #0941 | [Valid Mountain Array](../problems/0941-valid-mountain-array) | Easy | 2026-06-25 | Climb to a peak, then descend to the end |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |

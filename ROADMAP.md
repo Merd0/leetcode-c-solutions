@@ -200,6 +200,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #1773 | Count Items Matching a Rule | 2026-06-22 |
 | #1464 | Maximum Product of Two Elements in an Array | 2026-06-22 |
 | #1346 | Check If N and Its Double Exist | 2026-06-23 |
+| #0941 | Valid Mountain Array | 2026-06-25 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.
