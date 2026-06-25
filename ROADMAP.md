@@ -201,6 +201,9 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #1464 | Maximum Product of Two Elements in an Array | 2026-06-22 |
 | #1346 | Check If N and Its Double Exist | 2026-06-23 |
 | #0941 | Valid Mountain Array | 2026-06-25 |
+| #3737 | Count Subarrays With Majority Element I | 2026-06-25 |
+| #1748 | Sum of Unique Elements | 2026-06-25 |
+| #1456 | Maximum Number of Vowels in a Substring of Given Length | 2026-06-25 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.
@@ -261,6 +264,7 @@ systems-style work with buffers and pointer-to-pointer data.
 | #0048 | Rotate Image | 2026-06-04 |
 | #0289 | Game of Life | 2026-06-04 |
 | #0832 | Flipping an Image | 2026-06-09 |
+| #1582 | Special Positions in a Binary Matrix | 2026-06-25 |
 
 ## Data Structure Design Essentials
 

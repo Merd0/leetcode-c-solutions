@@ -150,6 +150,9 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1464 | [Maximum Product of Two Elements in an Array](../problems/1464-maximum-product-of-two-elements-in-an-array) | Easy | 2026-06-22 | Track the largest two values in one pass |
 | #1346 | [Check If N and Its Double Exist](../problems/1346-check-if-n-and-its-double-exist) | Easy | 2026-06-23 | Pair scan with different indices |
 | #0941 | [Valid Mountain Array](../problems/0941-valid-mountain-array) | Easy | 2026-06-25 | Climb to a peak, then descend to the end |
+| #3737 | [Count Subarrays With Majority Element I](../problems/3737-count-subarrays-with-majority-element-i) | Medium | 2026-06-25 | Enumerate starts and grow the target count |
+| #1748 | [Sum of Unique Elements](../problems/1748-sum-of-unique-elements) | Easy | 2026-06-25 | Fixed frequency table, then add count-one values |
+| #1456 | [Maximum Number of Vowels in a Substring of Given Length](../problems/1456-maximum-number-of-vowels-in-a-substring-of-given-length) | Medium | 2026-06-25 | Fixed-size sliding window over vowel counts |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
@@ -189,6 +192,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0048 | [Rotate Image](../problems/0048-rotate-image) | Medium | 2026-06-04 | Transpose then reverse each row |
 | #0289 | [Game of Life](../problems/0289-game-of-life) | Medium | 2026-06-04 | Encode temporary states in place |
 | #0832 | [Flipping an Image](../problems/0832-flipping-an-image) | Easy | 2026-06-09 | Reverse and invert each row in one pass |
+| #1582 | [Special Positions in a Binary Matrix](../problems/1582-special-positions-in-a-binary-matrix) | Easy | 2026-06-25 | Count row and column ones for each candidate |
 | #0622 | [Design Circular Queue](../problems/0622-design-circular-queue) | Medium | 2026-06-05 | Fixed array with modulo indices |
 | #0641 | [Design Circular Deque](../problems/0641-design-circular-deque) | Medium | 2026-06-05 | Front and rear modulo movement |
 | #0705 | [Design HashSet](../problems/0705-design-hashset) | Easy | 2026-06-05 | Direct-address presence table |
