@@ -204,6 +204,8 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #3737 | Count Subarrays With Majority Element I | 2026-06-25 |
 | #1748 | Sum of Unique Elements | 2026-06-25 |
 | #1456 | Maximum Number of Vowels in a Substring of Given Length | 2026-06-25 |
+| #0238 | Product of Array Except Self | 2026-06-26 |
+| #0075 | Sort Colors | 2026-06-26 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.
