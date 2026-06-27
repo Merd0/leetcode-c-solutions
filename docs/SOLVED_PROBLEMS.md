@@ -157,6 +157,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0075 | [Sort Colors](../problems/0075-sort-colors) | Medium | 2026-06-26 | Counting write-back; Dutch National Flag alternative |
 | #1979 | [Find Greatest Common Divisor of Array](../problems/1979-find-greatest-common-divisor-of-array) | Easy | 2026-06-26 | Scan min/max, then search divisors downward |
 | #0287 | [Find the Duplicate Number](../problems/0287-find-the-duplicate-number) | Medium | 2026-06-27 | Frequency table first; Floyd cycle detection alternative |
+| #0152 | [Maximum Product Subarray](../problems/0152-maximum-product-subarray) | Medium | 2026-06-27 | Track max and min products ending at each index |
+| #1662 | [Check If Two String Arrays are Equivalent](../problems/1662-check-if-two-string-arrays-are-equivalent) | Easy | 2026-06-27 | Stream two fragmented string arrays character by character |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
