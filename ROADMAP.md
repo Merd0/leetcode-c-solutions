@@ -207,6 +207,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #0238 | Product of Array Except Self | 2026-06-26 |
 | #0075 | Sort Colors | 2026-06-26 |
 | #1979 | Find Greatest Common Divisor of Array | 2026-06-26 |
+| #0287 | Find the Duplicate Number | 2026-06-27 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.
