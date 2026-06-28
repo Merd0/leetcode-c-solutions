@@ -210,6 +210,8 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #0287 | Find the Duplicate Number | 2026-06-27 |
 | #0152 | Maximum Product Subarray | 2026-06-27 |
 | #1662 | Check If Two String Arrays are Equivalent | 2026-06-27 |
+| #0134 | Gas Station | 2026-06-28 |
+| #2300 | Successful Pairs of Spells and Potions | 2026-06-28 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.

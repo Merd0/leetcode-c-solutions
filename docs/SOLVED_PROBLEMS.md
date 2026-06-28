@@ -159,6 +159,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0287 | [Find the Duplicate Number](../problems/0287-find-the-duplicate-number) | Medium | 2026-06-27 | Frequency table first; Floyd cycle detection alternative |
 | #0152 | [Maximum Product Subarray](../problems/0152-maximum-product-subarray) | Medium | 2026-06-27 | Track max and min products ending at each index |
 | #1662 | [Check If Two String Arrays are Equivalent](../problems/1662-check-if-two-string-arrays-are-equivalent) | Easy | 2026-06-27 | Stream two fragmented string arrays character by character |
+| #0134 | [Gas Station](../problems/0134-gas-station) | Medium | 2026-06-28 | Greedy restart when the running tank becomes negative |
+| #2300 | [Successful Pairs of Spells and Potions](../problems/2300-successful-pairs-of-spells-and-potions) | Medium | 2026-06-28 | Sort potions, then binary search each spell threshold |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
