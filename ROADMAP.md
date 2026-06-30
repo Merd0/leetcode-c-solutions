@@ -213,6 +213,8 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #0134 | Gas Station | 2026-06-28 |
 | #2300 | Successful Pairs of Spells and Potions | 2026-06-28 |
 | #0080 | Remove Duplicates from Sorted Array II | 2026-06-29 |
+| #0735 | Asteroid Collision | 2026-06-30 |
+| #1679 | Max Number of K-Sum Pairs | 2026-06-30 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.
