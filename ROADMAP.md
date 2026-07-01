@@ -260,6 +260,7 @@ and register-like bit operations.
 | #0717 | 1-bit and 2-bit Characters | 2026-06-06 |
 | #1310 | XOR Queries of a Subarray | 2026-06-07 |
 | #1486 | XOR Operation in an Array | 2026-06-08 |
+| #1371 | Find the Longest Substring Containing Vowels in Even Counts | 2026-07-01 |
 
 ## Matrix / 2D Array Essentials
 
