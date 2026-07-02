@@ -198,6 +198,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1310 | [XOR Queries of a Subarray](../problems/1310-xor-queries-of-a-subarray) | Medium | 2026-06-07 | Prefix XOR after brute-force TLE |
 | #1486 | [XOR Operation in an Array](../problems/1486-xor-operation-in-an-array) | Easy | 2026-06-08 | Generate values and accumulate XOR |
 | #1371 | [Find the Longest Substring Containing Vowels in Even Counts](../problems/1371-find-the-longest-substring-containing-vowels-in-even-counts) | Medium | 2026-07-01 | Brute force TLE note, then prefix parity mask |
+| #2433 | [Find The Original Array of Prefix Xor](../problems/2433-find-the-original-array-of-prefix-xor) | Medium | 2026-07-02 | Recover original values from adjacent prefix XORs |
+| #1829 | [Maximum XOR for Each Query](../problems/1829-maximum-xor-for-each-query) | Medium | 2026-07-02 | Full-array XOR, all-ones mask, then remove suffix by XOR |
 | #0054 | [Spiral Matrix](../problems/0054-spiral-matrix) | Medium | 2026-06-04 | Four-boundary spiral traversal |
 | #0059 | [Spiral Matrix II](../problems/0059-spiral-matrix-ii) | Medium | 2026-06-04 | Fill matrix layer by layer |
 | #0073 | [Set Matrix Zeroes](../problems/0073-set-matrix-zeroes) | Medium | 2026-06-04 | Mark rows and columns before zeroing |

@@ -261,6 +261,8 @@ and register-like bit operations.
 | #1310 | XOR Queries of a Subarray | 2026-06-07 |
 | #1486 | XOR Operation in an Array | 2026-06-08 |
 | #1371 | Find the Longest Substring Containing Vowels in Even Counts | 2026-07-01 |
+| #2433 | Find The Original Array of Prefix Xor | 2026-07-02 |
+| #1829 | Maximum XOR for Each Query | 2026-07-02 |
 
 ## Matrix / 2D Array Essentials
 
