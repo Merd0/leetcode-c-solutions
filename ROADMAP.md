@@ -215,6 +215,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #0080 | Remove Duplicates from Sorted Array II | 2026-06-29 |
 | #0735 | Asteroid Collision | 2026-06-30 |
 | #1679 | Max Number of K-Sum Pairs | 2026-06-30 |
+| #2529 | Maximum Count of Positive Integer and Negative Integer | 2026-07-03 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.
