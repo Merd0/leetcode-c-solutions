@@ -216,6 +216,8 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #0735 | Asteroid Collision | 2026-06-30 |
 | #1679 | Max Number of K-Sum Pairs | 2026-06-30 |
 | #2529 | Maximum Count of Positive Integer and Negative Integer | 2026-07-03 |
+| #1784 | Check if Binary String Has at Most One Segment of Ones | 2026-07-04 |
+| #1758 | Minimum Changes To Make Alternating Binary String | 2026-07-04 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.
@@ -264,6 +266,7 @@ and register-like bit operations.
 | #1371 | Find the Longest Substring Containing Vowels in Even Counts | 2026-07-01 |
 | #2433 | Find The Original Array of Prefix Xor | 2026-07-02 |
 | #1829 | Maximum XOR for Each Query | 2026-07-02 |
+| #1461 | Check If a String Contains All Binary Codes of Size K | 2026-07-04 |
 
 ## Matrix / 2D Array Essentials
 
@@ -280,6 +283,7 @@ systems-style work with buffers and pointer-to-pointer data.
 | #0289 | Game of Life | 2026-06-04 |
 | #0832 | Flipping an Image | 2026-06-09 |
 | #1582 | Special Positions in a Binary Matrix | 2026-06-25 |
+| #1572 | Matrix Diagonal Sum | 2026-07-04 |
 
 ## Data Structure Design Essentials
 

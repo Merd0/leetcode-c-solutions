@@ -165,6 +165,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0735 | [Asteroid Collision](../problems/0735-asteroid-collision) | Medium | 2026-06-30 | Use result array as a stack for collision simulation |
 | #1679 | [Max Number of K-Sum Pairs](../problems/1679-max-number-of-k-sum-pairs) | Medium | 2026-06-30 | Brute force TLE note, then sort with two pointers |
 | #2529 | [Maximum Count of Positive Integer and Negative Integer](../problems/2529-maximum-count-of-positive-integer-and-negative-integer) | Easy | 2026-07-03 | Binary search the zero/positive boundaries |
+| #1784 | [Check if Binary String Has at Most One Segment of Ones](../problems/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy | 2026-07-04 | One-flag state machine over a binary string |
+| #1758 | [Minimum Changes To Make Alternating Binary String](../problems/1758-minimum-changes-to-make-alternating-binary-string) | Easy | 2026-07-04 | Compare against both alternating bit patterns |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
@@ -201,6 +203,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1371 | [Find the Longest Substring Containing Vowels in Even Counts](../problems/1371-find-the-longest-substring-containing-vowels-in-even-counts) | Medium | 2026-07-01 | Brute force TLE note, then prefix parity mask |
 | #2433 | [Find The Original Array of Prefix Xor](../problems/2433-find-the-original-array-of-prefix-xor) | Medium | 2026-07-02 | Recover original values from adjacent prefix XORs |
 | #1829 | [Maximum XOR for Each Query](../problems/1829-maximum-xor-for-each-query) | Medium | 2026-07-02 | Full-array XOR, all-ones mask, then remove suffix by XOR |
+| #1461 | [Check If a String Contains All Binary Codes of Size K](../problems/1461-check-if-a-string-contains-all-binary-codes-of-size-k) | Medium | 2026-07-04 | Rolling k-bit window with seen-pattern table |
 | #0054 | [Spiral Matrix](../problems/0054-spiral-matrix) | Medium | 2026-06-04 | Four-boundary spiral traversal |
 | #0059 | [Spiral Matrix II](../problems/0059-spiral-matrix-ii) | Medium | 2026-06-04 | Fill matrix layer by layer |
 | #0073 | [Set Matrix Zeroes](../problems/0073-set-matrix-zeroes) | Medium | 2026-06-04 | Mark rows and columns before zeroing |
@@ -208,6 +211,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0289 | [Game of Life](../problems/0289-game-of-life) | Medium | 2026-06-04 | Encode temporary states in place |
 | #0832 | [Flipping an Image](../problems/0832-flipping-an-image) | Easy | 2026-06-09 | Reverse and invert each row in one pass |
 | #1582 | [Special Positions in a Binary Matrix](../problems/1582-special-positions-in-a-binary-matrix) | Easy | 2026-06-25 | Count row and column ones for each candidate |
+| #1572 | [Matrix Diagonal Sum](../problems/1572-matrix-diagonal-sum) | Easy | 2026-07-04 | Direct diagonal index formulas |
 | #0622 | [Design Circular Queue](../problems/0622-design-circular-queue) | Medium | 2026-06-05 | Fixed array with modulo indices |
 | #0641 | [Design Circular Deque](../problems/0641-design-circular-deque) | Medium | 2026-06-05 | Front and rear modulo movement |
 | #0705 | [Design HashSet](../problems/0705-design-hashset) | Easy | 2026-06-05 | Direct-address presence table |
