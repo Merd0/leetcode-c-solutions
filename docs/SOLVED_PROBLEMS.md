@@ -220,3 +220,5 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1603 | [Design Parking System](../problems/1603-design-parking-system) | Easy | 2026-06-07 | Struct-owned remaining capacities |
 | #0933 | [Number of Recent Calls](../problems/0933-number-of-recent-calls) | Easy | 2026-06-07 | Queue window over increasing timestamps |
 | #0303 | [Range Sum Query - Immutable](../problems/0303-range-sum-query-immutable) | Easy | 2026-06-07 | Struct-owned prefix sum array |
+| #1352 | [Product of the Last K Numbers](../problems/1352-product-of-the-last-k-numbers) | Medium | 2026-07-05 | Brute force TLE note, then struct-owned prefix product since the last zero |
+| #1472 | [Design Browser History](../problems/1472-design-browser-history) | Medium | 2026-07-05 | Array-backed history with current index and forward-history truncation |

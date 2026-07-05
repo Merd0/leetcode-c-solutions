@@ -301,6 +301,8 @@ explicit cleanup.
 | #1603 | Design Parking System | 2026-06-07 |
 | #0933 | Number of Recent Calls | 2026-06-07 |
 | #0303 | Range Sum Query - Immutable | 2026-06-07 |
+| #1352 | Product of the Last K Numbers | 2026-07-05 |
+| #1472 | Design Browser History | 2026-07-05 |
 
 ## Rule For Solving
 
