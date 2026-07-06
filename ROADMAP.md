@@ -303,6 +303,8 @@ explicit cleanup.
 | #0303 | Range Sum Query - Immutable | 2026-06-07 |
 | #1352 | Product of the Last K Numbers | 2026-07-05 |
 | #1472 | Design Browser History | 2026-07-05 |
+| #0900 | RLE Iterator | 2026-07-06 |
+| #1656 | Design an Ordered Stream | 2026-07-06 |
 
 ## Rule For Solving
 

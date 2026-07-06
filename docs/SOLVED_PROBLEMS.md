@@ -222,3 +222,5 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0303 | [Range Sum Query - Immutable](../problems/0303-range-sum-query-immutable) | Easy | 2026-06-07 | Struct-owned prefix sum array |
 | #1352 | [Product of the Last K Numbers](../problems/1352-product-of-the-last-k-numbers) | Medium | 2026-07-05 | Brute force TLE note, then struct-owned prefix product since the last zero |
 | #1472 | [Design Browser History](../problems/1472-design-browser-history) | Medium | 2026-07-05 | Array-backed history with current index and forward-history truncation |
+| #0900 | [RLE Iterator](../problems/0900-rle-iterator) | Medium | 2026-07-06 | Stateful compressed-stream iterator without expanding the sequence |
+| #1656 | [Design an Ordered Stream](../problems/1656-design-an-ordered-stream) | Easy | 2026-07-06 | Out-of-order stream buffer with next-expected-id pointer |
