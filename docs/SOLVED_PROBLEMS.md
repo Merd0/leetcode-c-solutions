@@ -224,3 +224,6 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1472 | [Design Browser History](../problems/1472-design-browser-history) | Medium | 2026-07-05 | Array-backed history with current index and forward-history truncation |
 | #0900 | [RLE Iterator](../problems/0900-rle-iterator) | Medium | 2026-07-06 | Stateful compressed-stream iterator without expanding the sequence |
 | #1656 | [Design an Ordered Stream](../problems/1656-design-an-ordered-stream) | Easy | 2026-07-06 | Out-of-order stream buffer with next-expected-id pointer |
+| #0901 | [Online Stock Span](../problems/0901-online-stock-span) | Medium | 2026-07-07 | Monotonic stack of price/span blocks after direct scan attempt |
+| #2073 | [Time Needed to Buy Tickets](../problems/2073-time-needed-to-buy-tickets) | Easy | 2026-07-07 | Queue tick simulation with a circular index |
+| #1658 | [Minimum Operations to Reduce X to Zero](../problems/1658-minimum-operations-to-reduce-x-to-zero) | Medium | 2026-07-07 | Convert edge removals into longest middle subarray |
