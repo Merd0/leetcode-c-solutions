@@ -220,6 +220,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #1758 | Minimum Changes To Make Alternating Binary String | 2026-07-04 |
 | #2073 | Time Needed to Buy Tickets | 2026-07-07 |
 | #1658 | Minimum Operations to Reduce X to Zero | 2026-07-07 |
+| #0946 | Validate Stack Sequences | 2026-07-08 |
 
 Unsolved daily attempts are kept separately under [attempts/](attempts) and do
 not count as completed problems.
@@ -308,6 +309,7 @@ explicit cleanup.
 | #0900 | RLE Iterator | 2026-07-06 |
 | #1656 | Design an Ordered Stream | 2026-07-06 |
 | #0901 | Online Stock Span | 2026-07-07 |
+| #1381 | Design a Stack With Increment Operation | 2026-07-08 |
 
 ## Rule For Solving
 

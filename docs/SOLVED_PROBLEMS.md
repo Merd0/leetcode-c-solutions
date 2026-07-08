@@ -227,3 +227,5 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0901 | [Online Stock Span](../problems/0901-online-stock-span) | Medium | 2026-07-07 | Monotonic stack of price/span blocks after direct scan attempt |
 | #2073 | [Time Needed to Buy Tickets](../problems/2073-time-needed-to-buy-tickets) | Easy | 2026-07-07 | Queue tick simulation with a circular index |
 | #1658 | [Minimum Operations to Reduce X to Zero](../problems/1658-minimum-operations-to-reduce-x-to-zero) | Medium | 2026-07-07 | Convert edge removals into longest middle subarray |
+| #0946 | [Validate Stack Sequences](../problems/0946-validate-stack-sequences) | Medium | 2026-07-08 | Simulate fixed push order and pop while stack top matches expected output |
+| #1381 | [Design a Stack With Increment Operation](../problems/1381-design-a-stack-with-increment-operation) | Medium | 2026-07-08 | Array-backed stack object with capacity, top index, and bottom-k increment |
