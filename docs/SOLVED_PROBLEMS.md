@@ -204,6 +204,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #2433 | [Find The Original Array of Prefix Xor](../problems/2433-find-the-original-array-of-prefix-xor) | Medium | 2026-07-02 | Recover original values from adjacent prefix XORs |
 | #1829 | [Maximum XOR for Each Query](../problems/1829-maximum-xor-for-each-query) | Medium | 2026-07-02 | Full-array XOR, all-ones mask, then remove suffix by XOR |
 | #1461 | [Check If a String Contains All Binary Codes of Size K](../problems/1461-check-if-a-string-contains-all-binary-codes-of-size-k) | Medium | 2026-07-04 | Rolling k-bit window with seen-pattern table |
+| #2997 | [Minimum Number of Operations to Make Array XOR Equal to K](../problems/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) | Medium | 2026-07-09 | Final XOR difference mask, then count set bits with shift or clear-lowest-bit |
 | #0054 | [Spiral Matrix](../problems/0054-spiral-matrix) | Medium | 2026-06-04 | Four-boundary spiral traversal |
 | #0059 | [Spiral Matrix II](../problems/0059-spiral-matrix-ii) | Medium | 2026-06-04 | Fill matrix layer by layer |
 | #0073 | [Set Matrix Zeroes](../problems/0073-set-matrix-zeroes) | Medium | 2026-06-04 | Mark rows and columns before zeroing |

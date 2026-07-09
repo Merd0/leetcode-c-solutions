@@ -270,6 +270,7 @@ and register-like bit operations.
 | #2433 | Find The Original Array of Prefix Xor | 2026-07-02 |
 | #1829 | Maximum XOR for Each Query | 2026-07-02 |
 | #1461 | Check If a String Contains All Binary Codes of Size K | 2026-07-04 |
+| #2997 | Minimum Number of Operations to Make Array XOR Equal to K | 2026-07-09 |
 
 ## Matrix / 2D Array Essentials
 
