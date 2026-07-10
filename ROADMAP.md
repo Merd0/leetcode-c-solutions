@@ -237,6 +237,7 @@ and register-like bit operations.
 | #0231 | Power of Two | 2026-05-29 |
 | #0461 | Hamming Distance | 2026-05-29 |
 | #0476 | Number Complement | 2026-05-29 |
+| #1009 | Complement of Base 10 Integer | 2026-07-11 |
 | #0190 | Reverse Bits | 2026-05-29 |
 | #0405 | Convert a Number to Hexadecimal | 2026-05-29 |
 | #0067 | Add Binary | 2026-05-30 |

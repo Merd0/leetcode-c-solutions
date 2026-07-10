@@ -171,6 +171,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
 | #0476 | [Number Complement](../problems/0476-number-complement) | Easy | 2026-05-29 | Build mask and flip |
+| #1009 | [Complement of Base 10 Integer](../problems/1009-complement-of-base-10-integer) | Easy | 2026-07-11 | Build an all-ones mask for the used bits, then XOR to flip |
 | #0190 | [Reverse Bits](../problems/0190-reverse-bits) | Easy | 2026-05-29 | Shift bits into reversed result |
 | #0405 | [Convert a Number to Hexadecimal](../problems/0405-convert-a-number-to-hexadecimal) | Easy | 2026-05-29 | Extract 4-bit nibbles |
 | #0067 | [Add Binary](../problems/0067-add-binary) | Easy | 2026-05-30 | Binary string addition with carry |
