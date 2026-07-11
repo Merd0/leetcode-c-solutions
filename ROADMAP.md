@@ -289,6 +289,7 @@ systems-style work with buffers and pointer-to-pointer data.
 | #0832 | Flipping an Image | 2026-06-09 |
 | #1582 | Special Positions in a Binary Matrix | 2026-06-25 |
 | #1572 | Matrix Diagonal Sum | 2026-07-04 |
+| #0036 | Valid Sudoku | 2026-07-11 |
 
 ## Data Structure Design Essentials
 

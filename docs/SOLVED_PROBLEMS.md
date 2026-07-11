@@ -214,6 +214,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0832 | [Flipping an Image](../problems/0832-flipping-an-image) | Easy | 2026-06-09 | Reverse and invert each row in one pass |
 | #1582 | [Special Positions in a Binary Matrix](../problems/1582-special-positions-in-a-binary-matrix) | Easy | 2026-06-25 | Count row and column ones for each candidate |
 | #1572 | [Matrix Diagonal Sum](../problems/1572-matrix-diagonal-sum) | Easy | 2026-07-04 | Direct diagonal index formulas |
+| #0036 | [Valid Sudoku](../problems/0036-valid-sudoku) | Medium | 2026-07-11 | Validate rows, columns, and 3x3 boxes with fixed frequency arrays |
 | #0622 | [Design Circular Queue](../problems/0622-design-circular-queue) | Medium | 2026-06-05 | Fixed array with modulo indices |
 | #0641 | [Design Circular Deque](../problems/0641-design-circular-deque) | Medium | 2026-06-05 | Front and rear modulo movement |
 | #0705 | [Design HashSet](../problems/0705-design-hashset) | Easy | 2026-06-05 | Direct-address presence table |
