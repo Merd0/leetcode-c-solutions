@@ -218,6 +218,7 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #2529 | Maximum Count of Positive Integer and Negative Integer | 2026-07-03 |
 | #1784 | Check if Binary String Has at Most One Segment of Ones | 2026-07-04 |
 | #1758 | Minimum Changes To Make Alternating Binary String | 2026-07-04 |
+| #0055 | Jump Game | 2026-07-12 |
 | #2073 | Time Needed to Buy Tickets | 2026-07-07 |
 | #1658 | Minimum Operations to Reduce X to Zero | 2026-07-07 |
 | #0946 | Validate Stack Sequences | 2026-07-08 |
@@ -290,6 +291,7 @@ systems-style work with buffers and pointer-to-pointer data.
 | #1582 | Special Positions in a Binary Matrix | 2026-06-25 |
 | #1572 | Matrix Diagonal Sum | 2026-07-04 |
 | #0036 | Valid Sudoku | 2026-07-11 |
+| #0074 | Search a 2D Matrix | 2026-07-12 |
 
 ## Data Structure Design Essentials
 

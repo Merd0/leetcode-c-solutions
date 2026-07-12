@@ -167,6 +167,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #2529 | [Maximum Count of Positive Integer and Negative Integer](../problems/2529-maximum-count-of-positive-integer-and-negative-integer) | Easy | 2026-07-03 | Binary search the zero/positive boundaries |
 | #1784 | [Check if Binary String Has at Most One Segment of Ones](../problems/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy | 2026-07-04 | One-flag state machine over a binary string |
 | #1758 | [Minimum Changes To Make Alternating Binary String](../problems/1758-minimum-changes-to-make-alternating-binary-string) | Easy | 2026-07-04 | Compare against both alternating bit patterns |
+| #0055 | [Jump Game](../problems/0055-jump-game) | Medium | 2026-07-12 | Greedily track the farthest reachable index |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
@@ -215,6 +216,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1582 | [Special Positions in a Binary Matrix](../problems/1582-special-positions-in-a-binary-matrix) | Easy | 2026-06-25 | Count row and column ones for each candidate |
 | #1572 | [Matrix Diagonal Sum](../problems/1572-matrix-diagonal-sum) | Easy | 2026-07-04 | Direct diagonal index formulas |
 | #0036 | [Valid Sudoku](../problems/0036-valid-sudoku) | Medium | 2026-07-11 | Validate rows, columns, and 3x3 boxes with fixed frequency arrays |
+| #0074 | [Search a 2D Matrix](../problems/0074-search-a-2d-matrix) | Medium | 2026-07-12 | Flatten the sorted matrix mentally and binary search by row/column mapping |
 | #0622 | [Design Circular Queue](../problems/0622-design-circular-queue) | Medium | 2026-06-05 | Fixed array with modulo indices |
 | #0641 | [Design Circular Deque](../problems/0641-design-circular-deque) | Medium | 2026-06-05 | Front and rear modulo movement |
 | #0705 | [Design HashSet](../problems/0705-design-hashset) | Easy | 2026-06-05 | Direct-address presence table |
