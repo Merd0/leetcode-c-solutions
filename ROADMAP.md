@@ -219,6 +219,8 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #1784 | Check if Binary String Has at Most One Segment of Ones | 2026-07-04 |
 | #1758 | Minimum Changes To Make Alternating Binary String | 2026-07-04 |
 | #0055 | Jump Game | 2026-07-12 |
+| #0621 | Task Scheduler | 2026-07-13 |
+| #0649 | Dota2 Senate | 2026-07-13 |
 | #2073 | Time Needed to Buy Tickets | 2026-07-07 |
 | #1658 | Minimum Operations to Reduce X to Zero | 2026-07-07 |
 | #0946 | Validate Stack Sequences | 2026-07-08 |

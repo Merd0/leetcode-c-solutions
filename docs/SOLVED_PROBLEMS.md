@@ -168,6 +168,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1784 | [Check if Binary String Has at Most One Segment of Ones](../problems/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy | 2026-07-04 | One-flag state machine over a binary string |
 | #1758 | [Minimum Changes To Make Alternating Binary String](../problems/1758-minimum-changes-to-make-alternating-binary-string) | Easy | 2026-07-04 | Compare against both alternating bit patterns |
 | #0055 | [Jump Game](../problems/0055-jump-game) | Medium | 2026-07-12 | Greedily track the farthest reachable index |
+| #0621 | [Task Scheduler](../problems/0621-task-scheduler) | Medium | 2026-07-13 | Count task frequencies and build the cooldown skeleton from the max frequency |
+| #0649 | [Dota2 Senate](../problems/0649-dota2-senate) | Medium | 2026-07-13 | Simulate cyclic turns with two index queues |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
