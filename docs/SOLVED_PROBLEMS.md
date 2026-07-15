@@ -170,6 +170,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0055 | [Jump Game](../problems/0055-jump-game) | Medium | 2026-07-12 | Greedily track the farthest reachable index |
 | #0621 | [Task Scheduler](../problems/0621-task-scheduler) | Medium | 2026-07-13 | Count task frequencies and build the cooldown skeleton from the max frequency |
 | #0649 | [Dota2 Senate](../problems/0649-dota2-senate) | Medium | 2026-07-13 | Simulate cyclic turns with two index queues |
+| #0503 | [Next Greater Element II](../problems/0503-next-greater-element-ii) | Medium | 2026-07-15 | Brute-force circular scan, then monotonic stack over two passes |
+| #1011 | [Capacity To Ship Packages Within D Days](../problems/1011-capacity-to-ship-packages-within-d-days) | Medium | 2026-07-15 | Binary search the minimum capacity with an order-preserving feasibility check |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
