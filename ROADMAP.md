@@ -223,6 +223,9 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #0649 | Dota2 Senate | 2026-07-13 |
 | #0503 | Next Greater Element II | 2026-07-15 |
 | #1011 | Capacity To Ship Packages Within D Days | 2026-07-15 |
+| #0495 | Teemo Attacking | 2026-07-17 |
+| #0056 | Merge Intervals | 2026-07-17 |
+| #1209 | Remove All Adjacent Duplicates in String II | 2026-07-17 |
 | #2073 | Time Needed to Buy Tickets | 2026-07-07 |
 | #1658 | Minimum Operations to Reduce X to Zero | 2026-07-07 |
 | #0946 | Validate Stack Sequences | 2026-07-08 |

@@ -172,6 +172,9 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0649 | [Dota2 Senate](../problems/0649-dota2-senate) | Medium | 2026-07-13 | Simulate cyclic turns with two index queues |
 | #0503 | [Next Greater Element II](../problems/0503-next-greater-element-ii) | Medium | 2026-07-15 | Brute-force circular scan, then monotonic stack over two passes |
 | #1011 | [Capacity To Ship Packages Within D Days](../problems/1011-capacity-to-ship-packages-within-d-days) | Medium | 2026-07-15 | Binary search the minimum capacity with an order-preserving feasibility check |
+| #0495 | [Teemo Attacking](../problems/0495-teemo-attacking) | Easy | 2026-07-17 | Add only the non-overlapping poisoned time between consecutive attacks |
+| #0056 | [Merge Intervals](../problems/0056-merge-intervals) | Medium | 2026-07-17 | Sort by start, keep one active interval, and emit closed merged ranges |
+| #1209 | [Remove All Adjacent Duplicates in String II](../problems/1209-remove-all-adjacent-duplicates-in-string-ii) | Medium | 2026-07-17 | Use the string as an in-place stack with per-position run-length metadata |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
