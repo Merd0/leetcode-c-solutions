@@ -175,6 +175,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0495 | [Teemo Attacking](../problems/0495-teemo-attacking) | Easy | 2026-07-17 | Add only the non-overlapping poisoned time between consecutive attacks |
 | #0056 | [Merge Intervals](../problems/0056-merge-intervals) | Medium | 2026-07-17 | Sort by start, keep one active interval, and emit closed merged ranges |
 | #1209 | [Remove All Adjacent Duplicates in String II](../problems/1209-remove-all-adjacent-duplicates-in-string-ii) | Medium | 2026-07-17 | Use the string as an in-place stack with per-position run-length metadata |
+| #1041 | [Robot Bounded In Circle](../problems/1041-robot-bounded-in-circle) | Medium | 2026-07-17 | Simulate one command cycle with a direction lookup table |
+| #0874 | [Walking Robot Simulation](../problems/0874-walking-robot-simulation) | Medium | 2026-07-17 | Simulate robot commands and speed up obstacle checks with encoded sorted keys |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
