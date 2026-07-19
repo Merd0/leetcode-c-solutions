@@ -178,6 +178,7 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1041 | [Robot Bounded In Circle](../problems/1041-robot-bounded-in-circle) | Medium | 2026-07-17 | Simulate one command cycle with a direction lookup table |
 | #0874 | [Walking Robot Simulation](../problems/0874-walking-robot-simulation) | Medium | 2026-07-17 | Simulate robot commands and speed up obstacle checks with encoded sorted keys |
 | #0657 | [Robot Return to Origin](../problems/0657-robot-return-to-origin) | Easy | 2026-07-18 | Track x/y displacement from simple move commands |
+| #1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](../problems/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | Medium | 2026-07-19 | Fixed-size sliding window with a threshold sum |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
