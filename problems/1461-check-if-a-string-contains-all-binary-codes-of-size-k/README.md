@@ -2,7 +2,7 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: String, Bit Manipulation, Rolling Hash, Sliding Window
 - Hint: Treat the last `k` bits as a small shift-register value.
@@ -103,3 +103,8 @@ This is close to a real binary stream check:
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

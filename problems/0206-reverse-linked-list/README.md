@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Linked List, Recursion
-- Companies: Not tracked in this repo
 - Hint: Keep `prev`, `current`, and the next node before changing links.
-- Solved: 2026-05-24
-- LeetCode: https://leetcode.com/problems/reverse-linked-list/
+- Solved date: 2026-05-24
+- Source: https://leetcode.com/problems/reverse-linked-list/
 
 ## Problem Statement
 
@@ -71,3 +70,8 @@ EN: Iteratively point `current->next` back to `prev`. Save `nextNode` first, rev
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Math, String, Simulation
-- Companies: Not tracked in this repo
 - Hint: Add digits from right to left, just like manual addition.
-- Solved: 2026-05-22
-- LeetCode: https://leetcode.com/problems/add-strings/
+- Solved date: 2026-05-22
+- Source: https://leetcode.com/problems/add-strings/
 
 ## Problem Statement
 
@@ -73,3 +72,8 @@ EN: Add digits from right to left while carrying. The result is built in reverse
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Hash Table, Math, Two Pointers
 - Hint: If the process repeats a previous sum, it will never reach 1.
 - Solved date: 2026-05-25
-- Source: LeetCode #202
+- Source: https://leetcode.com/problems/happy-number/
 
 ## Problem Statement
 
@@ -50,3 +50,8 @@ Explanation: The process enters a cycle that does not include 1.
 
 Generate the next value by summing digit squares. Store seen sums in a fixed
 array. If a sum appears again, the sequence is cycling and cannot become 1.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

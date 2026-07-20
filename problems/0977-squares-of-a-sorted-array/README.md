@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Two Pointers, Sorting
-- Companies: Not tracked in this repo
 - Hint: Squaring can change the order because negative numbers become positive.
-- Solved: 2026-05-22
-- LeetCode: https://leetcode.com/problems/squares-of-a-sorted-array/
+- Solved date: 2026-05-22
+- Source: https://leetcode.com/problems/squares-of-a-sorted-array/
 
 ## Problem Statement
 
@@ -67,3 +66,8 @@ EN: First write every square into a new array. Since negative numbers can break 
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

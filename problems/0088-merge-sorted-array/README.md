@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Two Pointers, Sorting
-- Companies: Not tracked in this repo
 - Hint: Fill `nums1` from the end so existing values are not overwritten too early.
-- Solved: 2026-05-20
-- LeetCode: https://leetcode.com/problems/merge-sorted-array/
+- Solved date: 2026-05-20
+- Source: https://leetcode.com/problems/merge-sorted-array/
 
 ## Problem Statement
 
@@ -79,3 +78,8 @@ EN: Use three pointers to write the largest remaining value at the end. `i = m -
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,7 +2,7 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Stack, Monotonic Stack
 - Hint: Store unresolved indexes, not values.
@@ -127,3 +127,8 @@ events, so the algorithm keeps only unresolved indexes as runtime state.
 
 - [solution_bruteforce.c](solution_bruteforce.c)
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

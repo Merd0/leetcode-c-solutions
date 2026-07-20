@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Stack, Monotonic Stack
-- Companies: Not tracked in this repo
 - Hint: Store indices of days still waiting for a warmer temperature.
-- Solved: 2026-05-23
-- LeetCode: https://leetcode.com/problems/daily-temperatures/
+- Solved date: 2026-05-23
+- Source: https://leetcode.com/problems/daily-temperatures/
 
 ## Problem Statement
 
@@ -73,3 +72,8 @@ EN: Store indices of days that have not found a warmer future day. When today is
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Two Pointers, String
 - Hint: Use one read index and one write index.
 - Solved date: 2026-06-02
-- Source: LeetCode #443
+- Source: https://leetcode.com/problems/string-compression/
 
 ## Problem Statement
 
@@ -66,3 +66,8 @@ Use two indexes:
 
 For each group, write the character once. If the group count is greater than
 `1`, convert that count into digits and write the digits in normal order.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

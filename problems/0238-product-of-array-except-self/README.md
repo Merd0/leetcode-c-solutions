@@ -2,7 +2,7 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Prefix Sum
 - Hint: Build the product on the left of each index, then multiply by a running product from the right.
@@ -81,3 +81,8 @@ The order is important: updating `rightProduct` after writing the answer keeps
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

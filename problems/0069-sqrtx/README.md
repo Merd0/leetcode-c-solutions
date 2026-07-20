@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Math, Binary Search
 - Hint: Search for the largest integer whose square is not greater than `x`.
 - Solved date: 2026-05-25
-- Source: LeetCode #69
+- Source: https://leetcode.com/problems/sqrtx/
 
 ## Problem Statement
 
@@ -50,3 +50,8 @@ Explanation: sqrt(8) is about 2.828, so the integer part is 2.
 Binary search over possible square root values. When `mid * mid` is smaller
 than `x`, store `mid` as the best current answer and search the right half.
 Use `long long` for the square to avoid integer overflow.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

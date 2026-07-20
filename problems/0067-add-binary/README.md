@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Math, String, Bit Manipulation, Simulation
 - Hint: Add from right to left and carry the overflow bit.
 - Solved date: 2026-05-30
-- Source: LeetCode #67
+- Source: https://leetcode.com/problems/add-binary/
 
 ## Problem Statement
 
@@ -68,3 +68,8 @@ sum >> 1
 The result is filled from right to left. If the first allocated character is not
 used, shift the string left before returning so the returned pointer is still
 the original `malloc` pointer.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

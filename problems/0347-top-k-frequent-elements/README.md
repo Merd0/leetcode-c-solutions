@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Hash Table, Divide and Conquer, Sorting, Heap, Bucket Sort, Counting, Quickselect
 - Hint: Count occurrences first, then choose the values with the largest counts.
 - Solved date: 2026-05-25
-- Source: LeetCode #347
+- Source: https://leetcode.com/problems/top-k-frequent-elements/
 
 ## Problem Statement
 
@@ -58,3 +58,8 @@ Output: [1]
 Sort the input array so equal values become adjacent. Count each unique value
 in one pass and store it as a `(value, count)` pair. Sort pairs by count in
 descending order, then return the first `k` values.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

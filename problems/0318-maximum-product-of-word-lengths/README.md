@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, String, Bit Manipulation
 - Hint: Represent each word's letters with a 26-bit mask.
 - Solved date: 2026-06-02
-- Source: LeetCode #318
+- Source: https://leetcode.com/problems/maximum-product-of-word-lengths/
 
 ## Problem Statement
 
@@ -66,3 +66,8 @@ Build one integer mask per word. Bit `0` represents `a`, bit `1` represents
 ```
 
 Then compute the product of their lengths and keep the maximum.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

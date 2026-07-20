@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Hard
 - Topics: Hash Table, String, Sliding Window
 - Hint: Expand until all required characters are covered, then shrink as much as possible.
 - Solved date: 2026-05-26
-- Source: LeetCode #76
+- Source: https://leetcode.com/problems/minimum-window-substring/
 
 ## Problem Statement
 
@@ -57,3 +57,8 @@ Output: ""
 Count the required characters from `t`. Expand the right side of the window and
 track how many required characters are currently satisfied. When all characters
 are covered, shrink from the left and update the best answer.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

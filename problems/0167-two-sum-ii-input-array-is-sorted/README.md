@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Two Pointers, Binary Search
-- Companies: Not tracked in this repo
 - Hint: The input is sorted, so move the left or right pointer based on the current sum.
-- Solved: 2026-05-22
-- LeetCode: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+- Solved date: 2026-05-22
+- Source: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
 ## Problem Statement
 
@@ -78,3 +77,8 @@ EN: Start with left and right pointers. If the sum is too small, move left forwa
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

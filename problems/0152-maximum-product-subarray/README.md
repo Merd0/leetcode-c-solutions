@@ -2,7 +2,7 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Dynamic Programming
 - Hint: Product problems need both the best and the worst product ending at the current index.
@@ -128,3 +128,8 @@ That is why the minimum product is worth keeping.
 
 - [solution.c](solution.c) - optimized max/min product state
 - [brute_force_tle.c](brute_force_tle.c) - learning attempt, correct idea but too slow
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

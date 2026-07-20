@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Two Pointers, String
-- Companies: Not tracked in this repo
 - Hint: Swap the first and last characters, then move inward.
-- Solved: 2026-05-21
-- LeetCode: https://leetcode.com/problems/reverse-string/
+- Solved date: 2026-05-21
+- Source: https://leetcode.com/problems/reverse-string/
 
 ## Problem Statement
 
@@ -66,3 +65,8 @@ EN: Iterate through the first half of the array. Swap the character at `i` with 
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

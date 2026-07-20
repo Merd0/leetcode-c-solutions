@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Enumeration, Greedy
 - Hint: Try both orders: land first and water first.
 - Solved date: 2026-06-02
-- Source: LeetCode #3633
+- Source: https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/
 
 ## Problem Statement
 
@@ -75,3 +75,8 @@ max(previousFinish, rideStartTime)
 ```
 
 Track the minimum finish time across all pair/order combinations.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

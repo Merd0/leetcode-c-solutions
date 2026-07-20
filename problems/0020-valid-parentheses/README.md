@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: String, Stack
-- Companies: Not tracked in this repo
 - Hint: Push opening brackets, and every closing bracket must match the top of the stack.
-- Solved: 2026-05-23
-- LeetCode: https://leetcode.com/problems/valid-parentheses/
+- Solved date: 2026-05-23
+- Source: https://leetcode.com/problems/valid-parentheses/
 
 ## Problem Statement
 
@@ -71,3 +70,8 @@ EN: Push opening brackets onto a stack. When a closing bracket appears, the stac
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

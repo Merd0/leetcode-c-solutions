@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Sorting, Sliding Window
 - Hint: After sorting, the best group of `k` scores is contiguous.
 - Solved date: 2026-05-30
-- Source: LeetCode #1984
+- Source: https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 
 ## Problem Statement
 
@@ -62,3 +62,8 @@ nums[i + k - 1] - nums[i]
 ```
 
 Return the smallest difference.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

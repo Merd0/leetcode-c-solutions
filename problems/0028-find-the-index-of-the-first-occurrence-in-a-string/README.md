@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Two Pointers, String, String Matching
-- Companies: Not tracked in this repo
 - Hint: Try every position where `needle` can still fit.
-- Solved: 2026-05-22
-- LeetCode: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+- Solved date: 2026-05-22
+- Source: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 
 ## Problem Statement
 
@@ -67,3 +66,8 @@ EN: Try every index where `needle` can still fit. Compare characters in order; i
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

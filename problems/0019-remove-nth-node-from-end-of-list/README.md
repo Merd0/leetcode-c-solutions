@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Linked List, Two Pointers
 - Hint: The node to delete can be found by counting length or by keeping a gap of `n`.
 - Solved date: 2026-05-24
-- Source: LeetCode #19
+- Source: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 ## Problem Statement
 
@@ -66,3 +66,8 @@ Output: [1]
 Count the total number of nodes first. A dummy node is used before `head` so
 the same deletion logic also works when the head itself must be removed. Move
 to the node before the target and bypass the target node.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

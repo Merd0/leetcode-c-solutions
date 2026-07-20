@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Bit Manipulation
 - Hint: XOR marks the bit positions where two numbers differ.
 - Solved date: 2026-05-29
-- Source: LeetCode #461
+- Source: https://leetcode.com/problems/hamming-distance/
 
 ## Problem Statement
 
@@ -92,3 +92,8 @@ count = 2
 ```
 
 So `1100` contains two `1` bits.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

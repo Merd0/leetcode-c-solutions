@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Math, Bit Manipulation
 - Hint: XOR gives the sum without carry; AND shifted left gives the carry.
 - Solved date: 2026-05-31
-- Source: LeetCode #371
+- Source: https://leetcode.com/problems/sum-of-two-integers/
 
 ## Problem Statement
 
@@ -57,3 +57,8 @@ Use the same idea as binary addition:
 
 Repeat until there is no carry left. The solution stores carry through
 `unsigned int` so the left shift is handled as a bit operation.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

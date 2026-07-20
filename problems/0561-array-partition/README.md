@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Greedy, Sorting
-- Companies: Not tracked in this repo
 - Hint: After sorting, pair neighboring values.
-- Solved: 2026-05-20
-- LeetCode: https://leetcode.com/problems/array-partition/
+- Solved date: 2026-05-20
+- Source: https://leetcode.com/problems/array-partition/
 
 ## Problem Statement
 
@@ -70,3 +69,8 @@ EN: Sort the array. Pairing neighboring values keeps the smaller values as large
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

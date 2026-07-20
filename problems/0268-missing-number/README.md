@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Math, Bit Manipulation
-- Companies: Not tracked in this repo
 - Hint: The range is `0..n`, but the array has only `n` numbers.
-- Solved: 2026-05-19
-- LeetCode: https://leetcode.com/problems/missing-number/
+- Solved date: 2026-05-19
+- Source: https://leetcode.com/problems/missing-number/
 
 ## Problem Statement
 
@@ -74,3 +73,8 @@ EN: Use XOR. XOR every value from `0..n` and every value in the array. Values th
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

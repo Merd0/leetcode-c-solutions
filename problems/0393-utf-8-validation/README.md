@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Bit Manipulation
 - Hint: Count how many continuation bytes a leading byte requires.
 - Solved date: 2026-05-30
-- Source: LeetCode #393
+- Source: https://leetcode.com/problems/utf-8-validation/
 
 ## Problem Statement
 
@@ -64,3 +64,8 @@ When `need == 0`, inspect the leading byte pattern:
 
 When `need > 0`, every following byte must match `10xxxxxx`. At the end, the
 sequence is valid only if `need == 0`.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

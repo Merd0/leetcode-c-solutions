@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Hash Table, Two Pointers, String, Sliding Window
 - Hint: A permutation has the same letter counts as the original string.
 - Solved date: 2026-05-26
-- Source: LeetCode #567
+- Source: https://leetcode.com/problems/permutation-in-string/
 
 ## Problem Statement
 
@@ -52,3 +52,8 @@ Output: false
 Build frequency arrays for `s1` and the first window of `s2` with length
 `s1.length`. Slide the window one character at a time and compare the two
 frequency arrays after each move.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

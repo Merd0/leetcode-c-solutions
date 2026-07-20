@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Hash Table, String, Sliding Window
 - Hint: A window is valid if `window length - most frequent char count <= k`.
 - Solved date: 2026-05-26
-- Source: LeetCode #424
+- Source: https://leetcode.com/problems/longest-repeating-character-replacement/
 
 ## Problem Statement
 
@@ -54,3 +54,8 @@ Explanation: One valid answer is "AABA" or "ABBA" after one replacement.
 Track counts of letters inside the window and the highest frequency seen in
 the window. If `windowSize - maxFreq > k`, shrink from the left. The largest
 valid window length is the answer.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

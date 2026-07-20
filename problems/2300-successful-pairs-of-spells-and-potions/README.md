@@ -2,7 +2,7 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Two Pointers, Binary Search, Sorting
 - Hint: Sort `potions`, then binary search the first potion that reaches the threshold for each spell.
@@ -118,3 +118,8 @@ total:        O(m log m + n log m)
 
 - [solution.c](solution.c) - optimized sort + binary search
 - [brute_force_tle.c](brute_force_tle.c) - learning attempt, correct idea but too slow
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Binary Search, Sliding Window, Prefix Sum
 - Hint: Keep a window with at most `k` zeroes.
 - Solved date: 2026-05-26
-- Source: LeetCode #1004
+- Source: https://leetcode.com/problems/max-consecutive-ones-iii/
 
 ## Problem Statement
 
@@ -54,3 +54,8 @@ Output: 10
 Use a variable-size sliding window. Expand `right`, count zeroes, and shrink
 from `left` while the window has more than `k` zeroes. Every valid window is a
 candidate answer.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

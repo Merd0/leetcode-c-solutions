@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Hash Table
 - Hint: The answer is the first value that appears more than once.
 - Solved date: 2026-05-30
-- Source: LeetCode #961
+- Source: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 
 ## Problem Statement
 
@@ -62,3 +62,8 @@ Output: 5
 Use a frequency array. As soon as a value is seen for the second time, return it.
 Because the repeated value appears many times, the first duplicate found must be
 the answer.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

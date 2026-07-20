@@ -2,7 +2,7 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Two Pointers, Sorting
 - Hint: The array contains only `0`, `1`, and `2`; either count each value or partition all three groups in one pass.
@@ -89,3 +89,8 @@ same three-way partition pattern is useful for a larger in-place algorithm.
 
 - [solution.c](solution.c) - Counting then writing back; the primary, clearest solution.
 - [solution_in_place_partition.c](solution_in_place_partition.c) - Dutch National Flag three-way partition.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

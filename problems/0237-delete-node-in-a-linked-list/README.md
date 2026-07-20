@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Linked List
-- Companies: Not tracked in this repo
 - Hint: You are not given the head, so copy the next node into the current node.
-- Solved: 2026-05-24
-- LeetCode: https://leetcode.com/problems/delete-node-in-a-linked-list/
+- Solved date: 2026-05-24
+- Source: https://leetcode.com/problems/delete-node-in-a-linked-list/
 
 ## Problem Statement
 
@@ -65,3 +64,8 @@ EN: Since the head is not given, the previous node cannot be reached. Copy the n
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Math, Bit Manipulation
 - Hint: Even numbers can be divided by two; odd numbers need one subtract step.
 - Solved date: 2026-05-31
-- Source: LeetCode #1342
+- Source: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 
 ## Problem Statement
 
@@ -55,3 +55,8 @@ Loop until `num` becomes zero. If it is even, divide by two. If it is odd,
 subtract one. This is the direct simulation of the problem.
 
 Bitwise connection: checking even/odd can also be written as `num & 1`.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Linked List, Two Pointers
 - Hint: When a duplicate value is found, skip the whole group.
 - Solved date: 2026-05-24
-- Source: LeetCode #82
+- Source: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 
 ## Problem Statement
 
@@ -60,3 +60,8 @@ Explanation: Value 1 is a duplicate group, so none of the 1 nodes remain.
 Use a dummy node before `head` because the first real node may be deleted. When
 `current` starts a duplicate group, remember that value and move `current`
 until the group ends. Then connect `prev` to the first non-duplicate node.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

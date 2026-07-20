@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Greedy, Sorting
 - Hint: Sort expensive candies first; in every group of three, the cheapest one can be free.
 - Solved date: 2026-06-01
-- Source: LeetCode #2144
+- Source: https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 
 ## Problem Statement
 
@@ -73,3 +73,8 @@ if (i % 3 != 2) {
 
 This greedy order maximizes the value of each free candy while satisfying the
 discount rule.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

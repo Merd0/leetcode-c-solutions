@@ -2,7 +2,7 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Hash Table, Two Pointers, Binary Search
 - Hint: First solve with a frequency table, then learn why the values can be treated like linked-list pointers.
@@ -198,3 +198,8 @@ nums[i] is not only a value; in this solution it is also the next index.
 
 - [solution.c](solution.c) - frequency table solution
 - [solution_floyd.c](solution_floyd.c) - Floyd cycle detection solution
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

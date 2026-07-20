@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Hash Table, String
 - Hint: A letter is special if both lowercase and uppercase forms appear.
 - Solved date: 2026-05-27
-- Source: LeetCode #3120
+- Source: https://leetcode.com/problems/count-the-number-of-special-characters-i/
 
 ## Problem Statement
 
@@ -58,3 +58,8 @@ Explanation: Only b/B is present in both forms.
 Use two arrays of size 26. Mark letters seen in lowercase in `lower`, and
 letters seen in uppercase in `upper`. At the end, count indices where both
 arrays are marked.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

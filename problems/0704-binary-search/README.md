@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Binary Search
 - Hint: Each comparison removes half of the remaining search area.
 - Solved date: 2026-05-25
-- Source: LeetCode #704
+- Source: https://leetcode.com/problems/binary-search/
 
 ## Problem Statement
 
@@ -54,3 +54,8 @@ Output: -1
 Use two boundaries, `left` and `right`. Check the middle index. If the middle
 value is smaller than target, search the right half. If it is larger, search
 the left half. Use `left + (right - left) / 2` to avoid overflow.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

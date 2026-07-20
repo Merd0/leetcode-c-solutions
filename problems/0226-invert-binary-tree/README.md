@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Tree, Depth-First Search, Breadth-First Search, Binary Tree
 - Hint: Swap left and right children at every node.
 - Solved date: 2026-05-26
-- Source: LeetCode #226
+- Source: https://leetcode.com/problems/invert-binary-tree/
 
 ## Problem Statement
 
@@ -62,3 +62,8 @@ Output: []
 
 Use recursion. If the node is `NULL`, return `NULL`. Otherwise, swap its left
 and right children, then recursively invert both subtrees.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

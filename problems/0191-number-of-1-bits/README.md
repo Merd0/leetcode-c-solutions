@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Bit Manipulation
 - Hint: Repeatedly inspect the least significant bit.
 - Solved date: 2026-05-29
-- Source: LeetCode #191
+- Source: https://leetcode.com/problems/number-of-1-bits/
 
 ## Problem Statement
 
@@ -50,3 +50,8 @@ Output: 1
 
 Check the last bit with `n & 1`. If it is `1`, increase the counter. Then shift
 the number right by one bit and repeat until no set bits remain.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

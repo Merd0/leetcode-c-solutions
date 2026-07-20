@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Sliding Window
 - Hint: Keep the sum of exactly `k` elements and slide it by one index.
 - Solved date: 2026-05-26
-- Source: LeetCode #643
+- Source: https://leetcode.com/problems/maximum-average-subarray-i/
 
 ## Problem Statement
 
@@ -53,3 +53,8 @@ Output: 5.00000
 Calculate the sum of the first `k` values. Then slide the window: subtract the
 value leaving the window and add the new value entering it. Track the maximum
 window sum and divide it by `k` at the end.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

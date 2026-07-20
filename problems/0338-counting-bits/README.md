@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Dynamic Programming, Bit Manipulation
 - Hint: Count set bits for every number from `0` to `n`.
 - Solved date: 2026-05-31
-- Source: LeetCode #338
+- Source: https://leetcode.com/problems/counting-bits/
 
 ## Problem Statement
 
@@ -68,3 +68,8 @@ temp = temp >> 1;
 
 moves to the next bit. A faster DP version exists, but this brute-force bit
 count is a good first implementation for learning shifts and bit tests.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

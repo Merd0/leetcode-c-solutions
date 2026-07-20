@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Two Pointers, String
-- Companies: Not tracked in this repo
 - Hint: Compare only alphanumeric characters after normalizing case.
-- Solved: 2026-05-21
-- LeetCode: https://leetcode.com/problems/valid-palindrome/
+- Solved date: 2026-05-21
+- Source: https://leetcode.com/problems/valid-palindrome/
 
 ## Problem Statement
 
@@ -75,3 +74,8 @@ EN: Use two pointers from both ends. Skip non-alphanumeric characters, convert t
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

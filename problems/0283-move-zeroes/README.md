@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Two Pointers
-- Companies: Not tracked in this repo
 - Hint: First compact non-zero values, then fill the rest with zeroes.
-- Solved: 2026-05-19
-- LeetCode: https://leetcode.com/problems/move-zeroes/
+- Solved date: 2026-05-19
+- Source: https://leetcode.com/problems/move-zeroes/
 
 ## Problem Statement
 
@@ -73,3 +72,8 @@ EN: Use `index` as the next write position for non-zero values. First write all 
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

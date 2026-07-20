@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Two Pointers, String
-- Companies: Not tracked in this repo
 - Hint: Move two pointers until both point to vowels, then swap.
-- Solved: 2026-05-22
-- LeetCode: https://leetcode.com/problems/reverse-vowels-of-a-string/
+- Solved date: 2026-05-22
+- Source: https://leetcode.com/problems/reverse-vowels-of-a-string/
 
 ## Problem Statement
 
@@ -65,3 +64,8 @@ EN: Use two pointers from both ends. Move each pointer until it finds a vowel. W
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

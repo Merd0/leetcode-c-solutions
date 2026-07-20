@@ -2,7 +2,7 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Matrix
 - Hint: Diagonal positions have direct index formulas.
@@ -105,3 +105,8 @@ cell was added twice, so subtract it once.
 
 - [solution.c](solution.c) - direct index-formula solution
 - [solution_student_loop.c](solution_student_loop.c) - corrected loop+break version
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

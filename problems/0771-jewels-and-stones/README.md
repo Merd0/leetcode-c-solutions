@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: String, Hash Table
-- Companies: Not tracked in this repo
 - Hint: For every stone, check whether it appears in the jewel list.
-- Solved: 2026-05-21
-- LeetCode: https://leetcode.com/problems/jewels-and-stones/
+- Solved date: 2026-05-21
+- Source: https://leetcode.com/problems/jewels-and-stones/
 
 ## Problem Statement
 
@@ -68,3 +67,8 @@ EN: For each stone character, scan the jewel list. When a match is found, increa
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

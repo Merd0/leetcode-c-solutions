@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Simulation, Heap, Linked List
 - Hint: The constraints allow simulating the required operation directly.
 - Solved date: 2026-05-30
-- Source: LeetCode #3507
+- Source: https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/
 
 ## Problem Statement
 
@@ -65,3 +65,8 @@ Simulate exactly what the problem asks:
 5. Repeat until sorted.
 
 The small constraint makes this direct simulation acceptable.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Stack, Design, Queue
-- Companies: Not tracked in this repo
 - Hint: Use one stack for incoming values and one stack for outgoing values.
-- Solved: 2026-05-23
-- LeetCode: https://leetcode.com/problems/implement-queue-using-stacks/
+- Solved date: 2026-05-23
+- Source: https://leetcode.com/problems/implement-queue-using-stacks/
 
 ## Problem Statement
 
@@ -66,3 +65,8 @@ EN: New values go into the `in` stack. For `pop/peek`, if `out` is empty, move v
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

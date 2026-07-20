@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Binary Search, Sliding Window, Prefix Sum
 - Hint: With positive numbers, once the sum is large enough, shrinking from the left is safe.
 - Solved date: 2026-05-26
-- Source: LeetCode #209
+- Source: https://leetcode.com/problems/minimum-size-subarray-sum/
 
 ## Problem Statement
 
@@ -58,3 +58,8 @@ Output: 0
 
 Use a variable-size sliding window. Add values from the right. Whenever the sum
 is at least `target`, update the minimum length and shrink from the left.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Math, Binary Search
 - Hint: Avoid `mid * mid` overflow by comparing with `num / mid`.
 - Solved date: 2026-05-25
-- Source: LeetCode #367
+- Source: https://leetcode.com/problems/valid-perfect-square/
 
 ## Problem Statement
 
@@ -50,3 +50,8 @@ Output: false
 Search possible roots from `1` to `num`. Instead of multiplying `mid * mid`,
 compare `mid` with `num / mid` and also check `num % mid == 0` for exact
 division.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

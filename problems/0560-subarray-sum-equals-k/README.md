@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Hash Table, Prefix Sum
 - Hint: If current prefix is `prefix`, previous prefixes equal to `prefix - k` form valid subarrays.
 - Solved date: 2026-05-25
-- Source: LeetCode #560
+- Source: https://leetcode.com/problems/subarray-sum-equals-k/
 
 ## Problem Statement
 
@@ -55,3 +55,8 @@ Explanation: The valid subarrays are [1,2] and [3].
 Keep a running prefix sum. For each position, the number of valid subarrays
 ending there equals how many previous prefix sums were `prefix - k`. A small
 open-addressing hash table stores prefix-sum counts.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

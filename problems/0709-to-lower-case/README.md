@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: String, ASCII
-- Companies: Not tracked in this repo
 - Hint: Uppercase English letters are consecutive in ASCII.
-- Solved: 2026-05-21
-- LeetCode: https://leetcode.com/problems/to-lower-case/
+- Solved date: 2026-05-21
+- Source: https://leetcode.com/problems/to-lower-case/
 
 ## Problem Statement
 
@@ -71,3 +70,8 @@ EN: Scan the string character by character. If a character is between `'A'` and 
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

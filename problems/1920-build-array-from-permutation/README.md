@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Simulation
-- Companies: Not tracked in this repo
 - Hint: `nums[i]` tells which index should be read next.
-- Solved: 2026-05-18
-- LeetCode: https://leetcode.com/problems/build-array-from-permutation/
+- Solved date: 2026-05-18
+- Source: https://leetcode.com/problems/build-array-from-permutation/
 
 ## Problem Statement
 
@@ -69,3 +68,8 @@ EN: Apply the rule directly for every index. Writing into a new array keeps the 
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

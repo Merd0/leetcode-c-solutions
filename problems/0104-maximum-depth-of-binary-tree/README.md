@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Tree, Depth-First Search, Breadth-First Search, Binary Tree
 - Hint: The depth of a node is one plus the deeper depth of its children.
 - Solved date: 2026-05-26
-- Source: LeetCode #104
+- Source: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 ## Problem Statement
 
@@ -58,3 +58,8 @@ Output: 2
 Use recursion. An empty tree has depth `0`. For a non-empty node, calculate
 the left and right subtree depths, take the larger one, and add `1` for the
 current node.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

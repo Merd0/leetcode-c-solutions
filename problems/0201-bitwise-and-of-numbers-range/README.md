@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Bit Manipulation
 - Hint: The answer is the common binary prefix of `left` and `right`.
 - Solved date: 2026-05-31
-- Source: LeetCode #201
+- Source: https://leetcode.com/problems/bitwise-and-of-numbers-range/
 
 ## Problem Statement
 
@@ -61,3 +61,8 @@ in the final AND. The only part that survives is the common prefix shared by
 
 Shift both numbers right until they become equal, count how many shifts were
 needed, then shift the common prefix back left.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

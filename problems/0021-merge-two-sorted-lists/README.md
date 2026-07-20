@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Linked List, Recursion
-- Companies: Not tracked in this repo
 - Hint: Use a dummy node and always attach the smaller current node.
-- Solved: 2026-05-24
-- LeetCode: https://leetcode.com/problems/merge-two-sorted-lists/
+- Solved date: 2026-05-24
+- Source: https://leetcode.com/problems/merge-two-sorted-lists/
 
 ## Problem Statement
 
@@ -73,3 +72,8 @@ EN: Use a dummy node to manage the result head easily. `tail` tracks the end of 
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Math, Stack
-- Companies: Not tracked in this repo
 - Hint: Push numbers; when an operator appears, pop the last two numbers and push the result.
-- Solved: 2026-05-23
-- LeetCode: https://leetcode.com/problems/evaluate-reverse-polish-notation/
+- Solved date: 2026-05-23
+- Source: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 
 ## Problem Statement
 
@@ -68,3 +67,8 @@ EN: Push number tokens onto the stack. When an operator appears, pop the last tw
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

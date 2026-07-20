@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Math, String
-- Companies: Not tracked in this repo
 - Hint: Treat the title like a base-26 number where `A` is 1.
-- Solved: 2026-05-22
-- LeetCode: https://leetcode.com/problems/excel-sheet-column-number/
+- Solved date: 2026-05-22
+- Source: https://leetcode.com/problems/excel-sheet-column-number/
 
 ## Problem Statement
 
@@ -72,3 +71,8 @@ EN: For each character, multiply the current result by `26`, then add the charac
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

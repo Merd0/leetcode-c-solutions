@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Hash Table, Divide and Conquer, Sorting, Counting
 - Hint: If an element appears more than `n / 2` times, it must be at the middle after sorting.
 - Solved date: 2026-05-25
-- Source: LeetCode #169
+- Source: https://leetcode.com/problems/majority-element/
 
 ## Problem Statement
 
@@ -51,3 +51,8 @@ Output: 2
 
 Sort the array. Since the majority element takes more than half of the array,
 the middle index must contain that element.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Bit Manipulation
 - Hint: Sorting makes duplicate pairs adjacent.
 - Solved date: 2026-06-02
-- Source: LeetCode #260
+- Source: https://leetcode.com/problems/single-number-iii/
 
 ## Problem Statement
 
@@ -65,3 +65,8 @@ simple:
 
 The optimal bitwise solution uses XOR partitioning, but this archived version
 keeps the sorting-based accepted solution.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

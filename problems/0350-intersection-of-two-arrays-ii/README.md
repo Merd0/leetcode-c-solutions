@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Hash Table, Two Pointers, Binary Search, Sorting
 - Hint: If a value appears multiple times in both arrays, it can appear multiple times in the answer.
 - Solved date: 2026-05-25
-- Source: LeetCode #350
+- Source: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 
 ## Problem Statement
 
@@ -56,3 +56,8 @@ Explanation: Output order can be different.
 Use the smaller array for the outer loop. For every matching value in the
 bigger array, mark that bigger-array index as used so the same occurrence is
 not matched twice.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

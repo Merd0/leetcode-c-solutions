@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Math, Bit Manipulation
 - Hint: One hexadecimal digit represents exactly 4 bits.
 - Solved date: 2026-05-29
-- Source: LeetCode #405
+- Source: https://leetcode.com/problems/convert-a-number-to-hexadecimal/
 
 ## Problem Statement
 
@@ -64,3 +64,8 @@ the end.
 
 Casting `num` to `unsigned int` is important for negative values because
 LeetCode expects the 32-bit two's-complement representation.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

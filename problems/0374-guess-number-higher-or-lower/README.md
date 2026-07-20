@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Binary Search, Interactive
 - Hint: Use the API response to decide which half still contains the answer.
 - Solved date: 2026-05-25
-- Source: LeetCode #374
+- Source: https://leetcode.com/problems/guess-number-higher-or-lower/
 
 ## Problem Statement
 
@@ -60,3 +60,8 @@ Output: 1
 Run binary search from `1` to `n`. If `guess(mid)` says the pick is higher,
 move `left` to `mid + 1`. If it says the pick is lower, move `right` to
 `mid - 1`. Return `mid` when the API returns `0`.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

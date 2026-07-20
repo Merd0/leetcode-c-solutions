@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Hash Table, String
 - Hint: Track the last lowercase position and the first uppercase position for each letter.
 - Solved date: 2026-05-27
-- Source: LeetCode #3121
+- Source: https://leetcode.com/problems/count-the-number-of-special-characters-ii/
 
 ## Problem Statement
 
@@ -67,3 +67,8 @@ Use two arrays of size 26:
 A letter is counted only if both forms exist and `lastLower[i] < firstUpper[i]`.
 That condition means every lowercase occurrence came before the first uppercase
 occurrence.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

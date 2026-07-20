@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Two Pointers, String
 - Hint: Parse one revision number at a time from each version.
 - Solved date: 2026-06-03
-- Source: LeetCode #165
+- Source: https://leetcode.com/problems/compare-version-numbers/
 
 ## Problem Statement
 
@@ -65,3 +65,8 @@ skip the dot and continue.
 
 Missing trailing revisions are treated as `0`, which is naturally handled by
 the loop.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

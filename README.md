@@ -1,74 +1,115 @@
 # LeetCode C Solutions
 
-This repository is a personal archive of LeetCode solutions written in C.
+English | [Türkçe](README_TR.md)
 
-The goal is to keep solved problems in a clean, repeatable format: each problem
-has a LeetCode-style short explanation, examples, constraints, the C starter
-signature, approach notes, and the submitted C solution.
+A structured C problem-solving archive that turns language foundations into repeatable algorithm, data-structure, and embedded-oriented practice.
 
-## Snapshot
+[Follow The First 100](docs/LEARNING_ROADMAP.md) | [Browse All Solutions](docs/PROBLEM_INDEX.md) | [Browse By Topic](docs/TOPIC_INDEX.md) | [Explore Practice Tracks](docs/PRACTICE_TRACKS.md) | [View Attempts](docs/ATTEMPTS.md) | [Türkçe](README_TR.md)
 
-| Item | Status |
-|------|--------|
-| Language | C |
-| First 100 C-focused roadmap | Complete |
-| Archived problems | 241 solved: 100 roadmap problems + 76 daily extras + 39 embedded essentials + 12 matrix essentials + 14 data structure design essentials |
-| Open learning attempts | 1 TLE attempt archived for later study |
-| Main solution format | `README.md` + `solution.c` per problem |
+## Current Snapshot
 
-## Navigation
+<!-- snapshot:start -->
+| Item | Current value |
+| --- | ---: |
+| Accepted solutions | 241 |
+| Easy / Medium / Hard | 144 / 93 / 4 |
+| First 100 roadmap | 100 accepted |
+| Focused practice tracks | 3 |
+| Open attempts | 1 |
+| Primary language | C |
+<!-- snapshot:end -->
 
-- First 100 roadmap: [ROADMAP.md](ROADMAP.md)
-- Full solved-problems table: [docs/SOLVED_PROBLEMS.md](docs/SOLVED_PROBLEMS.md)
-- Problem folders: [problems/](problems)
-- Unsolved attempts and learning notes: [attempts/](attempts)
+This block is maintained by `scripts/generate_indexes.py` from problem metadata and repository contents.
 
-## Structure
+## Start Here
+
+- New to the archive: follow the completed [First 100 learning roadmap](docs/LEARNING_ROADMAP.md) in order.
+- Looking for one solution: search the generated [problem index](docs/PROBLEM_INDEX.md).
+- Revising a technique: use the generated [topic index](docs/TOPIC_INDEX.md).
+- Preparing for embedded or electro-optical work: use the [focused practice tracks](docs/PRACTICE_TRACKS.md).
+- Returning to an unfinished idea: open [attempts and learning notes](docs/ATTEMPTS.md).
+
+## Browse By Purpose
+
+| Goal | Document |
+| --- | --- |
+| Build algorithm fundamentals in sequence | [Learning roadmap](docs/LEARNING_ROADMAP.md) |
+| Find every accepted solution | [Problem index](docs/PROBLEM_INDEX.md) |
+| Find stack, bitwise, matrix, linked-list, or window problems | [Topic index](docs/TOPIC_INDEX.md) |
+| Follow embedded, matrix, or data-structure design blocks | [Practice tracks](docs/PRACTICE_TRACKS.md) |
+| Review a failed approach without counting it as solved | [Attempts](docs/ATTEMPTS.md) |
+| Add a solution without breaking indexes | [Adding a problem](docs/ADDING_A_PROBLEM.md) |
+
+## Learning Roadmap
+
+The [First 100 roadmap](docs/LEARNING_ROADMAP.md) moves through arrays, strings, two pointers, stacks, linked lists, binary search, hashing, sliding windows, and a first tree/recursion step. It contains only the learning sequence; daily additions and focused tracks live elsewhere.
+
+## Practice Tracks
+
+The [practice track guide](docs/PRACTICE_TRACKS.md) contains three ordered blocks:
+
+- Bitwise / Embedded Essentials
+- Matrix / 2D Array Essentials
+- Data Structure Design Essentials
+
+Each track states its prerequisite, purpose, C-specific skills, and recommended problem order.
+
+## Problem Archive
+
+Every accepted problem lives under `problems/<number>-<slug>/`:
 
 ```text
 problems/
-  0001-two-sum/
+  0036-valid-sudoku/
     README.md
     solution.c
-attempts/
-  3691-maximum-total-subarray-value-ii/
-    README.md
-    attempt.c
-docs/
-  SOLVED_PROBLEMS.md
-ROADMAP.md
-README.md
 ```
 
-Each problem folder uses the original LeetCode number in the folder name and
-the page title, for example `#0001 - Two Sum`.
+Some folders also keep a meaningful alternative such as a brute-force baseline or a second accepted approach. The problem README owns metadata, the short bilingual summary, reasoning, complexity notes when verified, and links back to the repository indexes.
 
-## Problem Page Format
+## Attempts
 
-Each problem `README.md` should contain:
+Unaccepted work stays under `attempts/` and is never included in accepted counts. [ATTEMPTS.md](docs/ATTEMPTS.md) records the result, why the approach failed, what knowledge is missing, and a concrete retry direction.
 
-- LeetCode Style Info: status, difficulty, topics, hint, solved date, source.
-- Problem Statement: short TR/EN version of what the question asks.
-- Starter Code (C): LeetCode-style C function signature.
-- Parameters / Return: what each input and output means.
-- Examples: input/output samples with short explanations.
-- Constraints: key limits from the problem.
-- Approach: the core idea behind the solution.
+## C Learning Focus
 
-Official LeetCode statements are not copied verbatim; pages are written in
-short original wording while staying close enough for revision.
+The archive pays special attention to C concerns that are easy to hide in higher-level languages:
 
-## Add New Solved Problem
+- pointer and pointer-to-pointer parameters
+- `returnSize` and `returnColumnSizes`
+- heap allocation and caller ownership
+- in-place buffers and null termination
+- linked-node lifetime and explicit cleanup
+- integer overflow, masks, shifts, and fixed-width reasoning
+- circular indexing, stateful structs, and API lifecycle
 
-1. Create a folder under `problems/` with the LeetCode number and slug.
-2. Add a short `README.md` with TR/EN summary, date, topics, examples, and idea.
-3. Add `solution.c` with the LeetCode-style function and short comments.
-4. Add the problem to [docs/SOLVED_PROBLEMS.md](docs/SOLVED_PROBLEMS.md).
-5. Update [ROADMAP.md](ROADMAP.md) if the problem belongs to the planned roadmap.
+These notes are included only where they are relevant to the submitted solution.
 
-## Archive an Unsolved Attempt
+## Add A Problem
 
-1. Create a folder under `attempts/` with the problem number and slug.
-2. Preserve the attempted code without presenting it as an accepted solution.
-3. Record the failure reason, complexity, and knowledge needed before retrying.
-4. Do not include the attempt in the solved-problem count.
+Create the numbered folder, add `README.md` and `solution.c`, then run:
+
+```sh
+python3 scripts/generate_indexes.py
+python3 scripts/generate_indexes.py --check
+```
+
+On Windows, `py -3` can be used instead of `python3`. The script validates folder names, required files, duplicate numbers, metadata, attempts, generated indexes, snapshot values, encoding, and relative Markdown links. It does not claim that every LeetCode function is a standalone executable.
+
+## Repository Validation
+
+GitHub Actions checks documentation and repository structure, metadata and generated-index consistency, and internal links and encoding. It regenerates the indexes and fails if that process leaves an uncommitted diff. LeetCode entry-point functions are intentionally not treated as standalone executables.
+
+## C Foundations
+
+This repository is the practice half of a larger learning system. Use [Merd0/c-systems-foundation](https://github.com/Merd0/c-systems-foundation) when a solution exposes a language gap:
+
+- [Pointers](https://github.com/Merd0/c-systems-foundation/tree/main/en/pointers)
+- [Memory and ownership](https://github.com/Merd0/c-systems-foundation/tree/main/en/memory_management)
+- [Data structures](https://github.com/Merd0/c-systems-foundation/tree/main/en/data_structures)
+- [Bitwise foundations](https://github.com/Merd0/c-systems-foundation/tree/main/en/bitwise)
+- [Turkish LeetCode bridge](https://github.com/Merd0/c-systems-foundation/blob/main/tr/notes/leetcode_bridge.md)
+
+## Project Status
+
+This is an ongoing personal learning archive. Accepted solutions, attempts, explanations, and focused tracks continue to grow; generated indexes and CI keep the navigation honest.

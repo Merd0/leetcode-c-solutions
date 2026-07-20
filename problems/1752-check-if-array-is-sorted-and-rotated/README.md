@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array
-- Companies: Not tracked in this repo
 - Hint: A sorted-and-rotated array can have at most one place where the order drops.
-- Solved: 2026-05-24
-- LeetCode: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+- Solved date: 2026-05-24
+- Source: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 
 ## Problem Statement
 
@@ -87,3 +86,8 @@ EN: Treat the array as circular. For each `i`, check whether `nums[i] > nums[(i 
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Hash Table, Stack, Monotonic Stack
-- Companies: Not tracked in this repo
 - Hint: For each value in `nums1`, find its position in `nums2`, then scan to the right.
-- Solved: 2026-05-23
-- LeetCode: https://leetcode.com/problems/next-greater-element-i/
+- Solved date: 2026-05-23
+- Source: https://leetcode.com/problems/next-greater-element-i/
 
 ## Problem Statement
 
@@ -67,3 +66,8 @@ EN: For each `nums1` value, find its index in `nums2`, then scan to the right fo
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

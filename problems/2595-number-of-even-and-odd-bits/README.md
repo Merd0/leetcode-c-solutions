@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Bit Manipulation
 - Hint: Track the current bit index while shifting right.
 - Solved date: 2026-05-31
-- Source: LeetCode #2595
+- Source: https://leetcode.com/problems/number-of-even-and-odd-bits/
 
 ## Problem Statement
 
@@ -58,3 +58,8 @@ Explanation: 2 is 10, so only odd position 1 is set.
 Scan from the least significant bit. `bas` stores the current bit position. If
 the current bit is `1`, increment `evenOdd[0]` for even positions or
 `evenOdd[1]` for odd positions.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

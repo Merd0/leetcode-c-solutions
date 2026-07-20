@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Hard
 - Topics: String
 - Hint: Track whether digits, a decimal point, and an exponent have appeared.
 - Solved date: 2026-06-03
-- Source: LeetCode #65
+- Source: https://leetcode.com/problems/valid-number/
 
 ## Problem Statement
 
@@ -67,3 +67,8 @@ Scan once and maintain three pieces of state:
 
 After `e` or `E`, reset `digitSeen` because the exponent must contain at least
 one digit. A sign is valid only at the beginning or immediately after `e`/`E`.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

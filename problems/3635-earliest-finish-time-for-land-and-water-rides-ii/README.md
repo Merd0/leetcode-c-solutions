@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Greedy
 - Hint: For a fixed first category, only the earliest finishing ride from that category matters.
 - Solved date: 2026-06-03
-- Source: LeetCode #3635
+- Source: https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/
 
 ## Problem Statement
 
@@ -80,3 +80,8 @@ finish = max(minLandEnd, waterStartTime[j]) + waterDuration[j]
 
 Do the symmetric calculation for `water -> land`, then return the smaller
 answer.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

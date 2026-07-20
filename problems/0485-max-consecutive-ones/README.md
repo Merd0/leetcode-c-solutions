@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Counting
-- Companies: Not tracked in this repo
 - Hint: A zero ends the current run of ones; after that, start counting again.
-- Solved: 2026-05-20
-- LeetCode: https://leetcode.com/problems/max-consecutive-ones/
+- Solved date: 2026-05-20
+- Source: https://leetcode.com/problems/max-consecutive-ones/
 
 ## Problem Statement
 
@@ -70,3 +69,8 @@ EN: `currentI` counts the current run of `1` values. When a `0` appears, the run
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

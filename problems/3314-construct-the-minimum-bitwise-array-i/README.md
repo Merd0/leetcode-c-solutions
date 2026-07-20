@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Bit Manipulation
 - Hint: The constraints are small enough to try every possible `x`.
 - Solved date: 2026-05-30
-- Source: LeetCode #3314
+- Source: https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/
 
 ## Problem Statement
 
@@ -66,3 +66,8 @@ and return the first one satisfying:
 ```
 
 Because the first valid `x` is returned, the answer is minimized.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

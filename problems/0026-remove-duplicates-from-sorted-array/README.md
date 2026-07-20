@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Two Pointers
-- Companies: Not tracked in this repo
 - Hint: Because the array is sorted, duplicate values are next to each other.
-- Solved: 2026-05-20
-- LeetCode: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- Solved date: 2026-05-20
+- Source: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 ## Problem Statement
 
@@ -70,3 +69,8 @@ EN: In a sorted array, a value is written only when it differs from the previous
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

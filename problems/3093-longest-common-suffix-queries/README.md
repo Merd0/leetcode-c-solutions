@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Hard
 - Topics: Array, String, Trie
 - Hint: Reverse suffix matching into prefix matching by reading words from the end.
 - Solved date: 2026-05-29
-- Source: LeetCode #3093
+- Source: https://leetcode.com/problems/longest-common-suffix-queries/
 
 ## Problem Statement
 
@@ -88,3 +88,8 @@ Each trie node stores the best container index for that suffix. "Best" means:
 
 The root also stores the globally best word, so a query with no matching suffix
 can still return the required fallback answer.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

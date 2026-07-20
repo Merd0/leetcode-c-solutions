@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: String
 - Hint: Validate IPv4 and IPv6 with separate rules.
 - Solved date: 2026-06-03
-- Source: LeetCode #468
+- Source: https://leetcode.com/problems/validate-ip-address/
 
 ## Problem Statement
 
@@ -61,3 +61,8 @@ Split the logic by separator:
   `1..4` valid hex characters.
 
 The implementation scans manually instead of allocating token arrays.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Two Pointers, Greedy
-- Companies: Not tracked in this repo
 - Hint: The area is limited by the shorter line, so move that side inward.
-- Solved: 2026-05-22
-- LeetCode: https://leetcode.com/problems/container-with-most-water/
+- Solved date: 2026-05-22
+- Source: https://leetcode.com/problems/container-with-most-water/
 
 ## Problem Statement
 
@@ -67,3 +66,8 @@ EN: Start from both ends. Compute the area, then move the shorter side inward be
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

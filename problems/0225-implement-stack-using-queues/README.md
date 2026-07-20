@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Stack, Design, Queue
-- Companies: Not tracked in this repo
 - Hint: After pushing a value, rotate older values behind it so the newest value stays at the front.
-- Solved: 2026-05-23
-- LeetCode: https://leetcode.com/problems/implement-stack-using-queues/
+- Solved date: 2026-05-23
+- Source: https://leetcode.com/problems/implement-stack-using-queues/
 
 ## Problem Statement
 
@@ -66,3 +65,8 @@ EN: Use one array like a queue. After pushing the new value, rotate older values
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

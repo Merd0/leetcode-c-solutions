@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Math, Two Pointers
 - Hint: Reverse the whole array, then reverse the two parts.
 - Solved date: 2026-06-03
-- Source: LeetCode #189
+- Source: https://leetcode.com/problems/rotate-array/
 
 ## Problem Statement
 
@@ -59,3 +59,8 @@ Normalize `k` with modulo, then use three reversals:
 3. Reverse the remaining elements.
 
 This keeps the solution in-place with `O(1)` extra memory.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

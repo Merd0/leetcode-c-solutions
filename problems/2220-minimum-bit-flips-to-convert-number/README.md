@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Bit Manipulation
 - Hint: XOR marks exactly the bit positions that are different.
 - Solved date: 2026-05-31
-- Source: LeetCode #2220
+- Source: https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 
 ## Problem Statement
 
@@ -64,3 +64,8 @@ diff = diff & (diff - 1);
 ```
 
 which removes the rightmost set bit each loop.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

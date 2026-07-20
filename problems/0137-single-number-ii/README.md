@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Bit Manipulation
 - Hint: After sorting, groups of three should line up unless the single value appears.
 - Solved date: 2026-06-02
-- Source: LeetCode #137
+- Source: https://leetcode.com/problems/single-number-ii/
 
 ## Problem Statement
 
@@ -57,3 +57,8 @@ first two values of a group are different, the first value is the single number.
 
 The classic bitwise solution counts each bit modulo `3`, but this version keeps
 the accepted sorting approach for revision.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

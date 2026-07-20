@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Binary Search
 - Hint: Run binary search twice: once for the first occurrence and once for the last.
 - Solved date: 2026-05-25
-- Source: LeetCode #34
+- Source: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
 ## Problem Statement
 
@@ -62,3 +62,8 @@ Output: [-1,-1]
 Use one binary search to find the leftmost target by moving `right` after every
 match. Use a second binary search to find the rightmost target by moving
 `left` after every match.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

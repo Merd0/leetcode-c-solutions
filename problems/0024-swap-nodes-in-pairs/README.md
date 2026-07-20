@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Linked List, Recursion
 - Hint: Use a dummy node because the head changes after the first swap.
 - Solved date: 2026-05-24
-- Source: LeetCode #24
+- Source: https://leetcode.com/problems/swap-nodes-in-pairs/
 
 ## Problem Statement
 
@@ -62,3 +62,8 @@ Output: [1]
 Use a dummy node before the list. For each pair, keep `prev`, `first`, and
 `second` pointers, then reconnect links as `prev -> second -> first -> next`.
 After each swap, move `prev` to the end of the swapped pair.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

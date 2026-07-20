@@ -2,7 +2,7 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Bit Manipulation, XOR, Set Bit Count
 - Hint: Compare the final array XOR with `k`, not each element with `k`.
@@ -175,3 +175,8 @@ Both approaches first scan the array once, so the total time is `O(n + bit work)
 
 - [solution.c](solution.c)
 - [solution_shift_count.c](solution_shift_count.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

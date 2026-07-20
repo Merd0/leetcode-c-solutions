@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Math, Geometry
 - Hint: Between two points, diagonal movement handles both axes at once.
 - Solved date: 2026-05-30
-- Source: LeetCode #1266
+- Source: https://leetcode.com/problems/minimum-time-visiting-all-points/
 
 ## Problem Statement
 
@@ -63,3 +63,8 @@ max(abs(dx), abs(dy))
 ```
 
 Sum that value for every consecutive pair.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

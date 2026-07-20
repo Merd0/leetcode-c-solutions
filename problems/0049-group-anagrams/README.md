@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Hash Table, String, Sorting
 - Hint: Anagrams have the same sorted-character form.
 - Solved date: 2026-05-25
-- Source: LeetCode #49
+- Source: https://leetcode.com/problems/group-anagrams/
 
 ## Problem Statement
 
@@ -60,3 +60,8 @@ Output: [["a"]]
 For each string, create a sorted copy and use that copy as the group key.
 If the key already exists, append the string to that group. Otherwise, create a
 new group for that key.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

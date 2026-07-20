@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Hash Table, Math, String
-- Companies: Not tracked in this repo
 - Hint: Use Roman symbols from largest value to smallest value.
-- Solved: 2026-05-22
-- LeetCode: https://leetcode.com/problems/integer-to-roman/
+- Solved date: 2026-05-22
+- Source: https://leetcode.com/problems/integer-to-roman/
 
 ## Problem Statement
 
@@ -72,3 +71,8 @@ EN: Store values from largest to smallest. Repeatedly subtract the largest value
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

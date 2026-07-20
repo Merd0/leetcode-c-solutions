@@ -1,8 +1,8 @@
-# #946 - Validate Stack Sequences
+# #0946 - Validate Stack Sequences
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Stack, Simulation
 - Hint: Push in the fixed `pushed` order, then pop while the stack top matches the next expected value.
@@ -96,3 +96,8 @@ when the current state allows it.
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

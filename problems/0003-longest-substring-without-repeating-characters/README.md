@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: String, Sliding Window, Hash Table
-- Companies: Not tracked in this repo
 - Hint: Keep a window with no duplicate characters; when a duplicate appears, move the left side of the window.
-- Solved: 2026-05-18
-- LeetCode: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- Solved date: 2026-05-18
+- Source: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 ## Problem Statement
 
@@ -79,3 +78,8 @@ EN: Use a sliding window. Keep the window between `start` and `end` free of dupl
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

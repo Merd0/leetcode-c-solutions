@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Hash Table, String, Counting
-- Companies: Not tracked in this repo
 - Hint: Count first, then scan from the beginning.
-- Solved: 2026-05-21
-- LeetCode: https://leetcode.com/problems/first-unique-character-in-a-string/
+- Solved date: 2026-05-21
+- Source: https://leetcode.com/problems/first-unique-character-in-a-string/
 
 ## Problem Statement
 
@@ -71,3 +70,8 @@ EN: In the first pass, count every letter. In the second pass, scan from the beg
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

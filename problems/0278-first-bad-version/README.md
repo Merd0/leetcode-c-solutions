@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Binary Search, Interactive
 - Hint: When `mid` is bad, the first bad version is at `mid` or to its left.
 - Solved date: 2026-05-25
-- Source: LeetCode #278
+- Source: https://leetcode.com/problems/first-bad-version/
 
 ## Problem Statement
 
@@ -54,3 +54,8 @@ Output: 1
 This is a lower-bound binary search. If `mid` is bad, keep it as a candidate by
 moving `right` to `mid`. If `mid` is good, the first bad version must be after
 it, so move `left` to `mid + 1`.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

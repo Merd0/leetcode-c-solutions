@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Hash Table, Two Pointers, Binary Search, Sorting
 - Hint: The result must contain each common value only once.
 - Solved date: 2026-05-25
-- Source: LeetCode #349
+- Source: https://leetcode.com/problems/intersection-of-two-arrays/
 
 ## Problem Statement
 
@@ -57,3 +57,8 @@ Explanation: Output order can be different.
 Use the smaller array as the outer loop to reduce work. When a value is found
 inside the bigger array, check whether it already exists in `result`; if not,
 append it.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

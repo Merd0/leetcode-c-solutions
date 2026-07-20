@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Bit Manipulation
 - Hint: Compare `a`, `b`, and `c` one bit at a time.
 - Solved date: 2026-06-02
-- Source: LeetCode #1318
+- Source: https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
 
 ## Problem Statement
 
@@ -61,3 +61,8 @@ Process the numbers bit by bit from right to left.
 - If `cbit == 0`, both `abit` and `bbit` must be `0`.
 
 After checking one bit, shift all three numbers right and continue.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

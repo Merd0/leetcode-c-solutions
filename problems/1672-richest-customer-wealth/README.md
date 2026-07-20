@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Matrix
-- Companies: Not tracked in this repo
 - Hint: Each row belongs to one customer; sum each row and keep the maximum.
-- Solved: 2026-05-19
-- LeetCode: https://leetcode.com/problems/richest-customer-wealth/
+- Solved date: 2026-05-19
+- Source: https://leetcode.com/problems/richest-customer-wealth/
 
 ## Problem Statement
 
@@ -76,3 +75,8 @@ EN: Compute the sum of each row. If a row sum is greater than the current maximu
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

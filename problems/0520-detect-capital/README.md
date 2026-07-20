@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: String
-- Companies: Not tracked in this repo
 - Hint: Valid words have either all capitals, no capitals, or only the first capital.
-- Solved: 2026-05-22
-- LeetCode: https://leetcode.com/problems/detect-capital/
+- Solved date: 2026-05-22
+- Source: https://leetcode.com/problems/detect-capital/
 
 ## Problem Statement
 
@@ -64,3 +63,8 @@ EN: Count uppercase letters. The word is valid if that count equals the length, 
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

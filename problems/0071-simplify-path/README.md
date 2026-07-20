@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: String, Stack
-- Companies: Not tracked in this repo
 - Hint: Split path parts and use a stack for folder names.
-- Solved: 2026-05-23
-- LeetCode: https://leetcode.com/problems/simplify-path/
+- Solved date: 2026-05-23
+- Source: https://leetcode.com/problems/simplify-path/
 
 ## Problem Statement
 
@@ -71,3 +70,8 @@ EN: Scan path parts separated by slashes. Push normal folder names, ignore `.`, 
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

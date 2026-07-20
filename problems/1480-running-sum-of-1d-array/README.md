@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Prefix Sum
-- Companies: Not tracked in this repo
 - Hint: Keep a cumulative sum while scanning from left to right.
-- Solved: 2026-05-18
-- LeetCode: https://leetcode.com/problems/running-sum-of-1d-array/
+- Solved date: 2026-05-18
+- Source: https://leetcode.com/problems/running-sum-of-1d-array/
 
 ## Problem Statement
 
@@ -73,3 +72,8 @@ EN: Scan left to right with a `sum` variable. Add each value into `sum` and writ
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

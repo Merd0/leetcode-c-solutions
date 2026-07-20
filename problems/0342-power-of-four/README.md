@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Math, Bit Manipulation, Recursion
 - Hint: Keep dividing by 4 while possible.
 - Solved date: 2026-05-31
-- Source: LeetCode #342
+- Source: https://leetcode.com/problems/power-of-four/
 
 ## Problem Statement
 
@@ -58,3 +58,8 @@ dividing by `4` while the number is exactly divisible. If the final value is
 `1`, the original number was a power of four.
 
 This mirrors the earlier power-of-two idea, but checks base `4` directly.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

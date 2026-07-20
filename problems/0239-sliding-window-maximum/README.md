@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Hard
 - Topics: Array, Queue, Sliding Window, Heap, Monotonic Queue
 - Hint: Keep candidate indices in decreasing value order.
 - Solved date: 2026-05-26
-- Source: LeetCode #239
+- Source: https://leetcode.com/problems/sliding-window-maximum/
 
 ## Problem Statement
 
@@ -57,3 +57,8 @@ Output: [1]
 Use a deque of indices. Remove indices that leave the current window from the
 front. Remove smaller values from the back because they cannot become maximum
 while the current value is inside the window. The front always holds the max.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

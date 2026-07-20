@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: String
-- Companies: Not tracked in this repo
 - Hint: Compare every string against the first string character by character.
-- Solved: 2026-05-22
-- LeetCode: https://leetcode.com/problems/longest-common-prefix/
+- Solved date: 2026-05-22
+- Source: https://leetcode.com/problems/longest-common-prefix/
 
 ## Problem Statement
 
@@ -68,3 +67,8 @@ EN: Treat the first string as the prefix. Move character by character; when any 
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

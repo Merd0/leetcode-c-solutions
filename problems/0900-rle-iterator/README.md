@@ -1,8 +1,8 @@
-# #900 - RLE Iterator
+# #0900 - RLE Iterator
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Design, Array, Iterator, Stateful API
 - Hint: Keep the current run index. Do not expand the whole sequence.
@@ -107,3 +107,8 @@ the current position and every call continues from the previous state.
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

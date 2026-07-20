@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Bit Manipulation
 - Hint: Adjacent bits must never be equal.
 - Solved date: 2026-05-31
-- Source: LeetCode #693
+- Source: https://leetcode.com/problems/binary-number-with-alternating-bits/
 
 ## Problem Statement
 
@@ -62,3 +62,8 @@ broken.
 
 This reinforces the idea that bitwise problems often only need a tiny amount of
 state.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

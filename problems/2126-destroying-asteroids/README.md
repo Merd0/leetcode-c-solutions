@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Greedy, Sorting
 - Hint: Destroy smaller asteroids first so mass grows as safely as possible.
 - Solved date: 2026-05-31
-- Source: LeetCode #2126
+- Source: https://leetcode.com/problems/destroying-asteroids/
 
 ## Problem Statement
 
@@ -62,3 +62,8 @@ add the asteroid mass to the planet and continue.
 
 Use `long long` for the growing mass because repeated additions can exceed the
 32-bit `int` range.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

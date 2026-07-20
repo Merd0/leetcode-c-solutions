@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Binary Search
 - Hint: In a rotated sorted array, at least one side of `mid` is still sorted.
 - Solved date: 2026-05-25
-- Source: LeetCode #33
+- Source: https://leetcode.com/problems/search-in-rotated-sorted-array/
 
 ## Problem Statement
 
@@ -59,3 +59,8 @@ Output: -1
 At each step, one half of the array is sorted. If the left half is sorted and
 the target is inside it, move `right`; otherwise move `left`. If the right half
 is sorted, apply the same idea on the right side.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

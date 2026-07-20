@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Dynamic Programming, Kadane
-- Companies: Not tracked in this repo
 - Hint: At each index, decide whether to extend the previous subarray or start a new one.
-- Solved: 2026-05-20
-- LeetCode: https://leetcode.com/problems/maximum-subarray/
+- Solved date: 2026-05-20
+- Source: https://leetcode.com/problems/maximum-subarray/
 
 ## Problem Statement
 
@@ -84,3 +83,8 @@ EN: Use Kadane's algorithm. `currentSum` is the best sum ending at the current i
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

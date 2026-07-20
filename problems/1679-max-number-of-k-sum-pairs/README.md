@@ -2,7 +2,7 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Hash Table, Two Pointers, Sorting
 - Hint: After sorting, use the smallest and largest remaining values to decide which pointer should move.
@@ -109,3 +109,8 @@ array; moving the pointers means those values are already consumed or skipped.
 
 - [solution.c](solution.c) - optimized sort + two pointers
 - [brute_force_tle.c](brute_force_tle.c) - learning attempt, correct idea but too slow
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

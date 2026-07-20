@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Two Pointers, Sorting
-- Companies: Not tracked in this repo
 - Hint: Sort first, then move pointers based on whether the current sum is below or above target.
-- Solved: 2026-05-22
-- LeetCode: https://leetcode.com/problems/3sum-closest/
+- Solved date: 2026-05-22
+- Source: https://leetcode.com/problems/3sum-closest/
 
 ## Problem Statement
 
@@ -70,3 +69,8 @@ EN: Sort the array. For each `i`, use two pointers to compute sums; update `clos
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

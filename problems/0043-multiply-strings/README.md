@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Math, String, Simulation
 - Hint: Simulate grade-school multiplication with a digit array.
 - Solved date: 2026-06-03
-- Source: LeetCode #43
+- Source: https://leetcode.com/problems/multiply-strings/
 
 ## Problem Statement
 
@@ -61,3 +61,8 @@ p2 = i + j + 1
 
 Store the current digit at `p2` and carry into `p1`. After all multiplications,
 skip leading zeroes and convert the digit buffer to a string.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Bit Manipulation
 - Hint: Track the position of the previous `1` bit.
 - Solved date: 2026-05-31
-- Source: LeetCode #868
+- Source: https://leetcode.com/problems/binary-gap/
 
 ## Problem Statement
 
@@ -56,3 +56,8 @@ Scan bits from right to left. `pos` stores the current bit position, and
 compute the distance and update `maxGap`.
 
 This is a small state-machine style bit scan.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

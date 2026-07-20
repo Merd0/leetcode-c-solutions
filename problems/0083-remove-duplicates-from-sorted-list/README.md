@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Linked List
 - Hint: Since the list is sorted, duplicates appear next to each other.
 - Solved date: 2026-05-24
-- Source: LeetCode #83
+- Source: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 
 ## Problem Statement
 
@@ -57,3 +57,8 @@ Output: [1,2,3]
 
 Walk through the sorted list with `current`. If `current` and `current->next`
 have the same value, bypass `current->next`. Otherwise, move forward.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Array, Binary Search
 - Hint: Compare `nums[mid]` with `nums[right]` to know which side contains the minimum.
 - Solved date: 2026-05-25
-- Source: LeetCode #153
+- Source: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 
 ## Problem Statement
 
@@ -61,3 +61,8 @@ Use binary search with `left < right`. If `nums[mid] > nums[right]`, the
 minimum must be to the right of `mid`. Otherwise, `mid` may already be the
 minimum, so keep it by moving `right` to `mid`. When the loop ends, `left`
 points to the minimum.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

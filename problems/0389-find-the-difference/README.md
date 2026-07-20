@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Hash Table, String, Bit Manipulation, Sorting
 - Hint: Equal characters cancel out with XOR.
 - Solved date: 2026-05-31
-- Source: LeetCode #389
+- Source: https://leetcode.com/problems/find-the-difference/
 
 ## Problem Statement
 
@@ -61,3 +61,8 @@ x ^ x = 0
 ```
 
 All matching characters cancel out, leaving only the extra character from `t`.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

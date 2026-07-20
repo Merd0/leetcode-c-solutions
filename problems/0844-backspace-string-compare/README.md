@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Two Pointers, String, Stack
-- Companies: Not tracked in this repo
 - Hint: Build the final visible string after applying `#` as backspace.
-- Solved: 2026-05-23
-- LeetCode: https://leetcode.com/problems/backspace-string-compare/
+- Solved date: 2026-05-23
+- Source: https://leetcode.com/problems/backspace-string-compare/
 
 ## Problem Statement
 
@@ -74,3 +73,8 @@ EN: Build a clean character stack for each string. Push letters, and pop one cha
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

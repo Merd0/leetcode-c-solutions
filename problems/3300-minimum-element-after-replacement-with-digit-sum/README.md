@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Math
 - Hint: Replace each number with its digit sum and keep the smallest result.
 - Solved date: 2026-05-30
-- Source: LeetCode #3300
+- Source: https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/
 
 ## Problem Statement
 
@@ -63,3 +63,8 @@ the last digit, add it to `digitSum`, then divide by 10 to remove that digit.
 After computing each digit sum, update the current minimum.
 
 This is a direct simulation with constant extra memory.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

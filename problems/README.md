@@ -1,15 +1,11 @@
-# Problems
+# Accepted Problems
 
-This folder contains one directory per solved LeetCode problem.
-
-Format:
+This directory contains one numbered folder per accepted LeetCode solution.
 
 ```text
 0001-two-sum/
-  README.md   # LeetCode-style info, prompt, starter code, examples, constraints
-  solution.c  # C solution with short comments
+  README.md
+  solution.c
 ```
 
-The goal is not to copy official problem statements. The goal is to keep a
-clean revision archive that feels close to a LeetCode problem page while using
-short original notes.
+Use the generated [problem index](../docs/PROBLEM_INDEX.md) to browse the archive, the [topic index](../docs/TOPIC_INDEX.md) to revise a technique, and [ADDING_A_PROBLEM.md](../docs/ADDING_A_PROBLEM.md) for the folder and metadata contract.

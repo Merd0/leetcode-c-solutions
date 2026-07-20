@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: Hash Table, String, Sliding Window
 - Hint: Every valid window has the same length and same character counts as `p`.
 - Solved date: 2026-05-26
-- Source: LeetCode #438
+- Source: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 
 ## Problem Statement
 
@@ -56,3 +56,8 @@ Output: [0,1,2]
 Use a fixed-size sliding window of length `p.length`. Track letter counts for
 `p` and for the current window. When the counts match, store the current start
 index.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

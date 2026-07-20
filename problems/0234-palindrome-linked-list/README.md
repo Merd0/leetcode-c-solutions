@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Linked List, Two Pointers, Stack, Recursion
 - Hint: Compare the first half with the reversed second half.
 - Solved date: 2026-05-24
-- Source: LeetCode #234
+- Source: https://leetcode.com/problems/palindrome-linked-list/
 
 ## Problem Statement
 
@@ -59,3 +59,8 @@ Explanation: Reading from the front gives 1,2 but from the back gives 2,1.
 Find the middle using slow and fast pointers. If the list length is odd, skip
 the middle node because it does not affect the palindrome check. Reverse the
 second half, then compare it node by node with the first half.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

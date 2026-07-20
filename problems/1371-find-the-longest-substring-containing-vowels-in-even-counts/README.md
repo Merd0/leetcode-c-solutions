@@ -2,7 +2,7 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Medium
 - Topics: String, Bit Manipulation, Prefix State
 - Hint: Count parity, not exact vowel counts.
@@ -152,3 +152,8 @@ i - (-1)
 
 - [solution.c](solution.c) - accepted prefix parity mask
 - [brute_force_tle.c](brute_force_tle.c) - direct substring enumeration, too slow
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

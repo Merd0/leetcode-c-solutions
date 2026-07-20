@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Prefix Sum
-- Companies: Not tracked in this repo
 - Hint: At index `i`, compare the sum on the left with the sum on the right.
-- Solved: 2026-05-20
-- LeetCode: https://leetcode.com/problems/find-pivot-index/
+- Solved date: 2026-05-20
+- Source: https://leetcode.com/problems/find-pivot-index/
 
 ## Problem Statement
 
@@ -76,3 +75,8 @@ EN: First compute the total sum. Then scan left to right while maintaining `left
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

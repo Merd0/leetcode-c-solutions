@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Bit Manipulation
 - Hint: Build a mask containing `1`s only over the significant bits.
 - Solved date: 2026-05-29
-- Source: LeetCode #476
+- Source: https://leetcode.com/problems/number-complement/
 
 ## Problem Statement
 
@@ -63,3 +63,8 @@ num ^ mask = 010
 ```
 
 XOR with `1` flips a bit, so `num ^ mask` flips only the significant part.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

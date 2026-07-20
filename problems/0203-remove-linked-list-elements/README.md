@@ -2,13 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Linked List, Recursion
-- Companies: Not tracked in this repo
 - Hint: A dummy node makes removing the head node no different from removing any other node.
-- Solved: 2026-05-24
-- LeetCode: https://leetcode.com/problems/remove-linked-list-elements/
+- Solved date: 2026-05-24
+- Source: https://leetcode.com/problems/remove-linked-list-elements/
 
 ## Problem Statement
 
@@ -73,3 +72,8 @@ EN: Use a dummy node. `prev` tracks the last kept node and `current` tracks the 
 ## Solution
 
 - [solution.c](solution.c)
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Array, Binary Search
 - Hint: Keep the best greater letter seen so far, and wrap to the first letter if needed.
 - Solved date: 2026-05-25
-- Source: LeetCode #744
+- Source: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 
 ## Problem Statement
 
@@ -60,3 +60,8 @@ Explanation: No letter is greater than "z", so the answer wraps to the first let
 Initialize `answer` as `letters[0]` to handle wrap-around. During binary
 search, whenever `letters[mid] > target`, store it as a candidate and continue
 searching to the left for a smaller valid letter.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)

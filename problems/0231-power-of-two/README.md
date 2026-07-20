@@ -2,12 +2,12 @@
 
 ## LeetCode Style Info
 
-- Status: Solved
+- Status: Accepted
 - Difficulty: Easy
 - Topics: Math, Bit Manipulation, Recursion
 - Hint: A positive power of two has exactly one set bit.
 - Solved date: 2026-05-29
-- Source: LeetCode #231
+- Source: https://leetcode.com/problems/power-of-two/
 
 ## Problem Statement
 
@@ -64,3 +64,8 @@ return n > 0 && (n & (n - 1)) == 0;
 
 That works because powers of two have exactly one `1` bit, and `n & (n - 1)`
 removes the lowest set bit.
+
+---
+
+<!-- repository-navigation -->
+[C solution](solution.c) | [Repository home](../../README.md) | [Problem index](../../docs/PROBLEM_INDEX.md) | [Topic index](../../docs/TOPIC_INDEX.md) | [Practice tracks](../../docs/PRACTICE_TRACKS.md)
