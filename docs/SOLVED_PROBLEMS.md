@@ -179,6 +179,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #0874 | [Walking Robot Simulation](../problems/0874-walking-robot-simulation) | Medium | 2026-07-17 | Simulate robot commands and speed up obstacle checks with encoded sorted keys |
 | #0657 | [Robot Return to Origin](../problems/0657-robot-return-to-origin) | Easy | 2026-07-18 | Track x/y displacement from simple move commands |
 | #1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](../problems/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | Medium | 2026-07-19 | Fixed-size sliding window with a threshold sum |
+| #1652 | [Defuse the Bomb](../problems/1652-defuse-the-bomb) | Easy | 2026-07-20 | Circular index summation, then sliding window over a ring buffer |
+| #0845 | [Longest Mountain in Array](../problems/0845-longest-mountain-in-array) | Medium | 2026-07-20 | Track up/down transition counts for peak-shaped signal detection |
 | #0191 | [Number of 1 Bits](../problems/0191-number-of-1-bits) | Easy | 2026-05-29 | Count set bits |
 | #0231 | [Power of Two](../problems/0231-power-of-two) | Easy | 2026-05-29 | Single set bit check |
 | #0461 | [Hamming Distance](../problems/0461-hamming-distance) | Easy | 2026-05-29 | XOR then count set bits |
@@ -228,6 +230,8 @@ daily extras and focused practice blocks that are outside the first-100 roadmap.
 | #1572 | [Matrix Diagonal Sum](../problems/1572-matrix-diagonal-sum) | Easy | 2026-07-04 | Direct diagonal index formulas |
 | #0036 | [Valid Sudoku](../problems/0036-valid-sudoku) | Medium | 2026-07-11 | Validate rows, columns, and 3x3 boxes with fixed frequency arrays |
 | #0074 | [Search a 2D Matrix](../problems/0074-search-a-2d-matrix) | Medium | 2026-07-12 | Flatten the sorted matrix mentally and binary search by row/column mapping |
+| #0661 | [Image Smoother](../problems/0661-image-smoother) | Easy | 2026-07-20 | Average each pixel with valid 3x3 neighbors |
+| #2373 | [Largest Local Values in a Matrix](../problems/2373-largest-local-values-in-a-matrix) | Easy | 2026-07-20 | Apply a 3x3 local maximum filter over a matrix |
 | #0622 | [Design Circular Queue](../problems/0622-design-circular-queue) | Medium | 2026-06-05 | Fixed array with modulo indices |
 | #0641 | [Design Circular Deque](../problems/0641-design-circular-deque) | Medium | 2026-06-05 | Front and rear modulo movement |
 | #0705 | [Design HashSet](../problems/0705-design-hashset) | Easy | 2026-06-05 | Direct-address presence table |

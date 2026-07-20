@@ -230,6 +230,8 @@ These problems are solved outside the first-100 roadmap but still archived for r
 | #0874 | Walking Robot Simulation | 2026-07-17 |
 | #0657 | Robot Return to Origin | 2026-07-18 |
 | #1343 | Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | 2026-07-19 |
+| #1652 | Defuse the Bomb | 2026-07-20 |
+| #0845 | Longest Mountain in Array | 2026-07-20 |
 | #2073 | Time Needed to Buy Tickets | 2026-07-07 |
 | #1658 | Minimum Operations to Reduce X to Zero | 2026-07-07 |
 | #0946 | Validate Stack Sequences | 2026-07-08 |
@@ -303,6 +305,8 @@ systems-style work with buffers and pointer-to-pointer data.
 | #1572 | Matrix Diagonal Sum | 2026-07-04 |
 | #0036 | Valid Sudoku | 2026-07-11 |
 | #0074 | Search a 2D Matrix | 2026-07-12 |
+| #0661 | Image Smoother | 2026-07-20 |
+| #2373 | Largest Local Values in a Matrix | 2026-07-20 |
 
 ## Data Structure Design Essentials
 
