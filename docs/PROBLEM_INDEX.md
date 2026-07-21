@@ -5,10 +5,10 @@
 
 This is the canonical archive of accepted solutions. Attempts are counted separately.
 
-Accepted: **242** | Easy: **144** | Medium: **94** | Hard: **4** | Open attempts: **1**
+Accepted: **245** | Easy: **144** | Medium: **97** | Hard: **4** | Open attempts: **1**
 
 <details open>
-<summary>#0000-#0999 (158 problems)</summary>
+<summary>#0000-#0999 (159 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
@@ -98,6 +98,7 @@ Accepted: **242** | Easy: **144** | Medium: **94** | Hard: **4** | Open attempts
 | #0289 | [Game of Life](../problems/0289-game-of-life) | Medium | Array | Encode old and new state in the same cell before the final cleanup pass. | 2026-06-04 |
 | #0290 | [Word Pattern](../problems/0290-word-pattern) | Easy | Hash Table | Each pattern letter must map to one unique word, and each word to one unique letter. | 2026-05-22 |
 | #0303 | [Range Sum Query - Immutable](../problems/0303-range-sum-query-immutable) | Easy | Array | Precompute cumulative sums once, then answer each query with subtraction. | 2026-06-07 |
+| #0304 | [Range Sum Query 2D - Immutable](../problems/0304-range-sum-query-2d-immutable) | Medium | Array | Store a summed-area table with a zero border so each rectangle query needs four lookups. | 2026-07-21 |
 | #0318 | [Maximum Product of Word Lengths](../problems/0318-maximum-product-of-word-lengths) | Medium | Array | Represent each word's letters with a 26-bit mask. | 2026-06-02 |
 | #0338 | [Counting Bits](../problems/0338-counting-bits) | Easy | Dynamic Programming | Count set bits for every number from `0` to `n`. | 2026-05-31 |
 | #0342 | [Power of Four](../problems/0342-power-of-four) | Easy | Math | Keep dividing by 4 while possible. | 2026-05-31 |
@@ -174,7 +175,7 @@ Accepted: **242** | Easy: **144** | Medium: **94** | Hard: **4** | Open attempts
 </details>
 
 <details>
-<summary>#1000-#1999 (59 problems)</summary>
+<summary>#1000-#1999 (60 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
@@ -182,6 +183,7 @@ Accepted: **242** | Easy: **144** | Medium: **94** | Hard: **4** | Open attempts
 | #1009 | [Complement of Base 10 Integer](../problems/1009-complement-of-base-10-integer) | Easy | Bit Manipulation | XOR with `1` flips a bit, so build a mask made only of the used bits. | 2026-07-11 |
 | #1011 | [Capacity To Ship Packages Within D Days](../problems/1011-capacity-to-ship-packages-within-d-days) | Medium | Array | Binary search the answer, then test whether that capacity is enough. | 2026-07-15 |
 | #1041 | [Robot Bounded In Circle](../problems/1041-robot-bounded-in-circle) | Medium | Math | One command cycle is enough to decide boundedness. | 2026-07-17 |
+| #1094 | [Car Pooling](../problems/1094-car-pooling) | Medium | Array | Record passenger deltas at pickup and drop-off positions, then scan the route. | 2026-07-21 |
 | #1207 | [Unique Number of Occurrences](../problems/1207-unique-number-of-occurrences) | Easy | Array | Count each value first, then check whether two nonzero counts are equal. | 2026-06-20 |
 | #1209 | [Remove All Adjacent Duplicates in String II](../problems/1209-remove-all-adjacent-duplicates-in-string-ii) | Medium | String | Use the string as the stack and keep count metadata beside it. | 2026-07-17 |
 | #1266 | [Minimum Time Visiting All Points](../problems/1266-minimum-time-visiting-all-points) | Easy | Array | Between two points, diagonal movement handles both axes at once. | 2026-05-30 |
@@ -241,12 +243,13 @@ Accepted: **242** | Easy: **144** | Medium: **94** | Hard: **4** | Open attempts
 </details>
 
 <details>
-<summary>#2000-#2999 (14 problems)</summary>
+<summary>#2000-#2999 (15 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
 | #2000 | [Reverse Prefix of Word](../problems/2000-reverse-prefix-of-word) | Easy | Two Pointers | Find the first occurrence of `ch`, then swap characters from both ends of the prefix. | 2026-06-14 |
 | #2073 | [Time Needed to Buy Tickets](../problems/2073-time-needed-to-buy-tickets) | Easy | Array | Do not physically move array elements. Rotate an index. | 2026-07-07 |
+| #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | Array | Multiply each non-empty row's device count by the previous non-empty row's count. | 2026-07-21 |
 | #2126 | [Destroying Asteroids](../problems/2126-destroying-asteroids) | Medium | Array | Destroy smaller asteroids first so mass grows as safely as possible. | 2026-05-31 |
 | #2130 | [Maximum Twin Sum of a Linked List](../problems/2130-maximum-twin-sum-of-a-linked-list) | Medium | Linked List | Reverse the second half so twin nodes can be visited together. | 2026-06-14 |
 | #2144 | [Minimum Cost of Buying Candies With Discount](../problems/2144-minimum-cost-of-buying-candies-with-discount) | Easy | Array | Sort expensive candies first; in every group of three, the cheapest one can be free. | 2026-06-01 |

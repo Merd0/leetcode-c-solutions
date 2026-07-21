@@ -6,7 +6,7 @@
 Problems appear under the focused topic tags recorded in their README metadata.
 
 <details>
-<summary>Array (140)</summary>
+<summary>Array (143)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -53,6 +53,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0287 | [Find the Duplicate Number](../problems/0287-find-the-duplicate-number) | Medium | 2026-06-27 |
 | #0289 | [Game of Life](../problems/0289-game-of-life) | Medium | 2026-06-04 |
 | #0303 | [Range Sum Query - Immutable](../problems/0303-range-sum-query-immutable) | Easy | 2026-06-07 |
+| #0304 | [Range Sum Query 2D - Immutable](../problems/0304-range-sum-query-2d-immutable) | Medium | 2026-07-21 |
 | #0318 | [Maximum Product of Word Lengths](../problems/0318-maximum-product-of-word-lengths) | Medium | 2026-06-02 |
 | #0347 | [Top K Frequent Elements](../problems/0347-top-k-frequent-elements) | Medium | 2026-05-25 |
 | #0349 | [Intersection of Two Arrays](../problems/0349-intersection-of-two-arrays) | Easy | 2026-05-25 |
@@ -92,6 +93,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0977 | [Squares of a Sorted Array](../problems/0977-squares-of-a-sorted-array) | Easy | 2026-05-22 |
 | #1004 | [Max Consecutive Ones III](../problems/1004-max-consecutive-ones-iii) | Medium | 2026-05-26 |
 | #1011 | [Capacity To Ship Packages Within D Days](../problems/1011-capacity-to-ship-packages-within-d-days) | Medium | 2026-07-15 |
+| #1094 | [Car Pooling](../problems/1094-car-pooling) | Medium | 2026-07-21 |
 | #1207 | [Unique Number of Occurrences](../problems/1207-unique-number-of-occurrences) | Easy | 2026-06-20 |
 | #1266 | [Minimum Time Visiting All Points](../problems/1266-minimum-time-visiting-all-points) | Easy | 2026-05-30 |
 | #1310 | [XOR Queries of a Subarray](../problems/1310-xor-queries-of-a-subarray) | Medium | 2026-06-07 |
@@ -133,6 +135,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1979 | [Find Greatest Common Divisor of Array](../problems/1979-find-greatest-common-divisor-of-array) | Easy | 2026-06-26 |
 | #1984 | [Minimum Difference Between Highest and Lowest of K Scores](../problems/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | 2026-05-30 |
 | #2073 | [Time Needed to Buy Tickets](../problems/2073-time-needed-to-buy-tickets) | Easy | 2026-07-07 |
+| #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |
 | #2126 | [Destroying Asteroids](../problems/2126-destroying-asteroids) | Medium | 2026-05-31 |
 | #2144 | [Minimum Cost of Buying Candies With Discount](../problems/2144-minimum-cost-of-buying-candies-with-discount) | Easy | 2026-06-01 |
 | #2161 | [Partition Array According to Given Pivot](../problems/2161-partition-array-according-to-given-pivot) | Medium | 2026-06-08 |
@@ -287,7 +290,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Counting (19)</summary>
+<summary>Counting (20)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -308,6 +311,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1704 | [Determine if String Halves Are Alike](../problems/1704-determine-if-string-halves-are-alike) | Easy | 2026-06-15 |
 | #1748 | [Sum of Unique Elements](../problems/1748-sum-of-unique-elements) | Easy | 2026-06-25 |
 | #1822 | [Sign of the Product of an Array](../problems/1822-sign-of-the-product-of-an-array) | Easy | 2026-06-17 |
+| #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |
 | #2529 | [Maximum Count of Positive Integer and Negative Integer](../problems/2529-maximum-count-of-positive-integer-and-negative-integer) | Easy | 2026-07-03 |
 | #3737 | [Count Subarrays With Majority Element I](../problems/3737-count-subarrays-with-majority-element-i) | Medium | 2026-06-25 |
 
@@ -333,7 +337,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Design (17)</summary>
+<summary>Design (18)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -341,6 +345,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0225 | [Implement Stack using Queues](../problems/0225-implement-stack-using-queues) | Easy | 2026-05-23 |
 | #0232 | [Implement Queue using Stacks](../problems/0232-implement-queue-using-stacks) | Easy | 2026-05-23 |
 | #0303 | [Range Sum Query - Immutable](../problems/0303-range-sum-query-immutable) | Easy | 2026-06-07 |
+| #0304 | [Range Sum Query 2D - Immutable](../problems/0304-range-sum-query-2d-immutable) | Medium | 2026-07-21 |
 | #0622 | [Design Circular Queue](../problems/0622-design-circular-queue) | Medium | 2026-06-05 |
 | #0641 | [Design Circular Deque](../problems/0641-design-circular-deque) | Medium | 2026-06-05 |
 | #0705 | [Design HashSet](../problems/0705-design-hashset) | Easy | 2026-06-05 |
@@ -610,7 +615,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Matrix (15)</summary>
+<summary>Matrix (17)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -621,6 +626,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0073 | [Set Matrix Zeroes](../problems/0073-set-matrix-zeroes) | Medium | 2026-06-04 |
 | #0074 | [Search a 2D Matrix](../problems/0074-search-a-2d-matrix) | Medium | 2026-07-12 |
 | #0289 | [Game of Life](../problems/0289-game-of-life) | Medium | 2026-06-04 |
+| #0304 | [Range Sum Query 2D - Immutable](../problems/0304-range-sum-query-2d-immutable) | Medium | 2026-07-21 |
 | #0566 | [Reshape the Matrix](../problems/0566-reshape-the-matrix) | Easy | 2026-05-21 |
 | #0661 | [Image Smoother](../problems/0661-image-smoother) | Easy | 2026-07-20 |
 | #0832 | [Flipping an Image](../problems/0832-flipping-an-image) | Easy | 2026-06-09 |
@@ -628,6 +634,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1572 | [Matrix Diagonal Sum](../problems/1572-matrix-diagonal-sum) | Easy | 2026-07-04 |
 | #1582 | [Special Positions in a Binary Matrix](../problems/1582-special-positions-in-a-binary-matrix) | Easy | 2026-06-25 |
 | #1672 | [Richest Customer Wealth](../problems/1672-richest-customer-wealth) | Easy | 2026-05-19 |
+| #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |
 | #2373 | [Largest Local Values in a Matrix](../problems/2373-largest-local-values-in-a-matrix) | Easy | 2026-07-20 |
 
 </details>
@@ -691,16 +698,18 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Prefix Sum (11)</summary>
+<summary>Prefix Sum (13)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
 | #0209 | [Minimum Size Subarray Sum](../problems/0209-minimum-size-subarray-sum) | Medium | 2026-05-26 |
 | #0238 | [Product of Array Except Self](../problems/0238-product-of-array-except-self) | Medium | 2026-06-26 |
 | #0303 | [Range Sum Query - Immutable](../problems/0303-range-sum-query-immutable) | Easy | 2026-06-07 |
+| #0304 | [Range Sum Query 2D - Immutable](../problems/0304-range-sum-query-2d-immutable) | Medium | 2026-07-21 |
 | #0560 | [Subarray Sum Equals K](../problems/0560-subarray-sum-equals-k) | Medium | 2026-05-25 |
 | #0724 | [Find Pivot Index](../problems/0724-find-pivot-index) | Easy | 2026-05-20 |
 | #1004 | [Max Consecutive Ones III](../problems/1004-max-consecutive-ones-iii) | Medium | 2026-05-26 |
+| #1094 | [Car Pooling](../problems/1094-car-pooling) | Medium | 2026-07-21 |
 | #1365 | [How Many Numbers Are Smaller Than the Current Number](../problems/1365-how-many-numbers-are-smaller-than-the-current-number) | Easy | 2026-05-19 |
 | #1480 | [Running Sum of 1d Array](../problems/1480-running-sum-of-1d-array) | Easy | 2026-05-18 |
 | #1588 | [Sum of All Odd Length Subarrays](../problems/1588-sum-of-all-odd-length-subarrays) | Easy | 2026-06-17 |
@@ -798,7 +807,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Simulation (23)</summary>
+<summary>Simulation (24)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -819,6 +828,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0874 | [Walking Robot Simulation](../problems/0874-walking-robot-simulation) | Medium | 2026-07-17 |
 | #0946 | [Validate Stack Sequences](../problems/0946-validate-stack-sequences) | Medium | 2026-07-08 |
 | #1041 | [Robot Bounded In Circle](../problems/1041-robot-bounded-in-circle) | Medium | 2026-07-17 |
+| #1094 | [Car Pooling](../problems/1094-car-pooling) | Medium | 2026-07-21 |
 | #1603 | [Design Parking System](../problems/1603-design-parking-system) | Easy | 2026-06-07 |
 | #1700 | [Number of Students Unable to Eat Lunch](../problems/1700-number-of-students-unable-to-eat-lunch) | Easy | 2026-06-10 |
 | #1920 | [Build Array from Permutation](../problems/1920-build-array-from-permutation) | Easy | 2026-05-18 |
@@ -946,7 +956,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>String (59)</summary>
+<summary>String (60)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -1006,6 +1016,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1773 | [Count Items Matching a Rule](../problems/1773-count-items-matching-a-rule) | Easy | 2026-06-22 |
 | #1784 | [Check if Binary String Has at Most One Segment of Ones](../problems/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy | 2026-07-04 |
 | #2000 | [Reverse Prefix of Word](../problems/2000-reverse-prefix-of-word) | Easy | 2026-06-14 |
+| #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |
 | #3093 | [Longest Common Suffix Queries](../problems/3093-longest-common-suffix-queries) | Hard | 2026-05-29 |
 | #3120 | [Count the Number of Special Characters I](../problems/3120-count-the-number-of-special-characters-i) | Easy | 2026-05-27 |
 | #3121 | [Count the Number of Special Characters II](../problems/3121-count-the-number-of-special-characters-ii) | Medium | 2026-05-27 |
