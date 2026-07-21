@@ -5,10 +5,10 @@
 
 This is the canonical archive of accepted solutions. Attempts are counted separately.
 
-Accepted: **241** | Easy: **144** | Medium: **93** | Hard: **4** | Open attempts: **1**
+Accepted: **242** | Easy: **144** | Medium: **94** | Hard: **4** | Open attempts: **1**
 
 <details open>
-<summary>#0000-#0999 (157 problems)</summary>
+<summary>#0000-#0999 (158 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
@@ -149,6 +149,7 @@ Accepted: **241** | Easy: **144** | Medium: **93** | Hard: **4** | Open attempts
 | #0706 | [Design HashMap](../problems/0706-design-hashmap) | Easy | Array | Use one array for values and another array to track whether a key exists. | 2026-06-05 |
 | #0707 | [Design Linked List](../problems/0707-design-linked-list) | Medium | Linked List | A dummy head makes insertion and deletion at index `0` much simpler. | 2026-06-05 |
 | #0709 | [To Lower Case](../problems/0709-to-lower-case) | Easy | String | Uppercase English letters are consecutive in ASCII. | 2026-05-21 |
+| #0713 | [Subarray Product Less Than K](../problems/0713-subarray-product-less-than-k) | Medium | Array | Count all valid subarrays ending at each right boundary. | 2026-07-14 |
 | #0717 | [1-bit and 2-bit Characters](../problems/0717-1-bit-and-2-bit-characters) | Easy | Array | A leading `0` consumes one bit; a leading `1` consumes two bits. | 2026-06-06 |
 | #0724 | [Find Pivot Index](../problems/0724-find-pivot-index) | Easy | Array | At index `i`, compare the sum on the left with the sum on the right. | 2026-05-20 |
 | #0735 | [Asteroid Collision](../problems/0735-asteroid-collision) | Medium | Array | Use the result array as a stack and only collide when the stack top is positive and the current asteroid is negative. | 2026-06-30 |

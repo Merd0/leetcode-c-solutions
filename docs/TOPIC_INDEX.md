@@ -6,7 +6,7 @@
 Problems appear under the focused topic tags recorded in their README metadata.
 
 <details>
-<summary>Array (139)</summary>
+<summary>Array (140)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -75,6 +75,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0704 | [Binary Search](../problems/0704-binary-search) | Easy | 2026-05-25 |
 | #0705 | [Design HashSet](../problems/0705-design-hashset) | Easy | 2026-06-05 |
 | #0706 | [Design HashMap](../problems/0706-design-hashmap) | Easy | 2026-06-05 |
+| #0713 | [Subarray Product Less Than K](../problems/0713-subarray-product-less-than-k) | Medium | 2026-07-14 |
 | #0717 | [1-bit and 2-bit Characters](../problems/0717-1-bit-and-2-bit-characters) | Easy | 2026-06-06 |
 | #0724 | [Find Pivot Index](../problems/0724-find-pivot-index) | Easy | 2026-05-20 |
 | #0735 | [Asteroid Collision](../problems/0735-asteroid-collision) | Medium | 2026-06-30 |
@@ -828,7 +829,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Sliding Window (15)</summary>
+<summary>Sliding Window (16)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -840,6 +841,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0438 | [Find All Anagrams in a String](../problems/0438-find-all-anagrams-in-a-string) | Medium | 2026-05-26 |
 | #0567 | [Permutation in String](../problems/0567-permutation-in-string) | Medium | 2026-05-26 |
 | #0643 | [Maximum Average Subarray I](../problems/0643-maximum-average-subarray-i) | Easy | 2026-05-26 |
+| #0713 | [Subarray Product Less Than K](../problems/0713-subarray-product-less-than-k) | Medium | 2026-07-14 |
 | #1004 | [Max Consecutive Ones III](../problems/1004-max-consecutive-ones-iii) | Medium | 2026-05-26 |
 | #1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](../problems/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | Medium | 2026-07-19 |
 | #1456 | [Maximum Number of Vowels in a Substring of Given Length](../problems/1456-maximum-number-of-vowels-in-a-substring-of-given-length) | Medium | 2026-06-25 |
