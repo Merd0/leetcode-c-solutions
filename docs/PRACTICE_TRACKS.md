@@ -1,6 +1,6 @@
 # Practice Tracks
 
-[Repository home](../README.md) | [Learning roadmap](LEARNING_ROADMAP.md) | [Problem index](PROBLEM_INDEX.md) | [Topic index](TOPIC_INDEX.md)
+[Repository home](../README.md) | [Learning roadmap](LEARNING_ROADMAP.md) | [Problem index](PROBLEM_INDEX.md) | [Topic index](TOPIC_INDEX.md) | [Technique guide](techniques/en/README.md)
 
 These focused tracks complement the First 100 roadmap. Their order is intentional inside each track; accepted solutions remain canonical in the full problem index.
 

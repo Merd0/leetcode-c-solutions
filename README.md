@@ -4,7 +4,7 @@ English | [Türkçe](README_TR.md)
 
 A structured C problem-solving archive that turns language foundations into repeatable algorithm, data-structure, and embedded-oriented practice.
 
-[Follow The First 100](docs/LEARNING_ROADMAP.md) | [Browse All Solutions](docs/PROBLEM_INDEX.md) | [Browse By Topic](docs/TOPIC_INDEX.md) | [Explore Practice Tracks](docs/PRACTICE_TRACKS.md) | [View Attempts](docs/ATTEMPTS.md) | [Türkçe](README_TR.md)
+[Follow The First 100](docs/LEARNING_ROADMAP.md) | [Learn Techniques](docs/techniques/en/README.md) | [Browse All Solutions](docs/PROBLEM_INDEX.md) | [Browse By Topic](docs/TOPIC_INDEX.md) | [Explore Practice Tracks](docs/PRACTICE_TRACKS.md) | [View Attempts](docs/ATTEMPTS.md) | [Türkçe](README_TR.md)
 
 ## Current Snapshot
 
@@ -24,6 +24,7 @@ This block is maintained by `scripts/generate_indexes.py` from problem metadata 
 ## Start Here
 
 - New to the archive: follow the completed [First 100 learning roadmap](docs/LEARNING_ROADMAP.md) in order.
+- Learning why and when an algorithm works: open the [problem-solving technique guide](docs/techniques/en/README.md).
 - Looking for one solution: search the generated [problem index](docs/PROBLEM_INDEX.md).
 - Revising a technique: use the generated [topic index](docs/TOPIC_INDEX.md).
 - Preparing for embedded or electro-optical work: use the [focused practice tracks](docs/PRACTICE_TRACKS.md).
@@ -34,11 +35,16 @@ This block is maintained by `scripts/generate_indexes.py` from problem metadata 
 | Goal | Document |
 | --- | --- |
 | Build algorithm fundamentals in sequence | [Learning roadmap](docs/LEARNING_ROADMAP.md) |
+| Learn recognition signals, invariants, C patterns, and failure cases | [Technique guide](docs/techniques/en/README.md) |
 | Find every accepted solution | [Problem index](docs/PROBLEM_INDEX.md) |
 | Find stack, bitwise, matrix, linked-list, or window problems | [Topic index](docs/TOPIC_INDEX.md) |
 | Follow embedded, matrix, or data-structure design blocks | [Practice tracks](docs/PRACTICE_TRACKS.md) |
 | Review a failed approach without counting it as solved | [Attempts](docs/ATTEMPTS.md) |
 | Add a solution without breaking indexes | [Adding a problem](docs/ADDING_A_PROBLEM.md) |
+
+## Technique Guide
+
+The [problem-solving technique guide](docs/techniques/en/README.md) separates the repository's recurring reasoning patterns into 35 theory-first chapters. Every chapter develops the mental model, invariant, correctness argument, selection boundaries, C risks, accepted-problem progression, and embedded or electro-optical connection. The [Turkish edition](docs/techniques/tr/README.md) follows the same chapter numbers and learning order.
 
 ## Learning Roadmap
 

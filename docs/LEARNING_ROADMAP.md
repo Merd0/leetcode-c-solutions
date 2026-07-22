@@ -1,6 +1,6 @@
 # First 100 LeetCode Problems For C
 
-[Repository home](../README.md) | [Problem index](PROBLEM_INDEX.md) | [Topic index](TOPIC_INDEX.md) | [Practice tracks](PRACTICE_TRACKS.md)
+[Repository home](../README.md) | [Problem index](PROBLEM_INDEX.md) | [Topic index](TOPIC_INDEX.md) | [Technique guide](techniques/en/README.md) | [Practice tracks](PRACTICE_TRACKS.md)
 
 This completed roadmap orders 100 problems to build C fluency and algorithmic thinking. Follow the sections in order when studying from the beginning; use the problem and topic indexes for revision.
 

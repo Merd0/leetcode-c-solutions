@@ -1,6 +1,6 @@
 # Attempts And Learning Notes
 
-[Repository home](../README.md) | [Problem index](PROBLEM_INDEX.md) | [Learning roadmap](LEARNING_ROADMAP.md)
+[Repository home](../README.md) | [Problem index](PROBLEM_INDEX.md) | [Learning roadmap](LEARNING_ROADMAP.md) | [Technique guide](techniques/en/README.md)
 
 Attempts are intentionally separate from accepted solutions and are not included in repository solution counts.
 

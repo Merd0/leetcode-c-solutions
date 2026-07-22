@@ -1,6 +1,6 @@
 # Adding A Problem
 
-[Repository home](../README.md) | [Problem index](PROBLEM_INDEX.md) | [Practice tracks](PRACTICE_TRACKS.md)
+[Repository home](../README.md) | [Problem index](PROBLEM_INDEX.md) | [Technique guide](techniques/en/README.md) | [Practice tracks](PRACTICE_TRACKS.md)
 
 ## Accepted Solution
 
