@@ -1,6 +1,8 @@
-# 19 - Stack
+# 19 - Stack (Yığın)
 
 [Önceki](18-intervals.md) | [İçindekiler](README.md) | [English](../en/19-stack.md) | [Sonraki](20-monotonic-stack.md)
+
+> Terim: **Stack (Yığın)**.
 
 ## Zihinsel Model
 
@@ -54,4 +56,3 @@ pointer döndürürken nesne ömrünü ihlal etme yaygın hatalardır.
 
 İç içe paket alanları, parser context'i ve bounded undo geçmişi sabit kapasiteli
 stack ile modellenebilir. Kapasite sınırı API'nin açık parçası olmalıdır.
-

@@ -1,6 +1,8 @@
-# 16 - Divide-and-Conquer ve Seçim
+# 16 - Divide-and-Conquer (Böl ve Yönet) ve Selection (Seçim)
 
 [Önceki](15-sorting-and-buckets.md) | [İçindekiler](README.md) | [English](../en/16-divide-conquer-and-selection.md) | [Sonraki](17-greedy.md)
+
+> Terimler: **Divide-and-Conquer (Böl ve Yönet)**, **Selection (Seçim)**.
 
 ## Zihinsel Model
 
@@ -52,4 +54,3 @@ ilerlemeyen pointer'lar yaygın sorunlardır. Worst-case stack kullanımı değe
 
 Büyük ölçüm bloklarında median veya percentile seçmek, tüm bloğu sıralamadan yalnız
 gereken rank'ı bulma ihtiyacına dönüşebilir.
-

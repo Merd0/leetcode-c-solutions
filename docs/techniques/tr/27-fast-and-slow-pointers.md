@@ -1,6 +1,8 @@
-# 27 - Fast ve Slow Pointers
+# 27 - Fast and Slow Pointers (Hızlı ve Yavaş İşaretçiler)
 
 [Önceki](26-linked-list-rewiring.md) | [İçindekiler](README.md) | [English](../en/27-fast-and-slow-pointers.md) | [Sonraki](28-recursion-and-backtracking.md)
+
+> Terim: **Fast and Slow Pointers (Hızlı ve Yavaş İşaretçiler)**.
 
 ## Zihinsel Model
 
@@ -50,4 +52,3 @@ palindrome için değiştiriyorsan API bekliyorsa sonunda eski bağlantıları g
 
 Bağlı buffer zincirinde cycle tespiti ve tek geçişte orta bölme, ek visited belleği
 olmadan çalıştığı için kısıtlı RAM ortamlarında değerlidir.
-

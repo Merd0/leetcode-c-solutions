@@ -1,6 +1,8 @@
-# 04 - Sayma ve Frekans Tabloları
+# 04 - Counting (Sayma) ve Frequency Table (Frekans Tablosu)
 
 [Önceki](03-simulation-and-state-machines.md) | [İçindekiler](README.md) | [English](../en/04-counting-and-frequency-tables.md) | [Sonraki](05-hash-tables.md)
+
+> Terimler: **Counting (Sayma)**, **Frequency Table (Frekans Tablosu)**.
 
 ## Zihinsel Model
 
@@ -53,4 +55,3 @@ karakterin gerçekten beklenen aralıkta olduğunu doğrula. Sayaç üst sınır
 
 Histogram, hata kodu sayacı, piksel yoğunluk dağılımı ve mesaj türü istatistiği
 aynı yapıdır. Sabit domain, çalışma süresini ve bellek kullanımını öngörülebilir yapar.
-

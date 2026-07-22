@@ -1,6 +1,8 @@
-# 18 - Interval İşlemleri
+# 18 - Intervals (Aralıklar)
 
 [Önceki](17-greedy.md) | [İçindekiler](README.md) | [English](../en/18-intervals.md) | [Sonraki](19-stack.md)
+
+> Terim: **Intervals (Aralıklar)**.
 
 ## Zihinsel Model
 
@@ -54,4 +56,3 @@ uzunluğu ve column size dizisi API sözleşmesine göre güncellenir.
 
 Sensör aktiflik pencereleri, görev zamanları, veri geçerlilik aralıkları ve kaynak
 rezervasyonları interval semantiğine dayanır. Uç sözleşmesi sistem hatalarını önler.
-

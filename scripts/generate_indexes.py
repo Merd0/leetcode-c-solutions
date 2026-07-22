@@ -647,6 +647,12 @@ def validate_technique_structure() -> list[str]:
                 errors.append(f"repository practice heading missing: {relative}")
             if f"(../{counterpart}/{slug}.md)" not in text:
                 errors.append(f"counterpart language link missing: {relative}")
+            if language == "tr":
+                title = text.splitlines()[0]
+                if "(" not in title or ")" not in title:
+                    errors.append(f"bilingual Turkish technique title missing: {relative}")
+                if not re.search(r"^> Terim(?:ler)?: \*\*[A-Za-z0-9]", text, re.MULTILINE):
+                    errors.append(f"bilingual Turkish terminology note missing: {relative}")
             if len(text.splitlines()) < 35:
                 errors.append(f"technique chapter is too shallow: {relative}")
     return errors

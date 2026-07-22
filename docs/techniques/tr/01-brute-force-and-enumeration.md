@@ -1,6 +1,8 @@
-# 01 - Kaba Kuvvet ve Numaralandırma
+# 01 - Brute Force (Kaba Kuvvet) ve Enumeration (Numaralandırma)
 
 [İçindekiler](README.md) | [English](../en/01-brute-force-and-enumeration.md) | [Sonraki](02-linear-scan-and-indexing.md)
+
+> Terimler: **Brute Force (Kaba Kuvvet)**, **Enumeration (Numaralandırma)**.
 
 ## Zihinsel Model
 
@@ -59,4 +61,3 @@ toplamlar `int` sınırını aşabiliyorsa `long long` kullan.
 
 Küçük giriş uzaylı register kombinasyonları, protokol durumları ve test vektörleri
 için exhaustive test üretimi aynı fikirdir. Burada amaç hızdan önce kapsamdır.
-

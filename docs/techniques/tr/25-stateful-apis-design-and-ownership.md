@@ -1,6 +1,8 @@
-# 25 - Stateful API, Tasarım ve Ownership
+# 25 - Stateful API (Durum Tutan API), Design (Tasarım) ve Ownership (Sahiplik)
 
 [Önceki](24-streams-and-iterators.md) | [İçindekiler](README.md) | [English](../en/25-stateful-apis-design-and-ownership.md) | [Sonraki](26-linked-list-rewiring.md)
+
+> Terimler: **Stateful API (Durum Tutan API)**, **Design (Tasarım)**, **Ownership (Sahiplik)**.
 
 ## Zihinsel Model
 
@@ -65,4 +67,3 @@ ve `sizeof(pointer)` kadar allocation yapma temel risklerdir.
 
 Sürücü context'i, periferik handle'ı ve haberleşme oturumu aynı create/use/destroy
 ömrüne sahiptir. Kaynak sahipliği API başlığında anlaşılır olmalıdır.
-

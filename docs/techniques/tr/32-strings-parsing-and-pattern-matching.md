@@ -1,6 +1,8 @@
-# 32 - String, Parsing ve Pattern Matching
+# 32 - String (Karakter Dizisi), Parsing (Ayrıştırma) ve Pattern Matching (Örüntü Eşleme)
 
 [Önceki](31-bitwise-xor-and-number-theory.md) | [İçindekiler](README.md) | [English](../en/32-strings-parsing-and-pattern-matching.md) | [Sonraki](33-matrix-traversal-and-directions.md)
+
+> Terimler: **String (Karakter Dizisi)**, **Parsing (Ayrıştırma)**, **Pattern Matching (Örüntü Eşleme)**.
 
 ## Zihinsel Model
 
@@ -54,4 +56,3 @@ Allocation'da `n + 1`, null terminator, buffer kapasitesi ve input ownership'i k
 
 Komut satırı, telemetri frame'i, NMEA benzeri mesajlar ve binary header doğrulaması
 parser state machine gerektirir. Uzunluk kontrollü API'ler ham buffer için daha güvenlidir.
-

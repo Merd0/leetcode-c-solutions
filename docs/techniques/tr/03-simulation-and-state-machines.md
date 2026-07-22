@@ -1,6 +1,8 @@
-# 03 - Simülasyon ve Durum Makineleri
+# 03 - Simulation (Simülasyon) ve State Machine (Durum Makinesi)
 
 [Önceki](02-linear-scan-and-indexing.md) | [İçindekiler](README.md) | [English](../en/03-simulation-and-state-machines.md) | [Sonraki](04-counting-and-frequency-tables.md)
+
+> Terimler: **Simulation (Simülasyon)**, **State Machine (Durum Makinesi)**.
 
 ## Zihinsel Model
 
@@ -59,4 +61,3 @@ yaygın hatalardır.
 
 Protokol parser'ları, cihaz modları, motor kontrol komutları ve hata yönetimi açık
 durum makineleridir. State ve olay tablosu net değilse test kapsamı da net olmaz.
-

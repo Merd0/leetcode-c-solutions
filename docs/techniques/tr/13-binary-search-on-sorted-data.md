@@ -1,6 +1,8 @@
-# 13 - Sıralı Veride Binary Search
+# 13 - Binary Search on Sorted Data (Sıralı Veride İkili Arama)
 
 [Önceki](12-difference-arrays-and-event-sweeps.md) | [İçindekiler](README.md) | [English](../en/13-binary-search-on-sorted-data.md) | [Sonraki](14-binary-search-on-answer.md)
+
+> Terim: **Binary Search on Sorted Data (Sıralı Veride İkili Arama)**.
 
 ## Zihinsel Model
 
@@ -53,4 +55,3 @@ yapabilir; `mid + 1` okunan varyantlarda `mid < n - 1` aralık sözleşmesi kuru
 
 Kalibrasyon tablosunda eşik bulma, zaman damgalı kayıtta ilk uygun örneği arama ve
 LUT içinde en yakın sınırı seçme aynı monoton arama fikridir.
-

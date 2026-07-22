@@ -1,6 +1,8 @@
-# 11 - Prefix State, XOR ve Product
+# 11 - Prefix State (Önek Durumu), XOR (Özel Veya) ve Product (Çarpım)
 
 [Önceki](10-prefix-sums.md) | [İçindekiler](README.md) | [English](../en/11-prefix-state-xor-and-product.md) | [Sonraki](12-difference-arrays-and-event-sweeps.md)
+
+> Terimler: **Prefix State (Önek Durumu)**, **XOR (Özel Veya)**, **Product (Çarpım)**.
 
 ## Zihinsel Model
 
@@ -54,4 +56,3 @@ hash table seçilir. Signed bit işlemleri ve product overflow'u ayrıca incelen
 
 Çerçeve checksum özeti, hata parity'si ve iki ölçüm noktası arasındaki değişimi
 birikimli state'ten çıkarma, aynı cebirsel düşünceyi kullanır.
-

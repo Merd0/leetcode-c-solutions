@@ -1,6 +1,8 @@
-# 35 - 2D Prefix Sum ve Görüntü Bölgeleri
+# 35 - 2D Prefix Sum (2B Önek Toplamı) ve Image Regions (Görüntü Bölgeleri)
 
 [Önceki](34-matrix-neighborhoods-and-in-place-state.md) | [İçindekiler](README.md) | [English](../en/35-2d-prefix-sum-and-image-regions.md)
+
+> Terimler: **2D Prefix Sum (2B Önek Toplamı)**, **Image Regions (Görüntü Bölgeleri)**.
 
 ## Zihinsel Model
 
@@ -61,4 +63,3 @@ koordinat sözleşmesini API'de açık yaz.
 
 ROI parlaklığı, hızlı box filter, local contrast ve hedef bölge enerji hesabı integral
 image'in doğrudan elektro-optik kullanım alanlarıdır.
-

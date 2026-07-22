@@ -1,6 +1,8 @@
-# 20 - Monotonic Stack
+# 20 - Monotonic Stack (Monoton Yığın)
 
 [Önceki](19-stack.md) | [İçindekiler](README.md) | [English](../en/20-monotonic-stack.md) | [Sonraki](21-queue-and-circular-buffer.md)
+
+> Terim: **Monotonic Stack (Monoton Yığın)**.
 
 ## Zihinsel Model
 
@@ -54,4 +56,3 @@ turda tekrar push edilmemelidir. Sonuç dizisini `-1` ile başlatmak unutulmamal
 
 Bir örneğin sonraki eşik aşımına uzaklığı veya online span hesabı, zaman serilerinde
 monotonic aday eleme olarak görülebilir.
-

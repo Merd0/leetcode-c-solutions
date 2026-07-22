@@ -1,6 +1,8 @@
-# 26 - Linked List Bağlantı Değiştirme
+# 26 - Linked-List Rewiring (Bağlı Liste Bağlantılarını Değiştirme)
 
 [Önceki](25-stateful-apis-design-and-ownership.md) | [İçindekiler](README.md) | [English](../en/26-linked-list-rewiring.md) | [Sonraki](27-fast-and-slow-pointers.md)
+
+> Terim: **Linked-List Rewiring (Bağlı Liste Bağlantılarını Değiştirme)**.
 
 ## Zihinsel Model
 
@@ -54,4 +56,3 @@ durumunu unutma yaygındır. Şema çizmek koddan önce pointer rollerini sabitl
 
 Intrusive list, free-list ve buffer descriptor zincirlerinde değer kopyalamadan
 pointer bağlantısı değiştirilir. Hata burada doğrudan bellek bütünlüğünü etkiler.
-

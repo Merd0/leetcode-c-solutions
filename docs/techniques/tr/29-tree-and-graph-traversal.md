@@ -1,6 +1,8 @@
-# 29 - Tree ve Graph Traversal
+# 29 - Tree and Graph Traversal (Ağaç ve Graf Gezinmesi)
 
 [Önceki](28-recursion-and-backtracking.md) | [İçindekiler](README.md) | [English](../en/29-tree-and-graph-traversal.md) | [Sonraki](30-dynamic-programming-and-kadane.md)
+
+> Terim: **Tree and Graph Traversal (Ağaç ve Graf Gezinmesi)**.
 
 ## Zihinsel Model
 
@@ -49,4 +51,3 @@ incelenir. Tree kodunu graph'a visited eklemeden taşımak sonsuz döngü yarata
 
 Bağımlılık grafı, cihaz topolojisi ve görüntü connected-component analizi traversal
 gerektirir. Büyük graph'ta bounded queue/stack kapasitesi planlanmalıdır.
-

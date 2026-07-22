@@ -1,6 +1,8 @@
-# 07 - Yerinde Read/Write Sıkıştırma
+# 07 - In-Place Read/Write (Yerinde Okuma/Yazma)
 
 [Önceki](06-two-pointers.md) | [İçindekiler](README.md) | [English](../en/07-in-place-read-write.md) | [Sonraki](08-fixed-sliding-window.md)
+
+> Terim: **In-Place Read/Write (Yerinde Okuma/Yazma)**.
 
 ## Zihinsel Model
 
@@ -54,4 +56,3 @@ değiştirmeye izin verdiği doğrulanmalıdır.
 
 Paket içinden kaçış karakteri ayıklama, filtrelenmiş örnekleri aynı buffer'a yazma
 ve log sıkıştırma, ek allocation istemeden aynı read/write modelini kullanabilir.
-

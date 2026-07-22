@@ -1,6 +1,8 @@
-# 17 - Greedy
+# 17 - Greedy (Açgözlü Yaklaşım)
 
 [Önceki](16-divide-conquer-and-selection.md) | [İçindekiler](README.md) | [English](../en/17-greedy.md) | [Sonraki](18-intervals.md)
+
+> Terim: **Greedy (Açgözlü Yaklaşım)**.
 
 ## Zihinsel Model
 
@@ -51,4 +53,3 @@ yanlış tie-break ve kanıtlanmamış sıralama yönü dikkat ister.
 
 Hazır görevler arasından seçim veya sınırlı kaynak dağıtımı greedy görünebilir;
 deadline ve worst-case gereksinimleri varsa yerel kuralın kanıtı özellikle önemlidir.
-

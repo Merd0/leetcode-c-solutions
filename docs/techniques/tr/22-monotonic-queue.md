@@ -1,6 +1,8 @@
-# 22 - Monotonic Queue
+# 22 - Monotonic Queue (Monoton Kuyruk)
 
 [Önceki](21-queue-and-circular-buffer.md) | [İçindekiler](README.md) | [English](../en/22-monotonic-queue.md) | [Sonraki](23-heap-and-top-k.md)
+
+> Terim: **Monotonic Queue (Monoton Kuyruk)**.
 
 ## Zihinsel Model
 
@@ -49,4 +51,3 @@ Deque kapasitesi en az n olmalı veya circular tasarlanmalıdır. Önce süresi 
 
 Son N sensör örneğinin peak değerini her örnekte yeniden taramadan bulmak, alarm ve
 envelope takibinde monotonic queue kullanımına dönüşebilir.
-

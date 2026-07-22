@@ -1,6 +1,8 @@
-# 31 - Bitwise, XOR ve Sayı Teorisi
+# 31 - Bitwise (Bit Düzeyi), XOR (Özel Veya) ve Number Theory (Sayı Teorisi)
 
 [Önceki](30-dynamic-programming-and-kadane.md) | [İçindekiler](README.md) | [English](../en/31-bitwise-xor-and-number-theory.md) | [Sonraki](32-strings-parsing-and-pattern-matching.md)
+
+> Terimler: **Bitwise (Bit Düzeyi)**, **XOR (Özel Veya)**, **Number Theory (Sayı Teorisi)**.
 
 ## Zihinsel Model
 
@@ -61,4 +63,3 @@ kritiktir. `<stdint.h>` türleri donanım genişliği gereken kodda tercih edili
 
 Register alanları, status flag'leri, protokol bitleri ve piksel formatları doğrudan
 mask/shift ile işlenir. Tip genişliği ve reserved bitlerin korunması API sözleşmesidir.
-

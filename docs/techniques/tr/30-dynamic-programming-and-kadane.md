@@ -1,6 +1,8 @@
-# 30 - Dynamic Programming ve Kadane
+# 30 - Dynamic Programming (Dinamik Programlama) ve Kadane
 
 [Önceki](29-tree-and-graph-traversal.md) | [İçindekiler](README.md) | [English](../en/30-dynamic-programming-and-kadane.md) | [Sonraki](31-bitwise-xor-and-number-theory.md)
+
+> Terim: **Dynamic Programming (Dinamik Programlama)**, **Kadane Algoritması**.
 
 ## Zihinsel Model
 
@@ -54,4 +56,3 @@ overflow'u, sentinel değerle gerçek değeri karıştırma ve indeks bağımlı
 
 Enerji/puan optimizasyonu ve sekans hizalama DP olabilir; gömülü hedefte RAM bütçesi
 için rolling state ve sabit boyutlu buffer tercih edilir.
-

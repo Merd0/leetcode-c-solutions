@@ -1,6 +1,8 @@
-# 14 - Cevap Üzerinde Binary Search
+# 14 - Binary Search on Answer (Cevap Üzerinde İkili Arama)
 
 [Önceki](13-binary-search-on-sorted-data.md) | [İçindekiler](README.md) | [English](../en/14-binary-search-on-answer.md) | [Sonraki](15-sorting-and-buckets.md)
+
+> Terim: **Binary Search on Answer (Cevap Üzerinde İkili Arama)**.
 
 ## Zihinsel Model
 
@@ -52,4 +54,3 @@ uzayı çok küçükse doğrudan deneme daha sade olabilir.
 
 Minimum buffer, bant genişliği, periyot veya güç bütçesini simülasyonla sınamak,
 tasarım parametresi aramasında aynı tekniği kullanır.
-

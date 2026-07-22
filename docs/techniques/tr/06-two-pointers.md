@@ -1,6 +1,8 @@
-# 06 - İki İşaretçi
+# 06 - Two Pointers (İki İşaretçi)
 
 [Önceki](05-hash-tables.md) | [İçindekiler](README.md) | [English](../en/06-two-pointers.md) | [Sonraki](07-in-place-read-write.md)
+
+> Terim: **Two Pointers (İki İşaretçi)**.
 
 ## Zihinsel Model
 
@@ -54,4 +56,3 @@ yaygın hatalardır.
 
 Sıralı zaman damgalarını birleştirme, iki sensör akışını hizalama ve çerçeve
 sınırlarını karşılaştırma iki işaretçi düşüncesinin pratik karşılıklarıdır.
-

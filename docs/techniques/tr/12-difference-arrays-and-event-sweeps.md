@@ -1,6 +1,8 @@
-# 12 - Difference Array ve Event Sweep
+# 12 - Difference Array (Fark Dizisi) ve Event Sweep (Olay Taraması)
 
 [Önceki](11-prefix-state-xor-and-product.md) | [İçindekiler](README.md) | [English](../en/12-difference-arrays-and-event-sweeps.md) | [Sonraki](13-binary-search-on-sorted-data.md)
+
+> Terimler: **Difference Array (Fark Dizisi)**, **Event Sweep (Olay Taraması)**.
 
 ## Zihinsel Model
 
@@ -56,4 +58,3 @@ aralıkları karıştırmak kritik hatalardır.
 
 Zaman çizelgesinde aktif görev sayısı, güç bütçesi, kanal kullanımı veya tarama
 bölgesindeki etkin konfigürasyonlar event sweep ile modellenebilir.
-

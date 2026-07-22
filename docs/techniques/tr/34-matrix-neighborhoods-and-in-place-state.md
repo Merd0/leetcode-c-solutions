@@ -1,6 +1,8 @@
-# 34 - Matrix Komşulukları ve In-Place State
+# 34 - Matrix Neighborhoods (Matris Komşulukları) ve In-Place State (Yerinde Durum)
 
 [Önceki](33-matrix-traversal-and-directions.md) | [İçindekiler](README.md) | [English](../en/34-matrix-neighborhoods-and-in-place-state.md) | [Sonraki](35-2d-prefix-sum-and-image-regions.md)
+
+> Terimler: **Matrix Neighborhoods (Matris Komşulukları)**, **In-Place State (Yerinde Durum)**.
 
 ## Zihinsel Model
 
@@ -54,4 +56,3 @@ eski ve yeni değer aynı hücrede bit paketleme gibi kanıtlı bir encoding ile
 
 Mean filter, local maximum, morphology ve convolution aynı neighborhood modelinden
 doğar. Sınır politikası ve eski/yeni frame ayrımı görüntü sonucunu doğrudan değiştirir.
-

@@ -1,6 +1,8 @@
-# 24 - Stream ve Iterator
+# 24 - Stream (Akış) ve Iterator (Yineleyici)
 
 [Önceki](23-heap-and-top-k.md) | [İçindekiler](README.md) | [English](../en/24-streams-and-iterators.md) | [Sonraki](25-stateful-apis-design-and-ownership.md)
+
+> Terimler: **Stream (Akış)**, **Iterator (Yineleyici)**.
 
 ## Zihinsel Model
 
@@ -54,4 +56,3 @@ Sayaç tüketiminde overflow, stream sonu ve boş run'lar açıkça yönetilmeli
 
 Sensör örnekleri ve haberleşme paketleri doğal stream'lerdir. Tüm geçmişi saklamak
 yerine bounded state taşımak RAM ve gecikme açısından kritik olabilir.
-

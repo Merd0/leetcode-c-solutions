@@ -1,6 +1,8 @@
-# 23 - Heap ve Top-K
+# 23 - Heap (Öbek) ve Top-K (En İyi K)
 
 [Önceki](22-monotonic-queue.md) | [İçindekiler](README.md) | [English](../en/23-heap-and-top-k.md) | [Sonraki](24-streams-and-iterators.md)
+
+> Terimler: **Heap (Öbek)**, **Top-K (En İyi K)**.
 
 ## Zihinsel Model
 
@@ -48,4 +50,3 @@ okuma ve heap içindeki pointer'ların ömrü açıkça yönetilmelidir.
 
 En yüksek öncelikli olaylar, en büyük hata sinyalleri veya sınırlı telemetri listesi
 online Top-K olarak tutulabilir; gerçek zamanlı sistemde heap kapasitesi sabitlenebilir.
-

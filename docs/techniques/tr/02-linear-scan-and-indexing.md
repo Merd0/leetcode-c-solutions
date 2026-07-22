@@ -1,6 +1,8 @@
-# 02 - Doğrusal Tarama ve İndeksleme
+# 02 - Linear Scan (Doğrusal Tarama) ve Indexing (İndeksleme)
 
 [Önceki](01-brute-force-and-enumeration.md) | [İçindekiler](README.md) | [English](../en/02-linear-scan-and-indexing.md) | [Sonraki](03-simulation-and-state-machines.md)
+
+> Terimler: **Linear Scan (Doğrusal Tarama)**, **Indexing (İndeksleme)**.
 
 ## Zihinsel Model
 
@@ -56,4 +58,3 @@ erişmeden önce kontrol et. Sayaç ve toplamların tipini maksimum girdiye gör
 ADC örneklerinden tepe, minimum, eşik aşımı veya ardışık değişim bulmak çoğunlukla
 tek geçişli taramadır. Düşük bellekli sistemlerde geçmişin küçük özetini taşımak
 özellikle değerlidir.
-

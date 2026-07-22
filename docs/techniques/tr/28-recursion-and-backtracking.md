@@ -1,6 +1,8 @@
-# 28 - Recursion ve Backtracking
+# 28 - Recursion (Özyineleme) ve Backtracking (Geri İzleme)
 
 [Önceki](27-fast-and-slow-pointers.md) | [İçindekiler](README.md) | [English](../en/28-recursion-and-backtracking.md) | [Sonraki](29-tree-and-graph-traversal.md)
+
+> Terimler: **Recursion (Özyineleme)**, **Backtracking (Geri İzleme)**.
 
 ## Zihinsel Model
 
@@ -54,4 +56,3 @@ almama ve derin recursion gömülü sistemde ciddi risklerdir.
 
 Protokol grammar'ı veya hiyerarşik konfigürasyon recursive olabilir; sert gerçek
 zamanlı kodda maksimum derinlik kanıtlanmıyorsa explicit stack daha güvenlidir.
-

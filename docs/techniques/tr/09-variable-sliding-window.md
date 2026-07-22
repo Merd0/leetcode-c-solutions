@@ -1,6 +1,8 @@
-# 09 - Değişken Boyutlu Kayan Pencere
+# 09 - Variable-Size Sliding Window (Değişken Boyutlu Kayan Pencere)
 
 [Önceki](08-fixed-sliding-window.md) | [İçindekiler](README.md) | [English](../en/09-variable-sliding-window.md) | [Sonraki](10-prefix-sums.md)
+
+> Terim: **Variable-Size Sliding Window (Değişken Boyutlu Kayan Pencere)**.
 
 ## Zihinsel Model
 
@@ -58,4 +60,3 @@ karakter sayısı gibi türetilmiş state de güncellenmelidir.
 
 Zaman damgalı olaylarda son T milisaniye, değişken uzunluklu geçerli paket bölgesi
 ve enerji bütçesi dolana kadar örnek toplama bu modele yakındır.
-

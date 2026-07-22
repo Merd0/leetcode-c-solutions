@@ -1,6 +1,8 @@
-# 15 - Sıralama ve Bucket Yaklaşımı
+# 15 - Sorting (Sıralama) ve Bucket (Kova) Yaklaşımı
 
 [Önceki](14-binary-search-on-answer.md) | [İçindekiler](README.md) | [English](../en/15-sorting-and-buckets.md) | [Sonraki](16-divide-conquer-and-selection.md)
+
+> Terimler: **Sorting (Sıralama)**, **Bucket (Kova)**.
 
 ## Zihinsel Model
 
@@ -49,4 +51,3 @@ Yalnız maksimum aranıyorsa O(n) tarama, küçük K aranıyorsa heap/quickselec
 
 Ölçümleri zaman damgasına göre düzenleme veya hata kayıtlarını koduna göre gruplama
 yararlı olabilir; gerçek zamanlı hot path'te ise worst-case ve allocation davranışı incelenmelidir.
-

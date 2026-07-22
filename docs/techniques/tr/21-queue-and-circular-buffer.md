@@ -1,6 +1,8 @@
-# 21 - Queue ve Circular Buffer
+# 21 - Queue (Kuyruk) ve Circular Buffer (Dairesel Tampon)
 
 [Önceki](20-monotonic-stack.md) | [İçindekiler](README.md) | [English](../en/21-queue-and-circular-buffer.md) | [Sonraki](22-monotonic-queue.md)
+
+> Terimler: **Queue (Kuyruk)**, **Circular Buffer (Dairesel Tampon)**.
 
 ## Zihinsel Model
 
@@ -52,4 +54,3 @@ edilmelidir. Queue belleğinin sahibi ve elemanların kopya mı pointer mı oldu
 
 UART RX/TX, DMA örnek blokları ve ISR'dan ana döngüye olay aktarma circular buffer'ın
 doğrudan kullanım alanlarıdır. Eşzamanlı erişimde atomicity ayrıca tasarlanmalıdır.
-

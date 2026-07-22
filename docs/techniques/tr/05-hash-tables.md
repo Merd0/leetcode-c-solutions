@@ -1,6 +1,8 @@
-# 05 - Hash Tabloları
+# 05 - Hash Table (Karma Tablo)
 
 [Önceki](04-counting-and-frequency-tables.md) | [İçindekiler](README.md) | [English](../en/05-hash-tables.md) | [Sonraki](06-two-pointers.md)
+
+> Terim: **Hash Table (Karma Tablo)**.
 
 ## Zihinsel Model
 
@@ -53,4 +55,3 @@ büyütme, tombstone, çakışma ve `free` sorumluluğu tasarımın parçasıdı
 Dinamik bellek ve ortalama süre garantisi yüzünden hash table her gerçek zamanlı
 sisteme uygun değildir. Sabit kapasiteli tablo kullanılacaksa doluluk ve en kötü
 arama süresi baştan sınırlandırılmalıdır.
-

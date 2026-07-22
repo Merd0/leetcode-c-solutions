@@ -1,6 +1,8 @@
-# 08 - Sabit Boyutlu Kayan Pencere
+# 08 - Fixed-Size Sliding Window (Sabit Boyutlu Kayan Pencere)
 
 [Önceki](07-in-place-read-write.md) | [İçindekiler](README.md) | [English](../en/08-fixed-sliding-window.md) | [Sonraki](09-variable-sliding-window.md)
+
+> Terim: **Fixed-Size Sliding Window (Sabit Boyutlu Kayan Pencere)**.
 
 ## Zihinsel Model
 
@@ -54,4 +56,3 @@ ile yapmak hassasiyeti korur; çarpım ve toplam için `long long` gerekebilir.
 
 Hareketli ortalama, kısa süreli enerji, son N örnekte eşik aşımı ve gürültü ölçümü
 sabit pencerenin sinyal işleme karşılıklarıdır.
-

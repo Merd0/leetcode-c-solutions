@@ -1,6 +1,8 @@
-# 33 - Matrix Traversal ve Yön Dizileri
+# 33 - Matrix Traversal (Matris Gezinmesi) ve Direction Arrays (Yön Dizileri)
 
 [Önceki](32-strings-parsing-and-pattern-matching.md) | [İçindekiler](README.md) | [English](../en/33-matrix-traversal-and-directions.md) | [Sonraki](34-matrix-neighborhoods-and-in-place-state.md)
+
+> Terimler: **Matrix Traversal (Matris Gezinmesi)**, **Direction Arrays (Yön Dizileri)**.
 
 ## Zihinsel Model
 
@@ -60,4 +62,3 @@ ve jagged satırlarda tek `cols` kullanma kritik hatalardır.
 
 Görüntü buffer'ı piksel koordinatlarıyla gezilir; yön dizileri connected region,
 komşu piksel, kenar takibi ve robotik hareket modellerinin ortak dilidir.
-

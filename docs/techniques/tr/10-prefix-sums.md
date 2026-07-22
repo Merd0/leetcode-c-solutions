@@ -1,6 +1,8 @@
-# 10 - Prefix Sum
+# 10 - Prefix Sum (Önek Toplam)
 
 [Önceki](09-variable-sliding-window.md) | [İçindekiler](README.md) | [English](../en/10-prefix-sums.md) | [Sonraki](11-prefix-state-xor-and-product.md)
+
+> Terim: **Prefix Sum (Önek Toplam)**.
 
 ## Zihinsel Model
 
@@ -53,4 +55,3 @@ Kurulum O(n), her sorgu O(1), alan O(n)'dir. `right + 1` tanımını karıştır
 
 Örnek bloklarının enerji toplamı, zaman aralığı sayaçları ve offline telemetri
 sorguları aynı birikimli özet fikrini kullanır.
-
