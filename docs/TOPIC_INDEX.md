@@ -6,7 +6,7 @@
 Problems appear under the focused topic tags recorded in their README metadata.
 
 <details>
-<summary>Array (143)</summary>
+<summary>Array (144)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -135,6 +135,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1979 | [Find Greatest Common Divisor of Array](../problems/1979-find-greatest-common-divisor-of-array) | Easy | 2026-06-26 |
 | #1984 | [Minimum Difference Between Highest and Lowest of K Scores](../problems/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | 2026-05-30 |
 | #2073 | [Time Needed to Buy Tickets](../problems/2073-time-needed-to-buy-tickets) | Easy | 2026-07-07 |
+| #2090 | [K Radius Subarray Averages](../problems/2090-k-radius-subarray-averages) | Medium | 2026-07-22 |
 | #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |
 | #2126 | [Destroying Asteroids](../problems/2126-destroying-asteroids) | Medium | 2026-05-31 |
 | #2144 | [Minimum Cost of Buying Candies With Discount](../problems/2144-minimum-cost-of-buying-candies-with-discount) | Easy | 2026-06-01 |
@@ -497,12 +498,13 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>In-Place (2)</summary>
+<summary>In-Place (3)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
 | #0048 | [Rotate Image](../problems/0048-rotate-image) | Medium | 2026-06-04 |
 | #0073 | [Set Matrix Zeroes](../problems/0073-set-matrix-zeroes) | Medium | 2026-06-04 |
+| #1249 | [Minimum Remove to Make Valid Parentheses](../problems/1249-minimum-remove-to-make-valid-parentheses) | Medium | 2026-07-22 |
 
 </details>
 
@@ -839,7 +841,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Sliding Window (16)</summary>
+<summary>Sliding Window (17)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -859,6 +861,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1652 | [Defuse the Bomb](../problems/1652-defuse-the-bomb) | Easy | 2026-07-20 |
 | #1658 | [Minimum Operations to Reduce X to Zero](../problems/1658-minimum-operations-to-reduce-x-to-zero) | Medium | 2026-07-07 |
 | #1984 | [Minimum Difference Between Highest and Lowest of K Scores](../problems/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | 2026-05-30 |
+| #2090 | [K Radius Subarray Averages](../problems/2090-k-radius-subarray-averages) | Medium | 2026-07-22 |
 
 </details>
 
@@ -896,7 +899,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Stack (20)</summary>
+<summary>Stack (21)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -916,6 +919,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0901 | [Online Stock Span](../problems/0901-online-stock-span) | Medium | 2026-07-07 |
 | #0946 | [Validate Stack Sequences](../problems/0946-validate-stack-sequences) | Medium | 2026-07-08 |
 | #1209 | [Remove All Adjacent Duplicates in String II](../problems/1209-remove-all-adjacent-duplicates-in-string-ii) | Medium | 2026-07-17 |
+| #1249 | [Minimum Remove to Make Valid Parentheses](../problems/1249-minimum-remove-to-make-valid-parentheses) | Medium | 2026-07-22 |
 | #1381 | [Design a Stack With Increment Operation](../problems/1381-design-a-stack-with-increment-operation) | Medium | 2026-07-08 |
 | #1475 | [Final Prices With a Special Discount in a Shop](../problems/1475-final-prices-with-a-special-discount-in-a-shop) | Easy | 2026-06-14 |
 | #2000 | [Reverse Prefix of Word](../problems/2000-reverse-prefix-of-word) | Easy | 2026-06-14 |
@@ -956,7 +960,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>String (60)</summary>
+<summary>String (61)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -1003,6 +1007,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0844 | [Backspace String Compare](../problems/0844-backspace-string-compare) | Easy | 2026-05-23 |
 | #1041 | [Robot Bounded In Circle](../problems/1041-robot-bounded-in-circle) | Medium | 2026-07-17 |
 | #1209 | [Remove All Adjacent Duplicates in String II](../problems/1209-remove-all-adjacent-duplicates-in-string-ii) | Medium | 2026-07-17 |
+| #1249 | [Minimum Remove to Make Valid Parentheses](../problems/1249-minimum-remove-to-make-valid-parentheses) | Medium | 2026-07-22 |
 | #1371 | [Find the Longest Substring Containing Vowels in Even Counts](../problems/1371-find-the-longest-substring-containing-vowels-in-even-counts) | Medium | 2026-07-01 |
 | #1446 | [Consecutive Characters](../problems/1446-consecutive-characters) | Easy | 2026-06-15 |
 | #1456 | [Maximum Number of Vowels in a Substring of Given Length](../problems/1456-maximum-number-of-vowels-in-a-substring-of-given-length) | Medium | 2026-06-25 |
@@ -1061,7 +1066,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Two Pointers (41)</summary>
+<summary>Two Pointers (42)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -1099,6 +1104,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0845 | [Longest Mountain in Array](../problems/0845-longest-mountain-in-array) | Medium | 2026-07-20 |
 | #0876 | [Middle of the Linked List](../problems/0876-middle-of-the-linked-list) | Easy | 2026-05-24 |
 | #0977 | [Squares of a Sorted Array](../problems/0977-squares-of-a-sorted-array) | Easy | 2026-05-22 |
+| #1249 | [Minimum Remove to Make Valid Parentheses](../problems/1249-minimum-remove-to-make-valid-parentheses) | Medium | 2026-07-22 |
 | #1346 | [Check If N and Its Double Exist](../problems/1346-check-if-n-and-its-double-exist) | Easy | 2026-06-23 |
 | #1679 | [Max Number of K-Sum Pairs](../problems/1679-max-number-of-k-sum-pairs) | Medium | 2026-06-30 |
 | #1768 | [Merge Strings Alternately](../problems/1768-merge-strings-alternately) | Easy | 2026-06-16 |

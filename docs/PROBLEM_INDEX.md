@@ -5,7 +5,7 @@
 
 This is the canonical archive of accepted solutions. Attempts are counted separately.
 
-Accepted: **245** | Easy: **144** | Medium: **97** | Hard: **4** | Open attempts: **1**
+Accepted: **247** | Easy: **144** | Medium: **99** | Hard: **4** | Open attempts: **1**
 
 <details open>
 <summary>#0000-#0999 (159 problems)</summary>
@@ -175,7 +175,7 @@ Accepted: **245** | Easy: **144** | Medium: **97** | Hard: **4** | Open attempts
 </details>
 
 <details>
-<summary>#1000-#1999 (60 problems)</summary>
+<summary>#1000-#1999 (61 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
@@ -186,6 +186,7 @@ Accepted: **245** | Easy: **144** | Medium: **97** | Hard: **4** | Open attempts
 | #1094 | [Car Pooling](../problems/1094-car-pooling) | Medium | Array | Record passenger deltas at pickup and drop-off positions, then scan the route. | 2026-07-21 |
 | #1207 | [Unique Number of Occurrences](../problems/1207-unique-number-of-occurrences) | Easy | Array | Count each value first, then check whether two nonzero counts are equal. | 2026-06-20 |
 | #1209 | [Remove All Adjacent Duplicates in String II](../problems/1209-remove-all-adjacent-duplicates-in-string-ii) | Medium | String | Use the string as the stack and keep count metadata beside it. | 2026-07-17 |
+| #1249 | [Minimum Remove to Make Valid Parentheses](../problems/1249-minimum-remove-to-make-valid-parentheses) | Medium | String | Mark unmatched closing parentheses from the left, then unmatched opening parentheses from the right. | 2026-07-22 |
 | #1266 | [Minimum Time Visiting All Points](../problems/1266-minimum-time-visiting-all-points) | Easy | Array | Between two points, diagonal movement handles both axes at once. | 2026-05-30 |
 | #1290 | [Convert Binary Number in a Linked List to Integer](../problems/1290-convert-binary-number-in-a-linked-list-to-integer) | Easy | Linked List | Process the bits from left to right and append each bit to the current value. | 2026-06-12 |
 | #1310 | [XOR Queries of a Subarray](../problems/1310-xor-queries-of-a-subarray) | Medium | Array | XOR has the same cancellation property that makes prefix sums useful. | 2026-06-07 |
@@ -243,12 +244,13 @@ Accepted: **245** | Easy: **144** | Medium: **97** | Hard: **4** | Open attempts
 </details>
 
 <details>
-<summary>#2000-#2999 (15 problems)</summary>
+<summary>#2000-#2999 (16 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
 | #2000 | [Reverse Prefix of Word](../problems/2000-reverse-prefix-of-word) | Easy | Two Pointers | Find the first occurrence of `ch`, then swap characters from both ends of the prefix. | 2026-06-14 |
 | #2073 | [Time Needed to Buy Tickets](../problems/2073-time-needed-to-buy-tickets) | Easy | Array | Do not physically move array elements. Rotate an index. | 2026-07-07 |
+| #2090 | [K Radius Subarray Averages](../problems/2090-k-radius-subarray-averages) | Medium | Array | Reuse the previous `2 * k + 1` window sum by removing one value and adding one value. | 2026-07-22 |
 | #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | Array | Multiply each non-empty row's device count by the previous non-empty row's count. | 2026-07-21 |
 | #2126 | [Destroying Asteroids](../problems/2126-destroying-asteroids) | Medium | Array | Destroy smaller asteroids first so mass grows as safely as possible. | 2026-05-31 |
 | #2130 | [Maximum Twin Sum of a Linked List](../problems/2130-maximum-twin-sum-of-a-linked-list) | Medium | Linked List | Reverse the second half so twin nodes can be visited together. | 2026-06-14 |
