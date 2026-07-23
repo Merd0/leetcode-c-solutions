@@ -6,7 +6,7 @@
 Problems appear under the focused topic tags recorded in their README metadata.
 
 <details>
-<summary>Array (144)</summary>
+<summary>Array (145)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -96,6 +96,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1094 | [Car Pooling](../problems/1094-car-pooling) | Medium | 2026-07-21 |
 | #1207 | [Unique Number of Occurrences](../problems/1207-unique-number-of-occurrences) | Easy | 2026-06-20 |
 | #1266 | [Minimum Time Visiting All Points](../problems/1266-minimum-time-visiting-all-points) | Easy | 2026-05-30 |
+| #1295 | [Find Numbers with Even Number of Digits](../problems/1295-find-numbers-with-even-number-of-digits) | Easy | 2026-07-23 |
 | #1310 | [XOR Queries of a Subarray](../problems/1310-xor-queries-of-a-subarray) | Medium | 2026-06-07 |
 | #1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](../problems/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | Medium | 2026-07-19 |
 | #1346 | [Check If N and Its Double Exist](../problems/1346-check-if-n-and-its-double-exist) | Easy | 2026-06-23 |
@@ -364,10 +365,11 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Digits (1)</summary>
+<summary>Digits (2)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
+| #1295 | [Find Numbers with Even Number of Digits](../problems/1295-find-numbers-with-even-number-of-digits) | Easy | 2026-07-23 |
 | #3751 | [Total Waviness of Numbers in Range I](../problems/3751-total-waviness-of-numbers-in-range-i) | Medium | 2026-06-04 |
 
 </details>
@@ -579,7 +581,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Math (30)</summary>
+<summary>Math (31)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -605,6 +607,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1041 | [Robot Bounded In Circle](../problems/1041-robot-bounded-in-circle) | Medium | 2026-07-17 |
 | #1266 | [Minimum Time Visiting All Points](../problems/1266-minimum-time-visiting-all-points) | Easy | 2026-05-30 |
 | #1290 | [Convert Binary Number in a Linked List to Integer](../problems/1290-convert-binary-number-in-a-linked-list-to-integer) | Easy | 2026-06-12 |
+| #1295 | [Find Numbers with Even Number of Digits](../problems/1295-find-numbers-with-even-number-of-digits) | Easy | 2026-07-23 |
 | #1342 | [Number of Steps to Reduce a Number to Zero](../problems/1342-number-of-steps-to-reduce-a-number-to-zero) | Easy | 2026-05-31 |
 | #1486 | [XOR Operation in an Array](../problems/1486-xor-operation-in-an-array) | Easy | 2026-06-08 |
 | #1512 | [Number of Good Pairs](../problems/1512-number-of-good-pairs) | Easy | 2026-06-22 |
