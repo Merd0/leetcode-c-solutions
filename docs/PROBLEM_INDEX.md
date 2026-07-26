@@ -5,7 +5,7 @@
 
 This is the canonical archive of accepted solutions. Attempts are counted separately.
 
-Accepted: **248** | Easy: **145** | Medium: **99** | Hard: **4** | Open attempts: **1**
+Accepted: **250** | Easy: **147** | Medium: **99** | Hard: **4** | Open attempts: **1**
 
 <details open>
 <summary>#0000-#0999 (159 problems)</summary>
@@ -175,7 +175,7 @@ Accepted: **248** | Easy: **145** | Medium: **99** | Hard: **4** | Open attempts
 </details>
 
 <details>
-<summary>#1000-#1999 (62 problems)</summary>
+<summary>#1000-#1999 (64 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
@@ -187,9 +187,11 @@ Accepted: **248** | Easy: **145** | Medium: **99** | Hard: **4** | Open attempts
 | #1207 | [Unique Number of Occurrences](../problems/1207-unique-number-of-occurrences) | Easy | Array | Count each value first, then check whether two nonzero counts are equal. | 2026-06-20 |
 | #1209 | [Remove All Adjacent Duplicates in String II](../problems/1209-remove-all-adjacent-duplicates-in-string-ii) | Medium | String | Use the string as the stack and keep count metadata beside it. | 2026-07-17 |
 | #1249 | [Minimum Remove to Make Valid Parentheses](../problems/1249-minimum-remove-to-make-valid-parentheses) | Medium | String | Mark unmatched closing parentheses from the left, then unmatched opening parentheses from the right. | 2026-07-22 |
+| #1260 | [Shift 2D Grid](../problems/1260-shift-2d-grid) | Easy | Array | Flatten each coordinate, add `k` modulo the cell count, then convert it back to row and column. | 2026-07-26 |
 | #1266 | [Minimum Time Visiting All Points](../problems/1266-minimum-time-visiting-all-points) | Easy | Array | Between two points, diagonal movement handles both axes at once. | 2026-05-30 |
 | #1290 | [Convert Binary Number in a Linked List to Integer](../problems/1290-convert-binary-number-in-a-linked-list-to-integer) | Easy | Linked List | Process the bits from left to right and append each bit to the current value. | 2026-06-12 |
 | #1295 | [Find Numbers with Even Number of Digits](../problems/1295-find-numbers-with-even-number-of-digits) | Easy | Array | Repeatedly divide a copy of each value by 10 and count the divisions. | 2026-07-23 |
+| #1299 | [Replace Elements with Greatest Element on Right Side](../problems/1299-replace-elements-with-greatest-element-on-right-side) | Easy | Array | Scan from right to left while carrying the greatest value already seen. | 2026-07-26 |
 | #1310 | [XOR Queries of a Subarray](../problems/1310-xor-queries-of-a-subarray) | Medium | Array | XOR has the same cancellation property that makes prefix sums useful. | 2026-06-07 |
 | #1318 | [Minimum Flips to Make a OR b Equal to c](../problems/1318-minimum-flips-to-make-a-or-b-equal-to-c) | Medium | Bit Manipulation | Compare `a`, `b`, and `c` one bit at a time. | 2026-06-02 |
 | #1342 | [Number of Steps to Reduce a Number to Zero](../problems/1342-number-of-steps-to-reduce-a-number-to-zero) | Easy | Math | Even numbers can be divided by two; odd numbers need one subtract step. | 2026-05-31 |

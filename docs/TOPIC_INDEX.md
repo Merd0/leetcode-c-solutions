@@ -6,7 +6,7 @@
 Problems appear under the focused topic tags recorded in their README metadata.
 
 <details>
-<summary>Array (145)</summary>
+<summary>Array (147)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -95,8 +95,10 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1011 | [Capacity To Ship Packages Within D Days](../problems/1011-capacity-to-ship-packages-within-d-days) | Medium | 2026-07-15 |
 | #1094 | [Car Pooling](../problems/1094-car-pooling) | Medium | 2026-07-21 |
 | #1207 | [Unique Number of Occurrences](../problems/1207-unique-number-of-occurrences) | Easy | 2026-06-20 |
+| #1260 | [Shift 2D Grid](../problems/1260-shift-2d-grid) | Easy | 2026-07-26 |
 | #1266 | [Minimum Time Visiting All Points](../problems/1266-minimum-time-visiting-all-points) | Easy | 2026-05-30 |
 | #1295 | [Find Numbers with Even Number of Digits](../problems/1295-find-numbers-with-even-number-of-digits) | Easy | 2026-07-23 |
+| #1299 | [Replace Elements with Greatest Element on Right Side](../problems/1299-replace-elements-with-greatest-element-on-right-side) | Easy | 2026-07-26 |
 | #1310 | [XOR Queries of a Subarray](../problems/1310-xor-queries-of-a-subarray) | Medium | 2026-06-07 |
 | #1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](../problems/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) | Medium | 2026-07-19 |
 | #1346 | [Check If N and Its Double Exist](../problems/1346-check-if-n-and-its-double-exist) | Easy | 2026-06-23 |
@@ -511,10 +513,11 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Indexing (1)</summary>
+<summary>Indexing (2)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
+| #1260 | [Shift 2D Grid](../problems/1260-shift-2d-grid) | Easy | 2026-07-26 |
 | #1472 | [Design Browser History](../problems/1472-design-browser-history) | Medium | 2026-07-05 |
 
 </details>
@@ -620,7 +623,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Matrix (17)</summary>
+<summary>Matrix (18)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -636,6 +639,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0661 | [Image Smoother](../problems/0661-image-smoother) | Easy | 2026-07-20 |
 | #0832 | [Flipping an Image](../problems/0832-flipping-an-image) | Easy | 2026-06-09 |
 | #0867 | [Transpose Matrix](../problems/0867-transpose-matrix) | Easy | 2026-05-20 |
+| #1260 | [Shift 2D Grid](../problems/1260-shift-2d-grid) | Easy | 2026-07-26 |
 | #1572 | [Matrix Diagonal Sum](../problems/1572-matrix-diagonal-sum) | Easy | 2026-07-04 |
 | #1582 | [Special Positions in a Binary Matrix](../problems/1582-special-positions-in-a-binary-matrix) | Easy | 2026-06-25 |
 | #1672 | [Richest Customer Wealth](../problems/1672-richest-customer-wealth) | Easy | 2026-05-19 |
@@ -735,10 +739,11 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Prefix/Suffix Thinking (1)</summary>
+<summary>Prefix/Suffix Thinking (2)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
+| #1299 | [Replace Elements with Greatest Element on Right Side](../problems/1299-replace-elements-with-greatest-element-on-right-side) | Easy | 2026-07-26 |
 | #1658 | [Minimum Operations to Reduce X to Zero](../problems/1658-minimum-operations-to-reduce-x-to-zero) | Medium | 2026-07-07 |
 
 </details>
@@ -812,7 +817,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Simulation (24)</summary>
+<summary>Simulation (25)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -834,6 +839,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0946 | [Validate Stack Sequences](../problems/0946-validate-stack-sequences) | Medium | 2026-07-08 |
 | #1041 | [Robot Bounded In Circle](../problems/1041-robot-bounded-in-circle) | Medium | 2026-07-17 |
 | #1094 | [Car Pooling](../problems/1094-car-pooling) | Medium | 2026-07-21 |
+| #1260 | [Shift 2D Grid](../problems/1260-shift-2d-grid) | Easy | 2026-07-26 |
 | #1603 | [Design Parking System](../problems/1603-design-parking-system) | Easy | 2026-06-07 |
 | #1700 | [Number of Students Unable to Eat Lunch](../problems/1700-number-of-students-unable-to-eat-lunch) | Easy | 2026-06-10 |
 | #1920 | [Build Array from Permutation](../problems/1920-build-array-from-permutation) | Easy | 2026-05-18 |
