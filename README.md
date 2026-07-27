@@ -11,8 +11,8 @@ A structured C problem-solving archive that turns language foundations into repe
 <!-- snapshot:start -->
 | Item | Current value |
 | --- | ---: |
-| Accepted solutions | 250 |
-| Easy / Medium / Hard | 147 / 99 / 4 |
+| Accepted solutions | 252 |
+| Easy / Medium / Hard | 149 / 99 / 4 |
 | First 100 roadmap | 100 accepted |
 | Focused practice tracks | 3 |
 | Open attempts | 1 |

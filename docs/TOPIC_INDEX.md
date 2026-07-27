@@ -6,7 +6,7 @@
 Problems appear under the focused topic tags recorded in their README metadata.
 
 <details>
-<summary>Array (147)</summary>
+<summary>Array (149)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -137,8 +137,10 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1929 | [Concatenation of Array](../problems/1929-concatenation-of-array) | Easy | 2026-05-18 |
 | #1979 | [Find Greatest Common Divisor of Array](../problems/1979-find-greatest-common-divisor-of-array) | Easy | 2026-06-26 |
 | #1984 | [Minimum Difference Between Highest and Lowest of K Scores](../problems/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | 2026-05-30 |
+| #2006 | [Count Number of Pairs With Absolute Difference K](../problems/2006-count-number-of-pairs-with-absolute-difference-k) | Easy | 2026-07-27 |
 | #2073 | [Time Needed to Buy Tickets](../problems/2073-time-needed-to-buy-tickets) | Easy | 2026-07-07 |
 | #2090 | [K Radius Subarray Averages](../problems/2090-k-radius-subarray-averages) | Medium | 2026-07-22 |
+| #2108 | [Find First Palindromic String in the Array](../problems/2108-find-first-palindromic-string-in-the-array) | Easy | 2026-07-27 |
 | #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |
 | #2126 | [Destroying Asteroids](../problems/2126-destroying-asteroids) | Medium | 2026-05-31 |
 | #2144 | [Minimum Cost of Buying Candies With Discount](../problems/2144-minimum-cost-of-buying-candies-with-discount) | Easy | 2026-06-01 |
@@ -273,13 +275,14 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Brute Force (4)</summary>
+<summary>Brute Force (5)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
 | #0001 | [Two Sum](../problems/0001-two-sum) | Easy | 2026-05-18 |
 | #1588 | [Sum of All Odd Length Subarrays](../problems/1588-sum-of-all-odd-length-subarrays) | Easy | 2026-06-17 |
 | #1925 | [Count Square Sum Triples](../problems/1925-count-square-sum-triples) | Easy | 2026-06-18 |
+| #2006 | [Count Number of Pairs With Absolute Difference K](../problems/2006-count-number-of-pairs-with-absolute-difference-k) | Easy | 2026-07-27 |
 | #3737 | [Count Subarrays With Majority Element I](../problems/3737-count-subarrays-with-majority-element-i) | Medium | 2026-06-25 |
 
 </details>
@@ -294,7 +297,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Counting (20)</summary>
+<summary>Counting (21)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -315,6 +318,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1704 | [Determine if String Halves Are Alike](../problems/1704-determine-if-string-halves-are-alike) | Easy | 2026-06-15 |
 | #1748 | [Sum of Unique Elements](../problems/1748-sum-of-unique-elements) | Easy | 2026-06-25 |
 | #1822 | [Sign of the Product of an Array](../problems/1822-sign-of-the-product-of-an-array) | Easy | 2026-06-17 |
+| #2006 | [Count Number of Pairs With Absolute Difference K](../problems/2006-count-number-of-pairs-with-absolute-difference-k) | Easy | 2026-07-27 |
 | #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |
 | #2529 | [Maximum Count of Positive Integer and Negative Integer](../problems/2529-maximum-count-of-positive-integer-and-negative-integer) | Easy | 2026-07-03 |
 | #3737 | [Count Subarrays With Majority Element I](../problems/3737-count-subarrays-with-majority-element-i) | Medium | 2026-06-25 |
@@ -969,7 +973,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>String (61)</summary>
+<summary>String (62)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -1030,6 +1034,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1773 | [Count Items Matching a Rule](../problems/1773-count-items-matching-a-rule) | Easy | 2026-06-22 |
 | #1784 | [Check if Binary String Has at Most One Segment of Ones](../problems/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy | 2026-07-04 |
 | #2000 | [Reverse Prefix of Word](../problems/2000-reverse-prefix-of-word) | Easy | 2026-06-14 |
+| #2108 | [Find First Palindromic String in the Array](../problems/2108-find-first-palindromic-string-in-the-array) | Easy | 2026-07-27 |
 | #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |
 | #3093 | [Longest Common Suffix Queries](../problems/3093-longest-common-suffix-queries) | Hard | 2026-05-29 |
 | #3120 | [Count the Number of Special Characters I](../problems/3120-count-the-number-of-special-characters-i) | Easy | 2026-05-27 |
@@ -1075,7 +1080,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Two Pointers (42)</summary>
+<summary>Two Pointers (43)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -1118,6 +1123,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1679 | [Max Number of K-Sum Pairs](../problems/1679-max-number-of-k-sum-pairs) | Medium | 2026-06-30 |
 | #1768 | [Merge Strings Alternately](../problems/1768-merge-strings-alternately) | Easy | 2026-06-16 |
 | #2000 | [Reverse Prefix of Word](../problems/2000-reverse-prefix-of-word) | Easy | 2026-06-14 |
+| #2108 | [Find First Palindromic String in the Array](../problems/2108-find-first-palindromic-string-in-the-array) | Easy | 2026-07-27 |
 | #2130 | [Maximum Twin Sum of a Linked List](../problems/2130-maximum-twin-sum-of-a-linked-list) | Medium | 2026-06-14 |
 | #2161 | [Partition Array According to Given Pivot](../problems/2161-partition-array-according-to-given-pivot) | Medium | 2026-06-08 |
 | #2300 | [Successful Pairs of Spells and Potions](../problems/2300-successful-pairs-of-spells-and-potions) | Medium | 2026-06-28 |
