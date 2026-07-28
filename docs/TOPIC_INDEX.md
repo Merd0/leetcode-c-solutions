@@ -6,7 +6,7 @@
 Problems appear under the focused topic tags recorded in their README metadata.
 
 <details>
-<summary>Array (149)</summary>
+<summary>Array (150)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -86,6 +86,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0845 | [Longest Mountain in Array](../problems/0845-longest-mountain-in-array) | Medium | 2026-07-20 |
 | #0867 | [Transpose Matrix](../problems/0867-transpose-matrix) | Easy | 2026-05-20 |
 | #0874 | [Walking Robot Simulation](../problems/0874-walking-robot-simulation) | Medium | 2026-07-17 |
+| #0896 | [Monotonic Array](../problems/0896-monotonic-array) | Easy | 2026-07-28 |
 | #0900 | [RLE Iterator](../problems/0900-rle-iterator) | Medium | 2026-07-06 |
 | #0941 | [Valid Mountain Array](../problems/0941-valid-mountain-array) | Easy | 2026-06-25 |
 | #0946 | [Validate Stack Sequences](../problems/0946-validate-stack-sequences) | Medium | 2026-07-08 |
@@ -941,10 +942,11 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>State Machine (1)</summary>
+<summary>State Machine (2)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
+| #0896 | [Monotonic Array](../problems/0896-monotonic-array) | Easy | 2026-07-28 |
 | #1784 | [Check if Binary String Has at Most One Segment of Ones](../problems/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy | 2026-07-04 |
 
 </details>

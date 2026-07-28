@@ -5,10 +5,10 @@
 
 This is the canonical archive of accepted solutions. Attempts are counted separately.
 
-Accepted: **252** | Easy: **149** | Medium: **99** | Hard: **4** | Open attempts: **1**
+Accepted: **253** | Easy: **150** | Medium: **99** | Hard: **4** | Open attempts: **1**
 
 <details open>
-<summary>#0000-#0999 (159 problems)</summary>
+<summary>#0000-#0999 (160 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
@@ -164,6 +164,7 @@ Accepted: **252** | Easy: **149** | Medium: **99** | Hard: **4** | Open attempts
 | #0868 | [Binary Gap](../problems/0868-binary-gap) | Easy | Bit Manipulation | Track the position of the previous `1` bit. | 2026-05-31 |
 | #0874 | [Walking Robot Simulation](../problems/0874-walking-robot-simulation) | Medium | Array | Move step by step because an obstacle may stop a command early. | 2026-07-17 |
 | #0876 | [Middle of the Linked List](../problems/0876-middle-of-the-linked-list) | Easy | Linked List | If the length is even, return the second middle node. | 2026-05-24 |
+| #0896 | [Monotonic Array](../problems/0896-monotonic-array) | Easy | Array | Let the first unequal adjacent pair choose the direction, then reject any later reversal. | 2026-07-28 |
 | #0900 | [RLE Iterator](../problems/0900-rle-iterator) | Medium | Design | Keep the current run index. Do not expand the whole sequence. | 2026-07-06 |
 | #0901 | [Online Stock Span](../problems/0901-online-stock-span) | Medium | Design | Store price blocks, not every day scan result. | 2026-07-07 |
 | #0933 | [Number of Recent Calls](../problems/0933-number-of-recent-calls) | Easy | Design | Request times are strictly increasing, so expired requests leave from the front. | 2026-06-07 |
