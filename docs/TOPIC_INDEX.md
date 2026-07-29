@@ -6,7 +6,7 @@
 Problems appear under the focused topic tags recorded in their README metadata.
 
 <details>
-<summary>Array (150)</summary>
+<summary>Array (151)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -115,6 +115,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1480 | [Running Sum of 1d Array](../problems/1480-running-sum-of-1d-array) | Easy | 2026-05-18 |
 | #1512 | [Number of Good Pairs](../problems/1512-number-of-good-pairs) | Easy | 2026-06-22 |
 | #1528 | [Shuffle String](../problems/1528-shuffle-string) | Easy | 2026-06-16 |
+| #1539 | [Kth Missing Positive Number](../problems/1539-kth-missing-positive-number) | Easy | 2026-07-29 |
 | #1572 | [Matrix Diagonal Sum](../problems/1572-matrix-diagonal-sum) | Easy | 2026-07-04 |
 | #1582 | [Special Positions in a Binary Matrix](../problems/1582-special-positions-in-a-binary-matrix) | Easy | 2026-06-25 |
 | #1588 | [Sum of All Odd Length Subarrays](../problems/1588-sum-of-all-odd-length-subarrays) | Easy | 2026-06-17 |
@@ -822,7 +823,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Simulation (25)</summary>
+<summary>Simulation (26)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -845,6 +846,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1041 | [Robot Bounded In Circle](../problems/1041-robot-bounded-in-circle) | Medium | 2026-07-17 |
 | #1094 | [Car Pooling](../problems/1094-car-pooling) | Medium | 2026-07-21 |
 | #1260 | [Shift 2D Grid](../problems/1260-shift-2d-grid) | Easy | 2026-07-26 |
+| #1539 | [Kth Missing Positive Number](../problems/1539-kth-missing-positive-number) | Easy | 2026-07-29 |
 | #1603 | [Design Parking System](../problems/1603-design-parking-system) | Easy | 2026-06-07 |
 | #1700 | [Number of Students Unable to Eat Lunch](../problems/1700-number-of-students-unable-to-eat-lunch) | Easy | 2026-06-10 |
 | #1920 | [Build Array from Permutation](../problems/1920-build-array-from-permutation) | Easy | 2026-05-18 |
@@ -1082,7 +1084,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Two Pointers (43)</summary>
+<summary>Two Pointers (44)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -1122,6 +1124,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0977 | [Squares of a Sorted Array](../problems/0977-squares-of-a-sorted-array) | Easy | 2026-05-22 |
 | #1249 | [Minimum Remove to Make Valid Parentheses](../problems/1249-minimum-remove-to-make-valid-parentheses) | Medium | 2026-07-22 |
 | #1346 | [Check If N and Its Double Exist](../problems/1346-check-if-n-and-its-double-exist) | Easy | 2026-06-23 |
+| #1539 | [Kth Missing Positive Number](../problems/1539-kth-missing-positive-number) | Easy | 2026-07-29 |
 | #1679 | [Max Number of K-Sum Pairs](../problems/1679-max-number-of-k-sum-pairs) | Medium | 2026-06-30 |
 | #1768 | [Merge Strings Alternately](../problems/1768-merge-strings-alternately) | Easy | 2026-06-16 |
 | #2000 | [Reverse Prefix of Word](../problems/2000-reverse-prefix-of-word) | Easy | 2026-06-14 |

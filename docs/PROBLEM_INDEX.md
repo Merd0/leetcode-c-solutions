@@ -5,7 +5,7 @@
 
 This is the canonical archive of accepted solutions. Attempts are counted separately.
 
-Accepted: **253** | Easy: **150** | Medium: **99** | Hard: **4** | Open attempts: **1**
+Accepted: **254** | Easy: **151** | Medium: **99** | Hard: **4** | Open attempts: **1**
 
 <details open>
 <summary>#0000-#0999 (160 problems)</summary>
@@ -176,7 +176,7 @@ Accepted: **253** | Easy: **150** | Medium: **99** | Hard: **4** | Open attempts
 </details>
 
 <details>
-<summary>#1000-#1999 (64 problems)</summary>
+<summary>#1000-#1999 (65 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
@@ -215,6 +215,7 @@ Accepted: **253** | Easy: **150** | Medium: **99** | Hard: **4** | Open attempts
 | #1486 | [XOR Operation in an Array](../problems/1486-xor-operation-in-an-array) | Easy | Math | Generate each value with `start + 2 * i` and XOR it into one accumulator. | 2026-06-08 |
 | #1512 | [Number of Good Pairs](../problems/1512-number-of-good-pairs) | Easy | Array | A good pair needs equal values and the left index must be smaller. | 2026-06-22 |
 | #1528 | [Shuffle String](../problems/1528-shuffle-string) | Easy | Array | Put each character directly into its target index. | 2026-06-16 |
+| #1539 | [Kth Missing Positive Number](../problems/1539-kth-missing-positive-number) | Easy | Array | Move through positive integers and the sorted array with separate indexes. | 2026-07-29 |
 | #1572 | [Matrix Diagonal Sum](../problems/1572-matrix-diagonal-sum) | Easy | Array | Diagonal positions have direct index formulas. | 2026-07-04 |
 | #1582 | [Special Positions in a Binary Matrix](../problems/1582-special-positions-in-a-binary-matrix) | Easy | Array | A cell with `1` is special only if its whole row and whole column contain no other `1`. | 2026-06-25 |
 | #1588 | [Sum of All Odd Length Subarrays](../problems/1588-sum-of-all-odd-length-subarrays) | Easy | Array | Try every starting index and keep a running sum while the end moves right. | 2026-06-17 |
