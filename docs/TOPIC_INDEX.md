@@ -508,13 +508,14 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>In-Place (3)</summary>
+<summary>In-Place (4)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
 | #0048 | [Rotate Image](../problems/0048-rotate-image) | Medium | 2026-06-04 |
 | #0073 | [Set Matrix Zeroes](../problems/0073-set-matrix-zeroes) | Medium | 2026-06-04 |
 | #1249 | [Minimum Remove to Make Valid Parentheses](../problems/1249-minimum-remove-to-make-valid-parentheses) | Medium | 2026-07-22 |
+| #1816 | [Truncate Sentence](../problems/1816-truncate-sentence) | Easy | 2026-07-30 |
 
 </details>
 
@@ -823,7 +824,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Simulation (26)</summary>
+<summary>Simulation (27)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -849,6 +850,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1539 | [Kth Missing Positive Number](../problems/1539-kth-missing-positive-number) | Easy | 2026-07-29 |
 | #1603 | [Design Parking System](../problems/1603-design-parking-system) | Easy | 2026-06-07 |
 | #1700 | [Number of Students Unable to Eat Lunch](../problems/1700-number-of-students-unable-to-eat-lunch) | Easy | 2026-06-10 |
+| #1816 | [Truncate Sentence](../problems/1816-truncate-sentence) | Easy | 2026-07-30 |
 | #1920 | [Build Array from Permutation](../problems/1920-build-array-from-permutation) | Easy | 2026-05-18 |
 | #1929 | [Concatenation of Array](../problems/1929-concatenation-of-array) | Easy | 2026-05-18 |
 | #2161 | [Partition Array According to Given Pivot](../problems/2161-partition-array-according-to-given-pivot) | Medium | 2026-06-08 |
@@ -977,7 +979,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>String (62)</summary>
+<summary>String (63)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -1037,6 +1039,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1768 | [Merge Strings Alternately](../problems/1768-merge-strings-alternately) | Easy | 2026-06-16 |
 | #1773 | [Count Items Matching a Rule](../problems/1773-count-items-matching-a-rule) | Easy | 2026-06-22 |
 | #1784 | [Check if Binary String Has at Most One Segment of Ones](../problems/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy | 2026-07-04 |
+| #1816 | [Truncate Sentence](../problems/1816-truncate-sentence) | Easy | 2026-07-30 |
 | #2000 | [Reverse Prefix of Word](../problems/2000-reverse-prefix-of-word) | Easy | 2026-06-14 |
 | #2108 | [Find First Palindromic String in the Array](../problems/2108-find-first-palindromic-string-in-the-array) | Easy | 2026-07-27 |
 | #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |

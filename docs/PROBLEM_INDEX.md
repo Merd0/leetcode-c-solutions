@@ -5,7 +5,7 @@
 
 This is the canonical archive of accepted solutions. Attempts are counted separately.
 
-Accepted: **254** | Easy: **151** | Medium: **99** | Hard: **4** | Open attempts: **1**
+Accepted: **255** | Easy: **152** | Medium: **99** | Hard: **4** | Open attempts: **1**
 
 <details open>
 <summary>#0000-#0999 (160 problems)</summary>
@@ -176,7 +176,7 @@ Accepted: **254** | Easy: **151** | Medium: **99** | Hard: **4** | Open attempts
 </details>
 
 <details>
-<summary>#1000-#1999 (65 problems)</summary>
+<summary>#1000-#1999 (66 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
@@ -237,6 +237,7 @@ Accepted: **254** | Easy: **151** | Medium: **99** | Hard: **4** | Open attempts
 | #1768 | [Merge Strings Alternately](../problems/1768-merge-strings-alternately) | Easy | Two Pointers | Append one character from each word while both still have characters. | 2026-06-16 |
 | #1773 | [Count Items Matching a Rule](../problems/1773-count-items-matching-a-rule) | Easy | Array | Convert the rule key into a column index, then compare that column. | 2026-06-22 |
 | #1784 | [Check if Binary String Has at Most One Segment of Ones](../problems/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy | String | Once a `0` appears after the first ones block, another `1` would start a second block. | 2026-07-04 |
+| #1816 | [Truncate Sentence](../problems/1816-truncate-sentence) | Easy | String | Count spaces and replace the `k`th space with the string terminator. | 2026-07-30 |
 | #1822 | [Sign of the Product of an Array](../problems/1822-sign-of-the-product-of-an-array) | Easy | Array | The exact product is not needed; only zero and negative count matter. | 2026-06-17 |
 | #1827 | [Minimum Operations to Make the Array Increasing](../problems/1827-minimum-operations-to-make-the-array-increasing) | Easy | Array | Each value only needs to be larger than the value immediately before it. | 2026-06-19 |
 | #1829 | [Maximum XOR for Each Query](../problems/1829-maximum-xor-for-each-query) | Medium | Array | To maximize `x ^ k` under a fixed bit width, choose `k` as the bitwise complement of `x` inside that mask. | 2026-07-02 |
