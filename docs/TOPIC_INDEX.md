@@ -6,7 +6,7 @@
 Problems appear under the focused topic tags recorded in their README metadata.
 
 <details>
-<summary>Array (151)</summary>
+<summary>Array (152)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -139,6 +139,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1929 | [Concatenation of Array](../problems/1929-concatenation-of-array) | Easy | 2026-05-18 |
 | #1979 | [Find Greatest Common Divisor of Array](../problems/1979-find-greatest-common-divisor-of-array) | Easy | 2026-06-26 |
 | #1984 | [Minimum Difference Between Highest and Lowest of K Scores](../problems/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | 2026-05-30 |
+| #1991 | [Find the Middle Index in Array](../problems/1991-find-the-middle-index-in-array) | Easy | 2026-07-31 |
 | #2006 | [Count Number of Pairs With Absolute Difference K](../problems/2006-count-number-of-pairs-with-absolute-difference-k) | Easy | 2026-07-27 |
 | #2073 | [Time Needed to Buy Tickets](../problems/2073-time-needed-to-buy-tickets) | Easy | 2026-07-07 |
 | #2090 | [K Radius Subarray Averages](../problems/2090-k-radius-subarray-averages) | Medium | 2026-07-22 |
@@ -714,7 +715,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Prefix Sum (13)</summary>
+<summary>Prefix Sum (14)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -730,6 +731,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1480 | [Running Sum of 1d Array](../problems/1480-running-sum-of-1d-array) | Easy | 2026-05-18 |
 | #1588 | [Sum of All Odd Length Subarrays](../problems/1588-sum-of-all-odd-length-subarrays) | Easy | 2026-06-17 |
 | #1732 | [Find the Highest Altitude](../problems/1732-find-the-highest-altitude) | Easy | 2026-06-19 |
+| #1991 | [Find the Middle Index in Array](../problems/1991-find-the-middle-index-in-array) | Easy | 2026-07-31 |
 | #2574 | [Left and Right Sum Differences](../problems/2574-left-and-right-sum-differences) | Easy | 2026-06-06 |
 
 </details>

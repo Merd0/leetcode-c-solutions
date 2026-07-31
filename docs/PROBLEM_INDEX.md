@@ -5,7 +5,7 @@
 
 This is the canonical archive of accepted solutions. Attempts are counted separately.
 
-Accepted: **255** | Easy: **152** | Medium: **99** | Hard: **4** | Open attempts: **1**
+Accepted: **256** | Easy: **153** | Medium: **99** | Hard: **4** | Open attempts: **1**
 
 <details open>
 <summary>#0000-#0999 (160 problems)</summary>
@@ -176,7 +176,7 @@ Accepted: **255** | Easy: **152** | Medium: **99** | Hard: **4** | Open attempts
 </details>
 
 <details>
-<summary>#1000-#1999 (66 problems)</summary>
+<summary>#1000-#1999 (67 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
@@ -246,6 +246,7 @@ Accepted: **255** | Easy: **152** | Medium: **99** | Hard: **4** | Open attempts
 | #1929 | [Concatenation of Array](../problems/1929-concatenation-of-array) | Easy | Array | The output length is exactly twice the input length. | 2026-05-18 |
 | #1979 | [Find Greatest Common Divisor of Array](../problems/1979-find-greatest-common-divisor-of-array) | Easy | Array | Find the smallest and largest values first; their greatest common divisor is the answer. | 2026-06-26 |
 | #1984 | [Minimum Difference Between Highest and Lowest of K Scores](../problems/1984-minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | Array | After sorting, the best group of `k` scores is contiguous. | 2026-05-30 |
+| #1991 | [Find the Middle Index in Array](../problems/1991-find-the-middle-index-in-array) | Easy | Array | Derive the right sum from the total sum, left sum, and current value. | 2026-07-31 |
 
 </details>
 
