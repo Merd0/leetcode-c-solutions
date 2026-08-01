@@ -5,7 +5,7 @@
 
 This is the canonical archive of accepted solutions. Attempts are counted separately.
 
-Accepted: **256** | Easy: **153** | Medium: **99** | Hard: **4** | Open attempts: **1**
+Accepted: **257** | Easy: **153** | Medium: **100** | Hard: **4** | Open attempts: **1**
 
 <details open>
 <summary>#0000-#0999 (160 problems)</summary>
@@ -176,7 +176,7 @@ Accepted: **256** | Easy: **153** | Medium: **99** | Hard: **4** | Open attempts
 </details>
 
 <details>
-<summary>#1000-#1999 (67 problems)</summary>
+<summary>#1000-#1999 (68 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
@@ -185,6 +185,7 @@ Accepted: **256** | Easy: **153** | Medium: **99** | Hard: **4** | Open attempts
 | #1011 | [Capacity To Ship Packages Within D Days](../problems/1011-capacity-to-ship-packages-within-d-days) | Medium | Array | Binary search the answer, then test whether that capacity is enough. | 2026-07-15 |
 | #1041 | [Robot Bounded In Circle](../problems/1041-robot-bounded-in-circle) | Medium | Math | One command cycle is enough to decide boundedness. | 2026-07-17 |
 | #1094 | [Car Pooling](../problems/1094-car-pooling) | Medium | Array | Record passenger deltas at pickup and drop-off positions, then scan the route. | 2026-07-21 |
+| #1109 | [Corporate Flight Bookings](../problems/1109-corporate-flight-bookings) | Medium | Array | Record where each range contribution starts and where it stops. | 2026-08-01 |
 | #1207 | [Unique Number of Occurrences](../problems/1207-unique-number-of-occurrences) | Easy | Array | Count each value first, then check whether two nonzero counts are equal. | 2026-06-20 |
 | #1209 | [Remove All Adjacent Duplicates in String II](../problems/1209-remove-all-adjacent-duplicates-in-string-ii) | Medium | String | Use the string as the stack and keep count metadata beside it. | 2026-07-17 |
 | #1249 | [Minimum Remove to Make Valid Parentheses](../problems/1249-minimum-remove-to-make-valid-parentheses) | Medium | String | Mark unmatched closing parentheses from the left, then unmatched opening parentheses from the right. | 2026-07-22 |

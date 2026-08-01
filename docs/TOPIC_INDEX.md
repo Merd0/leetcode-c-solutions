@@ -6,7 +6,7 @@
 Problems appear under the focused topic tags recorded in their README metadata.
 
 <details>
-<summary>Array (152)</summary>
+<summary>Array (153)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -95,6 +95,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1004 | [Max Consecutive Ones III](../problems/1004-max-consecutive-ones-iii) | Medium | 2026-05-26 |
 | #1011 | [Capacity To Ship Packages Within D Days](../problems/1011-capacity-to-ship-packages-within-d-days) | Medium | 2026-07-15 |
 | #1094 | [Car Pooling](../problems/1094-car-pooling) | Medium | 2026-07-21 |
+| #1109 | [Corporate Flight Bookings](../problems/1109-corporate-flight-bookings) | Medium | 2026-08-01 |
 | #1207 | [Unique Number of Occurrences](../problems/1207-unique-number-of-occurrences) | Easy | 2026-06-20 |
 | #1260 | [Shift 2D Grid](../problems/1260-shift-2d-grid) | Easy | 2026-07-26 |
 | #1266 | [Minimum Time Visiting All Points](../problems/1266-minimum-time-visiting-all-points) | Easy | 2026-05-30 |
@@ -715,7 +716,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Prefix Sum (14)</summary>
+<summary>Prefix Sum (15)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -727,6 +728,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0724 | [Find Pivot Index](../problems/0724-find-pivot-index) | Easy | 2026-05-20 |
 | #1004 | [Max Consecutive Ones III](../problems/1004-max-consecutive-ones-iii) | Medium | 2026-05-26 |
 | #1094 | [Car Pooling](../problems/1094-car-pooling) | Medium | 2026-07-21 |
+| #1109 | [Corporate Flight Bookings](../problems/1109-corporate-flight-bookings) | Medium | 2026-08-01 |
 | #1365 | [How Many Numbers Are Smaller Than the Current Number](../problems/1365-how-many-numbers-are-smaller-than-the-current-number) | Easy | 2026-05-19 |
 | #1480 | [Running Sum of 1d Array](../problems/1480-running-sum-of-1d-array) | Easy | 2026-05-18 |
 | #1588 | [Sum of All Odd Length Subarrays](../problems/1588-sum-of-all-odd-length-subarrays) | Easy | 2026-06-17 |
