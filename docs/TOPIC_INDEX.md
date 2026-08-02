@@ -6,7 +6,7 @@
 Problems appear under the focused topic tags recorded in their README metadata.
 
 <details>
-<summary>Array (153)</summary>
+<summary>Array (154)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -128,6 +128,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1679 | [Max Number of K-Sum Pairs](../problems/1679-max-number-of-k-sum-pairs) | Medium | 2026-06-30 |
 | #1684 | [Count the Number of Consistent Strings](../problems/1684-count-the-number-of-consistent-strings) | Easy | 2026-06-13 |
 | #1700 | [Number of Students Unable to Eat Lunch](../problems/1700-number-of-students-unable-to-eat-lunch) | Easy | 2026-06-10 |
+| #1706 | [Where Will the Ball Fall](../problems/1706-where-will-the-ball-fall) | Medium | 2026-08-02 |
 | #1720 | [Decode XORed Array](../problems/1720-decode-xored-array) | Easy | 2026-06-12 |
 | #1732 | [Find the Highest Altitude](../problems/1732-find-the-highest-altitude) | Easy | 2026-06-19 |
 | #1748 | [Sum of Unique Elements](../problems/1748-sum-of-unique-elements) | Easy | 2026-06-25 |
@@ -632,7 +633,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Matrix (18)</summary>
+<summary>Matrix (19)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -652,6 +653,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1572 | [Matrix Diagonal Sum](../problems/1572-matrix-diagonal-sum) | Easy | 2026-07-04 |
 | #1582 | [Special Positions in a Binary Matrix](../problems/1582-special-positions-in-a-binary-matrix) | Easy | 2026-06-25 |
 | #1672 | [Richest Customer Wealth](../problems/1672-richest-customer-wealth) | Easy | 2026-05-19 |
+| #1706 | [Where Will the Ball Fall](../problems/1706-where-will-the-ball-fall) | Medium | 2026-08-02 |
 | #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |
 | #2373 | [Largest Local Values in a Matrix](../problems/2373-largest-local-values-in-a-matrix) | Easy | 2026-07-20 |
 
@@ -828,7 +830,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Simulation (27)</summary>
+<summary>Simulation (28)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -854,6 +856,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1539 | [Kth Missing Positive Number](../problems/1539-kth-missing-positive-number) | Easy | 2026-07-29 |
 | #1603 | [Design Parking System](../problems/1603-design-parking-system) | Easy | 2026-06-07 |
 | #1700 | [Number of Students Unable to Eat Lunch](../problems/1700-number-of-students-unable-to-eat-lunch) | Easy | 2026-06-10 |
+| #1706 | [Where Will the Ball Fall](../problems/1706-where-will-the-ball-fall) | Medium | 2026-08-02 |
 | #1816 | [Truncate Sentence](../problems/1816-truncate-sentence) | Easy | 2026-07-30 |
 | #1920 | [Build Array from Permutation](../problems/1920-build-array-from-permutation) | Easy | 2026-05-18 |
 | #1929 | [Concatenation of Array](../problems/1929-concatenation-of-array) | Easy | 2026-05-18 |

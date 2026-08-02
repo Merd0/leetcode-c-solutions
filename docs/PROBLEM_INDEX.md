@@ -5,7 +5,7 @@
 
 This is the canonical archive of accepted solutions. Attempts are counted separately.
 
-Accepted: **257** | Easy: **153** | Medium: **100** | Hard: **4** | Open attempts: **1**
+Accepted: **258** | Easy: **153** | Medium: **101** | Hard: **4** | Open attempts: **1**
 
 <details open>
 <summary>#0000-#0999 (160 problems)</summary>
@@ -176,7 +176,7 @@ Accepted: **257** | Easy: **153** | Medium: **100** | Hard: **4** | Open attempt
 </details>
 
 <details>
-<summary>#1000-#1999 (68 problems)</summary>
+<summary>#1000-#1999 (69 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
@@ -230,6 +230,7 @@ Accepted: **257** | Easy: **153** | Medium: **100** | Hard: **4** | Open attempt
 | #1684 | [Count the Number of Consistent Strings](../problems/1684-count-the-number-of-consistent-strings) | Easy | Array | Mark the allowed letters once, then validate every character of each word. | 2026-06-13 |
 | #1700 | [Number of Students Unable to Eat Lunch](../problems/1700-number-of-students-unable-to-eat-lunch) | Easy | Array | The order of students stops mattering once only their remaining preferences are counted. | 2026-06-10 |
 | #1704 | [Determine if String Halves Are Alike](../problems/1704-determine-if-string-halves-are-alike) | Easy | String | Count vowels separately before and after the middle index. | 2026-06-15 |
+| #1706 | [Where Will the Ball Fall](../problems/1706-where-will-the-ball-fall) | Medium | Array | Follow each ball row by row and validate both sides of every diagonal move. | 2026-08-02 |
 | #1720 | [Decode XORed Array](../problems/1720-decode-xored-array) | Easy | Array | XOR the known current value with its encoded pair to recover the next value. | 2026-06-12 |
 | #1732 | [Find the Highest Altitude](../problems/1732-find-the-highest-altitude) | Easy | Array | Start at altitude `0` and keep a running altitude after each gain. | 2026-06-19 |
 | #1748 | [Sum of Unique Elements](../problems/1748-sum-of-unique-elements) | Easy | Array | Count each value first, then add only values whose count is exactly one. | 2026-06-25 |
