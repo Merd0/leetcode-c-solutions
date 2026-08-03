@@ -6,7 +6,7 @@
 Problems appear under the focused topic tags recorded in their README metadata.
 
 <details>
-<summary>Array (154)</summary>
+<summary>Array (155)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -145,6 +145,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #2006 | [Count Number of Pairs With Absolute Difference K](../problems/2006-count-number-of-pairs-with-absolute-difference-k) | Easy | 2026-07-27 |
 | #2073 | [Time Needed to Buy Tickets](../problems/2073-time-needed-to-buy-tickets) | Easy | 2026-07-07 |
 | #2090 | [K Radius Subarray Averages](../problems/2090-k-radius-subarray-averages) | Medium | 2026-07-22 |
+| #2103 | [Rings and Rods](../problems/2103-rings-and-rods) | Easy | 2026-08-03 |
 | #2108 | [Find First Palindromic String in the Array](../problems/2108-find-first-palindromic-string-in-the-array) | Easy | 2026-07-27 |
 | #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |
 | #2126 | [Destroying Asteroids](../problems/2126-destroying-asteroids) | Medium | 2026-05-31 |
@@ -830,7 +831,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Simulation (28)</summary>
+<summary>Simulation (29)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -860,6 +861,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1816 | [Truncate Sentence](../problems/1816-truncate-sentence) | Easy | 2026-07-30 |
 | #1920 | [Build Array from Permutation](../problems/1920-build-array-from-permutation) | Easy | 2026-05-18 |
 | #1929 | [Concatenation of Array](../problems/1929-concatenation-of-array) | Easy | 2026-05-18 |
+| #2103 | [Rings and Rods](../problems/2103-rings-and-rods) | Easy | 2026-08-03 |
 | #2161 | [Partition Array According to Given Pivot](../problems/2161-partition-array-according-to-given-pivot) | Medium | 2026-06-08 |
 | #3507 | [Minimum Pair Removal to Sort Array I](../problems/3507-minimum-pair-removal-to-sort-array-i) | Easy | 2026-05-30 |
 
@@ -986,7 +988,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>String (63)</summary>
+<summary>String (64)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -1048,6 +1050,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1784 | [Check if Binary String Has at Most One Segment of Ones](../problems/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy | 2026-07-04 |
 | #1816 | [Truncate Sentence](../problems/1816-truncate-sentence) | Easy | 2026-07-30 |
 | #2000 | [Reverse Prefix of Word](../problems/2000-reverse-prefix-of-word) | Easy | 2026-06-14 |
+| #2103 | [Rings and Rods](../problems/2103-rings-and-rods) | Easy | 2026-08-03 |
 | #2108 | [Find First Palindromic String in the Array](../problems/2108-find-first-palindromic-string-in-the-array) | Easy | 2026-07-27 |
 | #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |
 | #3093 | [Longest Common Suffix Queries](../problems/3093-longest-common-suffix-queries) | Hard | 2026-05-29 |

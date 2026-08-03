@@ -5,7 +5,7 @@
 
 This is the canonical archive of accepted solutions. Attempts are counted separately.
 
-Accepted: **258** | Easy: **153** | Medium: **101** | Hard: **4** | Open attempts: **1**
+Accepted: **259** | Easy: **154** | Medium: **101** | Hard: **4** | Open attempts: **1**
 
 <details open>
 <summary>#0000-#0999 (160 problems)</summary>
@@ -253,7 +253,7 @@ Accepted: **258** | Easy: **153** | Medium: **101** | Hard: **4** | Open attempt
 </details>
 
 <details>
-<summary>#2000-#2999 (18 problems)</summary>
+<summary>#2000-#2999 (19 problems)</summary>
 
 | # | Problem | Difficulty | Primary topic | Approach | Solved |
 | ---: | --- | --- | --- | --- | --- |
@@ -261,6 +261,7 @@ Accepted: **258** | Easy: **153** | Medium: **101** | Hard: **4** | Open attempt
 | #2006 | [Count Number of Pairs With Absolute Difference K](../problems/2006-count-number-of-pairs-with-absolute-difference-k) | Easy | Array | Start the second index at `i + 1` so every valid index pair is checked exactly once. | 2026-07-27 |
 | #2073 | [Time Needed to Buy Tickets](../problems/2073-time-needed-to-buy-tickets) | Easy | Array | Do not physically move array elements. Rotate an index. | 2026-07-07 |
 | #2090 | [K Radius Subarray Averages](../problems/2090-k-radius-subarray-averages) | Medium | Array | Reuse the previous `2 * k + 1` window sum by removing one value and adding one value. | 2026-07-22 |
+| #2103 | [Rings and Rods](../problems/2103-rings-and-rods) | Easy | Array | Store three color-presence flags for each of the ten rods. | 2026-08-03 |
 | #2108 | [Find First Palindromic String in the Array](../problems/2108-find-first-palindromic-string-in-the-array) | Easy | Array | Compare each word from both ends and return immediately after the first complete match. | 2026-07-27 |
 | #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | Array | Multiply each non-empty row's device count by the previous non-empty row's count. | 2026-07-21 |
 | #2126 | [Destroying Asteroids](../problems/2126-destroying-asteroids) | Medium | Array | Destroy smaller asteroids first so mass grows as safely as possible. | 2026-05-31 |
