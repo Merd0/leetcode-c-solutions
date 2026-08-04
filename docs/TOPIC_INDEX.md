@@ -431,7 +431,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Greedy (14)</summary>
+<summary>Greedy (15)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -444,6 +444,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #0649 | [Dota2 Senate](../problems/0649-dota2-senate) | Medium | 2026-07-13 |
 | #0680 | [Valid Palindrome II](../problems/0680-valid-palindrome-ii) | Easy | 2026-05-22 |
 | #1827 | [Minimum Operations to Make the Array Increasing](../problems/1827-minimum-operations-to-make-the-array-increasing) | Easy | 2026-06-19 |
+| #1974 | [Minimum Time to Type Word Using Special Typewriter](../problems/1974-minimum-time-to-type-word-using-special-typewriter) | Easy | 2026-08-04 |
 | #2126 | [Destroying Asteroids](../problems/2126-destroying-asteroids) | Medium | 2026-05-31 |
 | #2144 | [Minimum Cost of Buying Candies With Discount](../problems/2144-minimum-cost-of-buying-candies-with-discount) | Easy | 2026-06-01 |
 | #3633 | [Earliest Finish Time for Land and Water Rides I](../problems/3633-earliest-finish-time-for-land-and-water-rides-i) | Easy | 2026-06-02 |
@@ -595,7 +596,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Math (31)</summary>
+<summary>Math (32)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -627,6 +628,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1512 | [Number of Good Pairs](../problems/1512-number-of-good-pairs) | Easy | 2026-06-22 |
 | #1822 | [Sign of the Product of an Array](../problems/1822-sign-of-the-product-of-an-array) | Easy | 2026-06-17 |
 | #1925 | [Count Square Sum Triples](../problems/1925-count-square-sum-triples) | Easy | 2026-06-18 |
+| #1974 | [Minimum Time to Type Word Using Special Typewriter](../problems/1974-minimum-time-to-type-word-using-special-typewriter) | Easy | 2026-08-04 |
 | #1979 | [Find Greatest Common Divisor of Array](../problems/1979-find-greatest-common-divisor-of-array) | Easy | 2026-06-26 |
 | #3300 | [Minimum Element After Replacement With Digit Sum](../problems/3300-minimum-element-after-replacement-with-digit-sum) | Easy | 2026-05-30 |
 | #3751 | [Total Waviness of Numbers in Range I](../problems/3751-total-waviness-of-numbers-in-range-i) | Medium | 2026-06-04 |
@@ -988,7 +990,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>String (64)</summary>
+<summary>String (65)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -1049,6 +1051,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1773 | [Count Items Matching a Rule](../problems/1773-count-items-matching-a-rule) | Easy | 2026-06-22 |
 | #1784 | [Check if Binary String Has at Most One Segment of Ones](../problems/1784-check-if-binary-string-has-at-most-one-segment-of-ones) | Easy | 2026-07-04 |
 | #1816 | [Truncate Sentence](../problems/1816-truncate-sentence) | Easy | 2026-07-30 |
+| #1974 | [Minimum Time to Type Word Using Special Typewriter](../problems/1974-minimum-time-to-type-word-using-special-typewriter) | Easy | 2026-08-04 |
 | #2000 | [Reverse Prefix of Word](../problems/2000-reverse-prefix-of-word) | Easy | 2026-06-14 |
 | #2103 | [Rings and Rods](../problems/2103-rings-and-rods) | Easy | 2026-08-03 |
 | #2108 | [Find First Palindromic String in the Array](../problems/2108-find-first-palindromic-string-in-the-array) | Easy | 2026-07-27 |
