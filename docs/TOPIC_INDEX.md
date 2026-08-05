@@ -6,7 +6,7 @@
 Problems appear under the focused topic tags recorded in their README metadata.
 
 <details>
-<summary>Array (155)</summary>
+<summary>Array (156)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -147,6 +147,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #2090 | [K Radius Subarray Averages](../problems/2090-k-radius-subarray-averages) | Medium | 2026-07-22 |
 | #2103 | [Rings and Rods](../problems/2103-rings-and-rods) | Easy | 2026-08-03 |
 | #2108 | [Find First Palindromic String in the Array](../problems/2108-find-first-palindromic-string-in-the-array) | Easy | 2026-07-27 |
+| #2120 | [Execution of All Suffix Instructions Staying in a Grid](../problems/2120-execution-of-all-suffix-instructions-staying-in-a-grid) | Medium | 2026-08-05 |
 | #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |
 | #2126 | [Destroying Asteroids](../problems/2126-destroying-asteroids) | Medium | 2026-05-31 |
 | #2144 | [Minimum Cost of Buying Candies With Discount](../problems/2144-minimum-cost-of-buying-candies-with-discount) | Easy | 2026-06-01 |
@@ -833,7 +834,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>Simulation (29)</summary>
+<summary>Simulation (30)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -864,6 +865,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #1920 | [Build Array from Permutation](../problems/1920-build-array-from-permutation) | Easy | 2026-05-18 |
 | #1929 | [Concatenation of Array](../problems/1929-concatenation-of-array) | Easy | 2026-05-18 |
 | #2103 | [Rings and Rods](../problems/2103-rings-and-rods) | Easy | 2026-08-03 |
+| #2120 | [Execution of All Suffix Instructions Staying in a Grid](../problems/2120-execution-of-all-suffix-instructions-staying-in-a-grid) | Medium | 2026-08-05 |
 | #2161 | [Partition Array According to Given Pivot](../problems/2161-partition-array-according-to-given-pivot) | Medium | 2026-06-08 |
 | #3507 | [Minimum Pair Removal to Sort Array I](../problems/3507-minimum-pair-removal-to-sort-array-i) | Easy | 2026-05-30 |
 
@@ -990,7 +992,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 </details>
 
 <details>
-<summary>String (65)</summary>
+<summary>String (66)</summary>
 
 | # | Problem | Difficulty | Solved |
 | ---: | --- | --- | --- |
@@ -1055,6 +1057,7 @@ Problems appear under the focused topic tags recorded in their README metadata.
 | #2000 | [Reverse Prefix of Word](../problems/2000-reverse-prefix-of-word) | Easy | 2026-06-14 |
 | #2103 | [Rings and Rods](../problems/2103-rings-and-rods) | Easy | 2026-08-03 |
 | #2108 | [Find First Palindromic String in the Array](../problems/2108-find-first-palindromic-string-in-the-array) | Easy | 2026-07-27 |
+| #2120 | [Execution of All Suffix Instructions Staying in a Grid](../problems/2120-execution-of-all-suffix-instructions-staying-in-a-grid) | Medium | 2026-08-05 |
 | #2125 | [Number of Laser Beams in a Bank](../problems/2125-number-of-laser-beams-in-a-bank) | Medium | 2026-07-21 |
 | #3093 | [Longest Common Suffix Queries](../problems/3093-longest-common-suffix-queries) | Hard | 2026-05-29 |
 | #3120 | [Count the Number of Special Characters I](../problems/3120-count-the-number-of-special-characters-i) | Easy | 2026-05-27 |
