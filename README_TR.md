@@ -4,16 +4,16 @@
 
 C temellerini algoritma, veri yapısı ve gömülü sistem odaklı problem çözme pratiğine dönüştüren düzenli bir çalışma arşivi.
 
-[İlk 100 Rotası](docs/LEARNING_ROADMAP.md) | [Teknik Rehberi](docs/techniques/tr/README.md) | [Tüm Çözümler](docs/PROBLEM_INDEX.md) | [Konuya Göre Ara](docs/TOPIC_INDEX.md) | [Pratik Blokları](docs/PRACTICE_TRACKS.md) | [Denemeler](docs/ATTEMPTS.md) | [English](README.md)
+[İlk 100 Rotası](docs/LEARNING_ROADMAP.tr.md) | [Teknik Rehberi](docs/techniques/tr/README.md) | [Tüm Çözümler](docs/PROBLEM_INDEX.md) | [Konuya Göre Ara](docs/TOPIC_INDEX.md) | [Pratik Blokları](docs/PRACTICE_TRACKS.tr.md) | [Denemeler](docs/ATTEMPTS.tr.md) | [English](README.md)
 
 ## Nereden Başlamalıyım?
 
-- Temelden sırayla ilerlemek için [İlk 100 öğrenme rotasını](docs/LEARNING_ROADMAP.md) takip et.
+- Temelden sırayla ilerlemek için [İlk 100 öğrenme rotasını](docs/LEARNING_ROADMAP.tr.md) takip et.
 - Bir tekniğin neden ve ne zaman çalıştığını öğrenmek için [35 bölümlük problem çözme teknikleri rehberini](docs/techniques/tr/README.md) aç.
-- Belirli bir çözümü bulmak için [tam problem indeksini](docs/PROBLEM_INDEX.md) aç.
-- Bitwise, matrix, stack, linked list veya sliding window tekrarı için [konu indeksini](docs/TOPIC_INDEX.md) kullan.
-- Gömülü sistem ve elektro-optik hazırlığı için [odaklı pratik bloklarına](docs/PRACTICE_TRACKS.md) geç.
-- Kabul edilmemiş eski bir fikre dönmek için [denemeler belgesini](docs/ATTEMPTS.md) aç.
+- Belirli bir çözümü bulmak için [tam problem indeksini (EN, otomatik)](docs/PROBLEM_INDEX.md) aç.
+- Bitwise, matrix, stack, linked list veya sliding window tekrarı için [konu indeksini (EN, otomatik)](docs/TOPIC_INDEX.md) kullan.
+- Gömülü sistem ve elektro-optik hazırlığı için [odaklı pratik bloklarına](docs/PRACTICE_TRACKS.tr.md) geç.
+- Kabul edilmemiş eski bir fikre dönmek için [denemeler belgesini](docs/ATTEMPTS.tr.md) aç.
 
 Güncel accepted, zorluk dağılımı ve attempt sayıları İngilizce ana sayfadaki script tarafından üretilen [Current Snapshot](README.md#current-snapshot) bölümünde tutulur; aynı sayı farklı belgelerde elle tekrarlanmaz.
 
@@ -21,13 +21,13 @@ Güncel accepted, zorluk dağılımı ve attempt sayıları İngilizce ana sayfa
 
 | İhtiyaç | Git |
 | --- | --- |
-| Hangi sırayla çözmeliyim? | [Learning roadmap](docs/LEARNING_ROADMAP.md) |
+| Hangi sırayla çözmeliyim? | [Türkçe İlk 100 rotası](docs/LEARNING_ROADMAP.tr.md) |
 | Tekniklerin teorisi, seçim sinyalleri ve C kalıpları nerede? | [Türkçe teknik rehberi](docs/techniques/tr/README.md) |
-| Bütün accepted çözümler nerede? | [Problem index](docs/PROBLEM_INDEX.md) |
-| Belirli bir algoritma konusu nerede? | [Topic index](docs/TOPIC_INDEX.md) |
-| Embedded, matrix ve veri yapısı blokları nerede? | [Practice tracks](docs/PRACTICE_TRACKS.md) |
-| TLE veya eksik denemeler nerede? | [Attempts](docs/ATTEMPTS.md) |
-| Yeni problem nasıl eklenir? | [Adding a problem](docs/ADDING_A_PROBLEM.md) |
+| Bütün accepted çözümler nerede? | [Problem index (EN, otomatik)](docs/PROBLEM_INDEX.md) |
+| Belirli bir algoritma konusu nerede? | [Topic index (EN, otomatik)](docs/TOPIC_INDEX.md) |
+| Embedded, matrix ve veri yapısı blokları nerede? | [Türkçe pratik blokları](docs/PRACTICE_TRACKS.tr.md) |
+| TLE veya eksik denemeler nerede? | [Türkçe denemeler](docs/ATTEMPTS.tr.md) |
+| Yeni problem nasıl eklenir? | [Adding a problem (EN)](docs/ADDING_A_PROBLEM.md) |
 
 ## Problem Klasörü
 
