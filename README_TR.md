@@ -4,7 +4,7 @@
 
 C temellerini algoritma, veri yapısı ve gömülü sistem odaklı problem çözme pratiğine dönüştüren düzenli bir çalışma arşivi.
 
-[İlk 100 Rotası](docs/LEARNING_ROADMAP.tr.md) | [Teknik Rehberi](docs/techniques/tr/README.md) | [Tüm Çözümler](docs/PROBLEM_INDEX.md) | [Konuya Göre Ara](docs/TOPIC_INDEX.md) | [Pratik Blokları](docs/PRACTICE_TRACKS.tr.md) | [Denemeler](docs/ATTEMPTS.tr.md) | [English](README.md)
+[İlk 100 Rotası](docs/LEARNING_ROADMAP.tr.md) | [Teknik Rehberi](docs/techniques/tr/README.md) | [Tüm Çözümler (EN, otomatik)](docs/PROBLEM_INDEX.md) | [Konu İndeksi (EN, otomatik)](docs/TOPIC_INDEX.md) | [Pratik Blokları](docs/PRACTICE_TRACKS.tr.md) | [Denemeler](docs/ATTEMPTS.tr.md) | [English](README.md)
 
 ## Nereden Başlamalıyım?
 
